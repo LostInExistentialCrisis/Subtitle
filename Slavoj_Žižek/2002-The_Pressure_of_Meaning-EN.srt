@@ -1,0 +1,5062 @@
+1
+00:00:00,641 --> 00:00:02,474
+the guy get to deliver speeches, they don't know what.
+
+2
+00:00:03,300 --> 00:00:05,737
+So they use this water and they drink more,
+
+3
+00:00:06,341 --> 00:00:08,353
+they go on drinking, so they tend to do it.
+
+4
+00:00:09,400 --> 00:00:10,029
+Okay, all right.
+
+5
+00:00:12,581 --> 00:00:17,059
+Well, welcome, I'm Jennifer Williams from the Department of English here at Calvin.
+
+6
+00:00:17,342 --> 00:00:18,440
+Woo, woo, woo!
+
+7
+00:00:19,881 --> 00:00:24,415
+And on behalf of the Center for Christian Scholarship, the Office of Multicultural Affairs,
+
+8
+00:00:25,040 --> 00:00:26,236
+the Office of the Provost,
+
+9
+00:00:26,540 --> 00:00:28,577
+the Department of Communication Arts and Sciences,
+
+10
+00:00:28,980 --> 00:00:34,299
+Department of English, the Department of Philosophy, the Department of Art History, and the Metanexis
+
+11
+00:00:34,681 --> 00:00:40,477
+Institute's Local Societies Initiative, welcome to Calvary College and the lecture by Slavoj Zizek.
+
+12
+00:00:41,580 --> 00:00:47,489
+A couple of brief announcements first, there is an overflow room if you don't want to sit on the floor.
+
+13
+00:00:48,220 --> 00:01:02,724
+It's over in the Seminary Chapel and there's some kind of closed circuit thing so that You can still hear and experience the whole lecture, but you're welcome to continue to be a fire hazard if you like.
+
+14
+00:01:04,620 --> 00:01:12,084
+It is a full room, so if there are any empty seats in the middle, if you could consolidate so that those empty seats are now on the outside, that would be nice.
+
+15
+00:01:14,441 --> 00:01:16,119
+Tonight's lecture is being recorded.
+
+16
+00:01:16,341 --> 00:01:20,812
+If you're interested in finding out how to get a copy of that, please make sure you put your name down on.
+
+17
+00:01:21,980 --> 00:01:24,797
+We have a pad of paper that says recording signs up.
+
+18
+00:01:25,420 --> 00:01:27,019
+there's one in both of these main doors.
+
+19
+00:01:27,140 --> 00:01:29,313
+So please make sure you put your name and information down.
+
+20
+00:01:30,480 --> 00:01:34,338
+And then finally, we were just curious to know who you all are.
+
+21
+00:01:34,621 --> 00:01:41,680
+So rather than have us all go around the room and introduce ourselves, there are sort of sign-up books at both sides.
+
+22
+00:01:42,063 --> 00:01:44,946
+And again, we would just love to have your signature just as a record of you being here.
+
+23
+00:01:47,001 --> 00:01:52,772
+My first encounter with Zizek's work occurred back in grad school, where I suppose all these things begin.
+
+24
+00:01:53,501 --> 00:02:00,113
+I was trying to use Kierkegaard as a theoretical model for an argument about modernism that I was trying to make in my dissertation.
+
+25
+00:02:00,741 --> 00:02:05,217
+And one of my advisors was just absolutely adamant that such a thing could not be done.
+
+26
+00:02:05,681 --> 00:02:11,914
+And she said that to have a dissertation with Kierkegaard, Gertrude Stein, and Conrad would just be weird.
+
+27
+00:02:13,120 --> 00:02:14,713
+And as you can tell, I'm scarred for life.
+
+28
+00:02:15,600 --> 00:02:24,755
+So I spent many days poring over books and articles and all kinds of things to see if I could find that perfect quote that would allow me to link all these things together.
+
+29
+00:02:25,762 --> 00:02:28,956
+And one night, a friend of mine from grad school, Jim, emailed me.
+
+30
+00:02:29,241 --> 00:02:31,737
+He had found a page from the ticklish subject
+
+31
+00:02:32,401 --> 00:02:34,775
+and had typed it out in its entirety in the email.
+
+32
+00:02:35,801 --> 00:02:37,593
+To my delight, there enough, on page 211,
+
+33
+00:02:38,741 --> 00:02:42,654
+Zizek makes the connection between Kierkegaard and Monardini that I was miss-seeking.
+
+34
+00:02:43,501 --> 00:02:45,054
+So I wrote back to Jim, this is great.
+
+35
+00:02:45,881 --> 00:02:47,739
+This is great, but what does it mean?
+
+36
+00:02:47,900 --> 00:02:48,909
+What does Zizek mean?
+
+37
+00:02:50,261 --> 00:02:53,089
+To which Jim replied, and he'll excuse me, Who the hell knows?
+
+38
+00:02:54,180 --> 00:02:58,175
+But if Zizek is writing about Kierkegaard, then you know it's important and you can do it too.
+
+39
+00:03:05,856 --> 00:03:11,540
+And this is the same friend, I should say, who was given a t-shirt by his then girlfriend, now wife.
+
+40
+00:03:11,640 --> 00:03:13,469
+And the t-shirt had the initials WWZS.
+
+41
+00:03:15,600 --> 00:03:16,225
+What would Zizek say?
+
+42
+00:03:18,061 --> 00:03:21,606
+And Jim told me later he almost proposed to her right on the spot right there.
+
+43
+00:03:23,821 --> 00:03:29,693
+Much have been said, of course, about Zizek's use of pop cultural references alongside these sort of major philosophical works.
+
+44
+00:03:30,885 --> 00:03:33,378
+But I find that that's something that really is delightful about his work.
+
+45
+00:03:33,661 --> 00:03:43,974
+And one of my favorite features of The Fragile Absolute is that I can think of no other work in which Keanu Reeves and Hegel share the same page in an index.
+
+46
+00:03:45,140 --> 00:03:49,671
+But most importantly for me in my work is Zizek's engagement with Christianity in the Christian tradition.
+
+47
+00:03:50,481 --> 00:04:03,174
+Zizek's claim about the radical ethical and political capabilities of what some have declared to be the most foundational and universalist of all foundational and universalist traditions, Christianity, are very invigorating.
+
+48
+00:04:04,280 --> 00:04:09,437
+In grad school, it was my experience that nobody talked about Christianity unless, of course, you wanted to critique it.
+
+49
+00:04:09,640 --> 00:04:20,883
+And even when philosophers like Jacques Derrida or Alain Badiou would talk about Christianity, it was because they were making religious turns in their old age, as opposed to seriously interrogating the work.
+
+50
+00:04:22,241 --> 00:04:23,038
+But not Zizek.
+
+51
+00:04:23,321 --> 00:04:26,072
+And all of this from an avowed atheist to boot.
+
+52
+00:04:28,101 --> 00:04:37,694
+Just to conclude, Stanley Fish recently reviewed Wendy Brown's book Regulating Aversion, Tolerance in the Age of Identity and Empire for the Chronicle of Higher Education.
+
+53
+00:04:38,541 --> 00:04:47,498
+And in that review, Fish concludes by stating, Brown's account of how liberal tolerance, and therefore liberalism works is nuanced embracing.
+
+54
+00:04:47,820 --> 00:04:53,796
+The fact that her analysis does not, and in my view, could not deliver a program for improving the world,
+
+55
+00:04:54,561 --> 00:05:00,618
+or even a set of reasons for rejecting liberal tolerance makes it no different from any other effort, always doomed,
+
+56
+00:05:01,101 --> 00:05:06,471
+to derive a politics from the discourses of postmodernism, anti-essentialism, anti-foundationalism.
+
+57
+00:05:07,480 --> 00:05:16,174
+The title of tonight's lecture, Why Only an Atheist Can Believe, Politics Between Fear and Trembling, leads me to think Zizek may have something to say about such claims.
+
+58
+00:05:16,821 --> 00:05:20,302
+So without further delay, please join me in welcoming Slavo Zizek.
+
+59
+00:05:32,320 --> 00:05:32,991
+Thank you very much.
+
+60
+00:05:33,621 --> 00:05:34,698
+I'm really glad to be here.
+
+61
+00:05:34,820 --> 00:05:38,500
+Thank you very much for this nice, maybe too nice introduction.
+
+62
+00:05:38,520 --> 00:05:39,593
+What I mean is the following.
+
+63
+00:05:40,240 --> 00:05:49,071
+When I hear such gentle and nice words, I always start to look behind my back like, who is that real me you were addressing?
+
+64
+00:05:50,020 --> 00:05:52,559
+It's too much for me to recognize myself in it.
+
+65
+00:05:52,700 --> 00:06:06,117
+And now comes the evil point that the name of this gap between what I experience as my immediate self-identity and the symbolic identity that
+
+66
+00:06:07,320 --> 00:06:17,919
+constitutes my public image, that X that you are describing, the name of this gap in psychonetic theory is symbolic castration.
+
+67
+00:06:18,060 --> 00:06:21,659
+So thanks very much for a castrating experience.
+
+68
+00:06:21,981 --> 00:06:23,053
+Good beginning, okay.
+
+69
+00:06:23,660 --> 00:06:26,956
+But let's go on in a little bit more serious way.
+
+70
+00:06:27,800 --> 00:06:32,977
+I hope you will not be bored, the beginning is a little bit more difficult than maybe things happen.
+
+71
+00:06:33,283 --> 00:06:33,467
+Okay.
+
+72
+00:06:34,140 --> 00:06:41,540
+I would like to begin with something probably known to most of you, maybe all of you,
+
+73
+00:06:41,800 --> 00:06:48,216
+two Hollywood productions released to mark the fifth anniversary of the September 11th.
+
+74
+00:06:49,640 --> 00:06:56,056
+Paul Greengrass's United 93 and Oliver Stone's World Trade Center.
+
+75
+00:06:56,056 --> 00:07:02,634
+The first thing that strikes the eye is that both films try to be as anti-Hollywood as possible.
+
+76
+00:07:02,634 --> 00:07:11,460
+They both focus on the courage of ordinary people with no glamorous stars, no special effects, no grandiloquent heroic
+
+77
+00:07:11,801 --> 00:07:19,297
+gestures, just a terse realistic depiction of ordinary people in extraordinary circumstances.
+
+78
+00:07:20,500 --> 00:07:27,838
+It is, however, this very touch of authenticity which raises, I think, some disturbing questions.
+
+79
+00:07:28,660 --> 00:07:34,938
+The first thing one cannot but note is how both films tell the story of an exception.
+
+80
+00:07:35,700 --> 00:07:45,115
+United 93 is about the only one of the four kidnapped planes in which the terrorists failed, which did not hit its destination.
+
+81
+00:07:45,840 --> 00:07:57,518
+World Trade Center tells the story of the two of those 20 or so policemen, firemen, who were saved from the ruins of World Trade Center.
+
+82
+00:07:58,240 --> 00:08:03,630
+The disaster is thus turned into a kind of triumph, most notably in United 93.
+
+83
+00:08:05,600 --> 00:08:10,873
+Here, a comparison with Spielberg's Schindler's List is instructive.
+
+84
+00:08:11,600 --> 00:08:21,879
+Although I think Schindler's List is a failure, the idea to choose Schindler as a hero was a correct one.
+
+85
+00:08:22,280 --> 00:08:32,737
+It is precisely by focusing on a German who did something to help the Jews, that one demonstrates how it was possible to do something,
+
+86
+00:08:33,120 --> 00:08:41,336
+and thus to condemn those who did nothing, claiming that the regime was so totalitarian, it was not possible to do anything, and so on.
+
+87
+00:08:42,021 --> 00:08:52,796
+In United 93, on the contrary, the focus on the rebellion serves the purpose of preventing us to ask the truly pertinent questions.
+
+88
+00:08:53,300 --> 00:08:56,938
+That is to say, let us indulge in a simple mental experiment.
+
+89
+00:08:57,320 --> 00:09:04,437
+Let us imagine both films, United 93, World Trade Center with the same change.
+
+90
+00:09:04,960 --> 00:09:06,549
+Let us say that instead of United 93,
+
+91
+00:09:08,500 --> 00:09:15,938
+we would get a film called American 11, the name of another flight which did hit its target.
+
+92
+00:09:16,341 --> 00:09:30,516
+Or let us imagine World Trade Center remade as the story of two of the firefighters or policemen who did die in the rubble of the Twin Towers after postponed prolonged suffering,
+
+93
+00:09:31,280 --> 00:09:37,296
+without in any way justifying the terrible crime or showing an understanding for it.
+
+94
+00:09:37,900 --> 00:09:42,888
+Such aversion would confront us with the true horror of the situation.
+
+95
+00:09:44,121 --> 00:09:53,355
+It would thus compel us to think, to start asking serious questions about how such a thing could have happened and what does it mean.
+
+96
+00:09:54,340 --> 00:10:07,679
+The second feature, both films restrain not only from taking a political stance about the events, but even from depicting their larger political contacts.
+
+97
+00:10:08,100 --> 00:10:17,478
+That is to say, neither the passengers on United 93 flight nor the policemen in World Trade Center have a grasp on the full picture.
+
+98
+00:10:17,780 --> 00:10:24,855
+All of a sudden, they find themselves thrown into a terrifying situation, and they have to make the best out of it.
+
+99
+00:10:25,740 --> 00:10:31,295
+This lack of what Frederic Jameson would have called cognitive mapping is crucial.
+
+100
+00:10:32,040 --> 00:10:42,437
+Both films depict ordinary people affected by the sudden brutal intrusion of history with a capital H, the invisible real that hurts.
+
+101
+00:10:43,100 --> 00:10:45,555
+All we see are the disastrous effects.
+
+102
+00:10:46,360 --> 00:10:48,456
+So that in the case of World Trade Center,
+
+103
+00:10:49,060 --> 00:10:56,258
+One can easily imagine exactly the same film in which the Twin Towers would have collapsed,
+
+104
+00:10:56,700 --> 00:11:01,576
+not because of the terrorist attack, but due, let us say, to a strong earthquake.
+
+105
+00:11:02,020 --> 00:11:05,855
+Or even more problematically, we can imagine the same film,
+
+106
+00:11:07,040 --> 00:11:12,297
+the same narrative at least, taking place, for example, to be really evil in a big German city
+
+107
+00:11:12,780 --> 00:11:17,178
+in the winter of 1944 after a devastating Allied bombing.
+
+108
+00:11:17,860 --> 00:11:30,638
+Or even more evil surmise, what about the same film taking place in a bombed high-rise building in southern Beirut during the last Lebanon-Israel conflict?
+
+109
+00:11:31,261 --> 00:11:32,195
+And that's the point.
+
+110
+00:11:32,541 --> 00:11:33,875
+It cannot take place there.
+
+111
+00:11:34,461 --> 00:11:43,253
+Such a film taking place in southern Beirut would have been immediately dismissed as a subtle pro-Hezbollah terrorist propaganda or something similar.
+
+112
+00:11:43,720 --> 00:11:53,794
+What this means is that the two films message ideological, political message, resides in their very abstention from delivering a message.
+
+113
+00:11:54,620 --> 00:12:01,258
+This abstention is sustained by an implicit trust into one's government.
+
+114
+00:12:01,500 --> 00:12:05,679
+When the enemy attacks, one just don't think, do your duty.
+
+115
+00:12:06,060 --> 00:12:11,580
+This is what I call Britney Spears' theory of action.
+
+116
+00:12:11,740 --> 00:12:19,219
+Because effectively, I remember two years ago, seeing Britney Spears' interview on MTV, She was asked, what does she think about Iraq and so on?
+
+117
+00:12:19,340 --> 00:12:21,539
+And she said, I don't quite understand it.
+
+118
+00:12:21,760 --> 00:12:28,096
+All I know is that at a certain point, we ordinary people should simply trust our president.
+
+119
+00:12:29,080 --> 00:12:39,255
+This brings us back to our starting point, to the concrete character of the two films depicting ordinary people in a terse realistic mode.
+
+120
+00:12:40,100 --> 00:12:49,177
+Now, we philosophers know Kegel's counter-intuitive use of the opposition of abstract and concrete.
+
+121
+00:12:49,700 --> 00:13:00,938
+As you all know in our ordinary language, abstract are general notions, as opposed to concrete, really existing singular objects and events.
+
+122
+00:13:01,441 --> 00:13:03,038
+Talking does not exist.
+
+123
+00:13:03,381 --> 00:13:07,334
+I, maybe, I'm not so sure, exist here now talking to you.
+
+124
+00:13:09,321 --> 00:13:14,316
+For Hegel, on the contrary, it is such immediate reality which is abstract.
+
+125
+00:13:14,640 --> 00:13:22,618
+And to render it concrete means to deploy the complex universal context that gives meaning to it.
+
+126
+00:13:23,020 --> 00:13:25,952
+Let me give you an example which is fictional because I don't smoke.
+
+127
+00:13:26,700 --> 00:13:39,076
+If I were to smoke here for Hegel, the most abstract approach would have been simply to present me here as this really existing individual smoking.
+
+128
+00:13:39,481 --> 00:13:54,276
+A concrete approach would have been to render visible, to articulate the complex historical, social, economic, ideological context which has to be here so that I can smoke here.
+
+129
+00:13:55,400 --> 00:14:01,277
+European colonization of Latin America where, if I am correctly informed, smoking comes
+
+130
+00:14:02,560 --> 00:14:14,818
+from then the development of industry, plantations, or in a more delicate way, why do we have have to smoke, stress of work, relaxation and so on.
+
+131
+00:14:15,140 --> 00:14:30,218
+All this context has to be here so that this pseudo-concrete reality can happen and that wider context, this is what we call dialectical mediation, is what for Hegel is concrete.
+
+132
+00:14:31,160 --> 00:14:33,676
+And back to the two films, here is the problem.
+
+133
+00:14:34,400 --> 00:14:37,195
+Both are abstract in the Hegelian sense.
+
+134
+00:14:38,200 --> 00:14:51,078
+The function of their down-to-earth depiction of concrete individuals struggling for life is not just to avoid cheap commercial spectacle, but to obliterate the historical context.
+
+135
+00:14:51,700 --> 00:15:04,237
+Here then is where we are five years later, still unable to locate September 11 into a large narrative, to provide some kind of generally acceptable cognitive mapping.
+
+136
+00:15:05,340 --> 00:15:06,683
+The third feature.
+
+137
+00:15:06,683 --> 00:15:14,424
+In both films, there is a key moment which violates the terse realistic style.
+
+138
+00:15:14,424 --> 00:15:19,339
+United 93 starts with kidnappers in a motel room, praying, getting ready.
+
+139
+00:15:19,339 --> 00:15:23,732
+They look austere, like some kind of angels of death.
+
+140
+00:15:23,732 --> 00:15:29,007
+And the first shot, after the title credits, confirms this impression.
+
+141
+00:15:29,007 --> 00:15:40,139
+It is a panoramic shot from high above, Manhattan in the night, camera moving above the streets, accompanied by the sound of the kidnappers' prayers,
+
+142
+00:15:40,163 --> 00:15:48,478
+as if the kidnappers stroll above the city, getting ready to descend on earth to ripe their deadly harvest.
+
+143
+00:15:49,282 --> 00:15:55,289
+Similarly, there are no direct shots of the planes hitting the Twin Towers in World Trade Center.
+
+144
+00:15:55,860 --> 00:16:07,279
+All that we see seconds before the catastrophe is when one of the policemen is on a busy Street, an ominous shadow quickly passing over the crowd there.
+
+145
+00:16:07,500 --> 00:16:13,731
+Of course, we know, retrospectively, the shadow of the first plane seconds before it will hit its target.
+
+146
+00:16:15,121 --> 00:16:25,537
+These shots confirm on both films a strange theological reverberation, as if the attacks were a kind of divine intervention.
+
+147
+00:16:25,920 --> 00:16:26,529
+What do I mean by this?
+
+148
+00:16:27,280 --> 00:16:33,917
+Recall the first reaction of Jerry Falwell and Pat Robertson to the September 11th bombings.
+
+149
+00:16:35,080 --> 00:16:49,068
+You remember the scandal, of course, because they perceived the bombings as a sign that God lifted up its protection of the United States because of the sinful way of life of contemporary Americans.
+
+150
+00:16:50,760 --> 00:17:02,778
+They put the blame on hedonist materialism, liberalism, rampant sexuality, basically claiming exactly the same thing as Muslim fundamentalists, that America got what it deserved.
+
+151
+00:17:03,480 --> 00:17:15,639
+Now in a hidden way, I think, United 93 and World Trade Center tend to do the opposite, but within the same frame, to read the September 11th catastrophe as a blessing in disguise,
+
+152
+00:17:16,382 --> 00:17:24,531
+as a divine intervention from above, destined to awaken us from moral slumber and to bring out the best in us.
+
+153
+00:17:25,820 --> 00:17:32,950
+World Trade Center ends with the off-screen works of an anonymous narrator which spells out this message.
+
+154
+00:17:33,740 --> 00:17:39,217
+Terrible events like the Twin Towers destruction bring out in people the worst and the best.
+
+155
+00:17:40,300 --> 00:17:44,798
+People are shown to be able to do things they would never imagine of being able.
+
+156
+00:17:45,320 --> 00:17:57,357
+So it is as if our societies need a major catastrophe in order to resuscitate the spirit of communal solidarity.
+
+157
+00:17:58,440 --> 00:18:02,080
+Now, here things get really interesting.
+
+158
+00:18:02,120 --> 00:18:04,032
+They bring us to our topic.
+
+159
+00:18:05,260 --> 00:18:16,798
+I don't think this is anything bad, because I think that if you look in a much more refined, delicate way, these big science fiction catastrophe movies.
+
+160
+00:18:17,240 --> 00:18:26,917
+I think that they are one of the last places where we can still discern some kind of utopian socialist element in Hollywood.
+
+161
+00:18:27,140 --> 00:18:33,120
+I always think that this big catastrophe, spectacular destruction that we see is basically a lure.
+
+162
+00:18:33,261 --> 00:18:34,852
+It's here to deceive us.
+
+163
+00:18:36,121 --> 00:18:47,171
+The truly fascinating thing is what happens as a byproduct, the sudden supsurge of solidarity, dedication, communal love, and so on, and so on.
+
+164
+00:18:47,620 --> 00:18:50,559
+And the message is basically, again, a sad one.
+
+165
+00:18:50,740 --> 00:19:01,179
+It is that the only way in our society is to imagine this kind of solidarity activity is against the background of a catastrophe.
+
+166
+00:19:01,540 --> 00:19:05,951
+But now let me move to what really disturbs me in these two films.
+
+167
+00:19:06,920 --> 00:19:23,935
+Implicitly, I claim, they not justify, but how should I put it, contextualize or provide the interpretation of the events as part of some deeper meaning,
+
+168
+00:19:26,400 --> 00:19:32,935
+how should I put it, in the sense of these events really happened in order to awaken us.
+
+169
+00:19:33,940 --> 00:19:36,074
+a secret teleology built in them.
+
+170
+00:19:36,960 --> 00:19:40,473
+They are terrible, but a blessing in disguise.
+
+171
+00:19:42,540 --> 00:19:52,119
+Of course, this brings us to certain teleological and theological reading of history, which I think precisely
+
+172
+00:19:52,440 --> 00:20:00,616
+if we want to remain faithful to Judeo-Christian legacy, we should unconditionally reject.
+
+173
+00:20:01,360 --> 00:20:14,360
+This, I claim, false teleology best exemplified by that well-known metaphor of a painting.
+
+174
+00:20:14,440 --> 00:20:26,460
+You know, when something appears discordant, terrifying, horrible to us, it is as if we are looking at the painting, the painting being the universe, from we are too close to it.
+
+175
+00:20:26,580 --> 00:20:27,854
+And it appears as a stain.
+
+176
+00:20:28,480 --> 00:20:36,635
+Like if you look even at the most beautiful painting, whatever you want, Rembrandt, da Vinci, too close you see a stain.
+
+177
+00:20:36,940 --> 00:20:44,396
+You withdraw it, you see how what appeared as a stain contributes to global harmony.
+
+178
+00:20:44,940 --> 00:20:55,720
+But I think that precisely with catastrophes, maybe even much larger, of course, than September 11, like Holocaust, the Stalinist Gulag, and why not?
+
+179
+00:20:55,820 --> 00:20:57,615
+We live in the middle of such a catastrophe.
+
+180
+00:20:58,200 --> 00:21:00,476
+It makes you think why we don't talk more about it.
+
+181
+00:21:01,000 --> 00:21:05,937
+You remember this summer, there was a cover story on the Time magazine.
+
+182
+00:21:06,180 --> 00:21:16,118
+So it's publicly known that in the last 10 years, at least 4 million people died of unnatural causes in Congo.
+
+183
+00:21:16,781 --> 00:21:17,837
+OK, we ignore it.
+
+184
+00:21:18,061 --> 00:21:24,198
+So this should at least make use of speeches of whenever a humanitarian crisis is discovered,
+
+185
+00:21:24,540 --> 00:21:33,280
+The sad lesson is that there is always some political, strategic calculation behind it.
+
+186
+00:21:33,380 --> 00:21:38,797
+But what I want to say, when we witness such a tragedy, let's say Auschwitz, Holocaust,
+
+187
+00:21:39,640 --> 00:21:48,557
+you can feel that it's in a way obscene to say, ah, Auschwitz appears such a tragedy because we are too close to it, we see it as a stain.
+
+188
+00:21:49,040 --> 00:21:59,358
+but from a proper distance available only to God, it would be clear how this contributes to global harmony of the universe or whatever.
+
+189
+00:21:59,640 --> 00:22:02,674
+It's an obscenity.
+
+190
+00:22:02,674 --> 00:22:03,398
+What does this mean?
+
+191
+00:22:03,920 --> 00:22:10,760
+This means, for example, that we should finally take the lesson of what for me as
+
+192
+00:22:11,020 --> 00:22:24,456
+an atheist is absolutely unsurpassable ethical revolution, one of the maybe two, three path-breaking texts, entire human history, the Book of Job in the Bible.
+
+193
+00:22:24,900 --> 00:22:26,411
+Remember what happens there.
+
+194
+00:22:27,721 --> 00:22:29,639
+Forget the very beginning.
+
+195
+00:22:29,760 --> 00:22:45,257
+I think this is just probably taken over from some previous tradition, which is why enemies of Judeo-Christian tradition like to point, you know that obscene conversation, like, you know, God and devil sitting at the table, desserts are served drinks, and then they, oh, what about that guy, blah, blah.
+
+196
+00:22:45,520 --> 00:22:47,333
+That's an obscenity, forget that.
+
+197
+00:22:48,420 --> 00:22:51,137
+Think about, focus on what happens.
+
+198
+00:22:51,620 --> 00:22:54,236
+Job is hit by calamities.
+
+199
+00:22:55,040 --> 00:22:56,697
+And what does Job do?
+
+200
+00:22:56,980 --> 00:23:02,360
+It's incredible how spontaneously we try to falsify his image.
+
+201
+00:23:02,480 --> 00:23:11,219
+Once I asked my friends, atheist or religious, and most of them had this totally fake memory that Job is a guy who,
+
+202
+00:23:11,620 --> 00:23:20,239
+and there should reside the lesson of the story, who silently suffers, humbly submits to divine will.
+
+203
+00:23:20,701 --> 00:23:21,392
+Not at all.
+
+204
+00:23:21,962 --> 00:23:22,700
+He's angry.
+
+205
+00:23:22,761 --> 00:23:24,097
+He protests all the time.
+
+206
+00:23:24,460 --> 00:23:27,837
+But here, also, we should be very precise.
+
+207
+00:23:28,501 --> 00:23:29,494
+What happens there?
+
+208
+00:23:30,061 --> 00:23:35,473
+He doesn't protest in this vulgar economic sense, I didn't deserve it, blah, blah.
+
+209
+00:23:36,400 --> 00:23:42,416
+There are three bad guys, three theologists there, who are precisely providers of meaning.
+
+210
+00:23:43,100 --> 00:23:49,998
+The point of their, you know, three friends, or four, I'm not going to look at this, three, they don't,
+
+211
+00:23:50,521 --> 00:23:57,735
+the point is not that they put the blame on Job, that's secondary, like the first one who provides the simple pseudo-hermeneutics.
+
+212
+00:23:58,660 --> 00:24:04,197
+God is just, so if you suffer, even if you are not aware now of what, you must have done something.
+
+213
+00:24:04,581 --> 00:24:05,995
+No, it's more precise.
+
+214
+00:24:06,540 --> 00:24:09,478
+They just desperately try to provide a meaning.
+
+215
+00:24:09,860 --> 00:24:17,218
+Their underlying hypothesis, or axiom, is it must have some meaning, if we know it or not.
+
+216
+00:24:17,580 --> 00:24:25,158
+And the absolute greatness, that's undescribable ethical revolution, I think, of Job is to reject this meaning.
+
+217
+00:24:25,520 --> 00:24:29,678
+I see in this the sense of his bitter insistence.
+
+218
+00:24:30,181 --> 00:24:35,779
+Not I'm good, I'm extra good, I served God, but I didn't deserve it.
+
+219
+00:24:35,860 --> 00:24:40,919
+Again, not in the sense I was good, but in the sense of no, But there is no deeper meaning here.
+
+220
+00:24:41,080 --> 00:24:45,378
+And remember what happens then when God finally intervenes.
+
+221
+00:24:45,961 --> 00:24:48,257
+He gives full right to Job.
+
+222
+00:24:48,800 --> 00:24:59,674
+He says to the three, quick ideologies, quickly, to the three, like maybe the name of one of them was, I don't know, one was Pat, the other was Jerry, who knows who was the third one.
+
+223
+00:25:00,320 --> 00:25:02,219
+And he says, no, against them.
+
+224
+00:25:02,440 --> 00:25:08,397
+So I think, again, that today this pressure of meaning is strong.
+
+225
+00:25:08,600 --> 00:25:12,179
+And now, my god, I will speak like a kind of a biblical preacher.
+
+226
+00:25:12,280 --> 00:25:17,958
+But I mean it sincerely, in the sense of beware of succumbing to this pressure.
+
+227
+00:25:18,241 --> 00:25:19,060
+I mean it seriously.
+
+228
+00:25:19,181 --> 00:25:22,360
+This is where the devil waits upon you.
+
+229
+00:25:22,480 --> 00:25:33,198
+This is paganism, pagan universe, as all intelligent, not only Protestants, but Catholic also, like Chesterton pointed out.
+
+230
+00:25:33,460 --> 00:25:39,057
+You know, this universal hermeneutic attitude, this metaphoric reading of the universe.
+
+231
+00:25:39,540 --> 00:25:49,338
+This rose, that rose, cat is not a cat, it's devil, the dog is, you know, like this fullness of meaning, no, this is not Judeo-Christian legacy.
+
+232
+00:25:49,680 --> 00:25:51,658
+Judeo-Christian legacy is much more bitter.
+
+233
+00:25:51,960 --> 00:25:56,479
+You accept the meaninglessness of the universe.
+
+234
+00:25:56,740 --> 00:26:08,957
+And today, again, it's a danger to succumb to this pseudo-hermeneutics when we witness things like AIDS, the prospect of ideological catastrophe, and so on.
+
+235
+00:26:09,121 --> 00:26:12,059
+It's so simple to succumb to this temptation.
+
+236
+00:26:12,240 --> 00:26:21,796
+AIDS, oh, it must have some meaning, punishment for this ecology, yes, because we disturbed the balance of yin yang and so on or whatever.
+
+237
+00:26:21,960 --> 00:26:26,994
+And no, you start with a little bit of hermeneutic of ecology, I warn you.
+
+238
+00:26:27,240 --> 00:26:29,220
+You end up in Da Vinci Code, no?
+
+239
+00:26:29,280 --> 00:26:33,160
+And then you end up with Jesus Christ copulating, you know?
+
+240
+00:26:33,240 --> 00:26:36,393
+It's a small step from one to the other, no?
+
+241
+00:26:38,040 --> 00:26:43,837
+So again, one has to resist this temptation, which is a terrible temptation.
+
+242
+00:26:44,140 --> 00:26:47,378
+Let me give you a brutal, extreme example,
+
+243
+00:26:47,840 --> 00:26:51,977
+which I not like, but it's at least convincing.
+
+244
+00:26:52,600 --> 00:27:00,755
+When I was in Israel, I was told that there is a minor sect, but nonetheless not negligible, quite strong, sect of people.
+
+245
+00:27:02,280 --> 00:27:13,258
+And there is a rabbi who leads them who believe that, among other things, that Holocaust was justified, that the Jewish people, European Jews, did something very sinful.
+
+246
+00:27:13,601 --> 00:27:19,937
+OK, he tries to specify it as integrating themselves too much into European societies, and that this was divine punishment.
+
+247
+00:27:20,320 --> 00:27:28,097
+It's terrible, but I understand it in the sense that even if the message is a bad one, we deserved it.
+
+248
+00:27:29,040 --> 00:27:33,579
+Often, it's better a bad message than no message.
+
+249
+00:27:33,820 --> 00:27:40,460
+Because even if the message is bad, what you nonetheless gain is a dialogue with the meaningful universe.
+
+250
+00:27:40,580 --> 00:27:43,991
+It still means things have a global meaning, and so on, and so on.
+
+251
+00:27:44,720 --> 00:27:47,638
+So that's my first theoretical point.
+
+252
+00:27:48,041 --> 00:27:48,830
+Let's go now on.
+
+253
+00:27:49,620 --> 00:28:05,813
+Undoubtedly, at least some of you, if we were to be immediately in a dialogue, would have reacted to what I've said, saying, but this is not what I directly or how I directly experienced the film.
+
+254
+00:28:06,642 --> 00:28:07,437
+It's not open.
+
+255
+00:28:07,621 --> 00:28:07,786
+Yes.
+
+256
+00:28:08,340 --> 00:28:10,696
+And now I come to my second crucial point.
+
+257
+00:28:11,722 --> 00:28:24,817
+The level at which this logic operates, this obscene, I claim, beliefs, it must have had a meaning, is not the level of our explicit beliefs.
+
+258
+00:28:25,620 --> 00:28:27,495
+It's the level of what?
+
+259
+00:28:28,180 --> 00:28:33,899
+I will describe this level now, briefly referring to what I developed in some of my books.
+
+260
+00:28:34,000 --> 00:28:44,198
+Namely, I would like, in case of professional solidarity, referring to a philosopher who, three days ago, lost his job,
+
+261
+00:28:44,900 --> 00:28:54,776
+referred to a well-known contemporary American philosopher who elaborated the relationship between what we know and what we don't know.
+
+262
+00:28:55,341 --> 00:28:55,977
+You got the point.
+
+263
+00:28:56,141 --> 00:28:57,556
+Sorry, old joke, Donald Trump.
+
+264
+00:28:57,920 --> 00:29:01,714
+No, I mean, I'm referring to, you remember in March 2003,
+
+265
+00:29:03,340 --> 00:29:11,875
+Donald Rumsfeld gave the famous interview where he developed his thoughts on the relationship between known and unknown.
+
+266
+00:29:12,620 --> 00:29:13,453
+Here it is, the quote.
+
+267
+00:29:14,000 --> 00:29:15,674
+There are known knowns.
+
+268
+00:29:16,400 --> 00:29:19,337
+There are things we know that we know.
+
+269
+00:29:19,940 --> 00:29:20,391
+That's clear.
+
+270
+00:29:20,820 --> 00:29:21,514
+Like, I don't know.
+
+271
+00:29:21,940 --> 00:29:26,499
+I'm here at Calvin College, and I know that I'm here.
+
+272
+00:29:26,701 --> 00:29:27,798
+I know that I know that.
+
+273
+00:29:28,000 --> 00:29:31,879
+Then he goes on, there are known unknowns.
+
+274
+00:29:32,220 --> 00:29:35,558
+That is to say, there are things that we know we don't know.
+
+275
+00:29:35,960 --> 00:29:37,079
+This is also clear.
+
+276
+00:29:37,160 --> 00:29:42,778
+Like, I know there are some cars outside this building, but I don't know how many cars are parked there.
+
+277
+00:29:43,101 --> 00:29:45,059
+And I know that I don't know this.
+
+278
+00:29:45,180 --> 00:29:49,654
+That is to say, this is something that I don't know, but it's still, how should I put it,
+
+279
+00:29:50,480 --> 00:29:57,079
+with regard to the horizon of understanding or of meaning, It's still within the field of my knowledge.
+
+280
+00:29:57,260 --> 00:29:59,638
+I clearly don't know that I know that.
+
+281
+00:29:59,961 --> 00:30:01,919
+Then Rumsfeld goes on.
+
+282
+00:30:02,020 --> 00:30:07,397
+This was, of course, destined at that point to warn us of unpredictable horrors hidden in Iraq.
+
+283
+00:30:08,000 --> 00:30:10,236
+But there are also unknown unknowns.
+
+284
+00:30:10,920 --> 00:30:14,097
+There are things we don't know that we don't know.
+
+285
+00:30:14,741 --> 00:30:15,436
+It's also clear.
+
+286
+00:30:15,680 --> 00:30:25,777
+Let us say if Saddam were to have some ultra-secret weapon or whatever, not the ordinary weapons of mass destruction that we suspected that he had.
+
+287
+00:30:26,240 --> 00:30:28,199
+This would be unknown unknowns.
+
+288
+00:30:28,360 --> 00:30:30,236
+It's not simply that we didn't know.
+
+289
+00:30:30,800 --> 00:30:35,138
+We even wouldn't have known that we don't know.
+
+290
+00:30:35,540 --> 00:30:38,377
+Because it's totally outside our horizon.
+
+291
+00:30:38,920 --> 00:30:48,300
+But here, unfortunately, the dialectical strength of Rumsfeld thinking finds its limit.
+
+292
+00:30:48,420 --> 00:30:52,338
+Because did you notice that the fourth term is missing?
+
+293
+00:30:52,840 --> 00:30:54,235
+We have known knowns.
+
+294
+00:30:54,740 --> 00:31:00,214
+We have known unknowns we know that we don't know, and we have unknown unknowns.
+
+295
+00:31:01,060 --> 00:31:04,654
+It's so much outside our horizon
+that we don't know that we don't know.
+
+296
+00:31:05,100 --> 00:31:07,954
+What about the fourth term, which I claim is the most interesting one?
+
+297
+00:31:08,600 --> 00:31:17,877
+Not the known unknowns, but the unknown knowns, things we know, but we don't even know that we know them.
+
+298
+00:31:18,760 --> 00:31:20,414
+That is to say, this is ideology.
+
+299
+00:31:21,160 --> 00:31:25,160
+Ideology is not so much our explicit thesis.
+
+300
+00:31:25,300 --> 00:31:33,135
+Today, of course, belief, as everybody says in hedonist, cynical era, nobody's ready to fight for big causes.
+
+301
+00:31:33,700 --> 00:31:41,259
+What I claim is that, nonetheless, there are, more than ever maybe, beliefs here, beliefs which,
+
+302
+00:31:41,620 --> 00:31:50,179
+although we would never publicly admit that they are our beliefs, we, as it were, practice these beliefs.
+
+303
+00:31:50,560 --> 00:31:56,060
+They are embodied in our knowledge, in the materials we use, and so on, and so on.
+
+304
+00:31:56,180 --> 00:32:02,955
+And to end up to just make the last mention of poor Rumsfeld, I think that that's why he lost his job.
+
+305
+00:32:03,780 --> 00:32:05,998
+Because he didn't know what he knows.
+
+306
+00:32:06,360 --> 00:32:12,218
+OK, to put it in more consistent way, knowing quite serious, why did things in Iraq go wrong?
+
+307
+00:32:12,640 --> 00:32:25,578
+Precisely because American politics was not aware of its unknown knowns, of the implicit ideological prejudices, presuppositions, which they were simply here,
+
+308
+00:32:26,000 --> 00:32:29,919
+not even you are aware of them, but they regulate your activity.
+
+309
+00:32:30,100 --> 00:32:40,713
+You know, like presuppositions about how everybody in the world likes American type of democracy, presuppositions about how the people will react in Iraq, and so on, and so on, and so on.
+
+310
+00:32:41,860 --> 00:32:47,055
+So this level is, I think, crucial for the functioning of ideology.
+
+311
+00:32:47,480 --> 00:32:52,755
+All these things that, and this is the crucial problem of belief, I claim.
+
+312
+00:32:53,120 --> 00:32:56,953
+All these things that we, in a way, believe without believing.
+
+313
+00:32:59,081 --> 00:33:01,780
+In my book, The Parallax View, I developed more in detail.
+
+314
+00:33:01,820 --> 00:33:02,773
+I will just mention it here.
+
+315
+00:33:03,320 --> 00:33:11,116
+The wonderful example, which I found in a biography of Niels Bohr, of Copenhagen quantum physics.
+
+316
+00:33:12,601 --> 00:33:19,176
+Niels Bohr, incidentally, was also the guy who, I think, provided a wonderful right answer to Einstein.
+
+317
+00:33:19,440 --> 00:33:26,878
+You know that Einstein's well-known phrase, which reflects his distrust in quantum physics,
+
+318
+00:33:27,380 --> 00:33:28,955
+God doesn't play dice.
+
+319
+00:33:29,501 --> 00:33:30,252
+Everybody knows this.
+
+320
+00:33:30,820 --> 00:33:32,855
+But you know what was Niels Bohr's answer?
+
+321
+00:33:33,601 --> 00:33:35,178
+Don't tell God what to do.
+
+322
+00:33:35,400 --> 00:33:37,739
+I mean, it's correct.
+
+323
+00:33:37,820 --> 00:33:39,995
+OK, this is even a more beautiful story.
+
+324
+00:33:40,800 --> 00:33:44,756
+A friend visited Nils Bohr in a countryside house.
+
+325
+00:33:45,680 --> 00:33:50,095
+And notice above the entrance door, a horseshoe.
+
+326
+00:33:51,781 --> 00:33:57,240
+In Europe, I don't know how it is here, a horseshoe is kind of a superstitious item.
+
+327
+00:33:57,300 --> 00:34:04,176
+If you put it above the entrance, it is supposed to keep out the evil spirits and keep the house safe, whatever.
+
+328
+00:34:04,740 --> 00:34:07,498
+Now the friend was shocked and addressed Nils Bohr.
+
+329
+00:34:07,841 --> 00:34:09,560
+My god, I thought you are a scientist.
+
+330
+00:34:09,640 --> 00:34:12,956
+Do you believe in this kind of superstitious crap?
+
+331
+00:34:13,960 --> 00:34:15,759
+Nils Bohr answered, no, of course not.
+
+332
+00:34:15,900 --> 00:34:16,555
+I'm not crazy.
+
+333
+00:34:16,820 --> 00:34:19,394
+Then the other guy says, but why is it there then?
+
+334
+00:34:20,680 --> 00:34:22,818
+Here Nils Bohr gave the correct answer.
+
+335
+00:34:23,100 --> 00:34:28,155
+Not the usual boring, fake, multiculturalist tolerant one that we like today.
+
+336
+00:34:28,501 --> 00:34:29,798
+It's just our way of life.
+
+337
+00:34:29,960 --> 00:34:32,096
+It is out of respect for and so on.
+
+338
+00:34:32,641 --> 00:34:33,476
+I know this story.
+
+339
+00:34:33,740 --> 00:34:36,932
+All my Jewish friends, they don't believe in kosher food,
+
+340
+00:34:39,220 --> 00:34:42,898
+But they don't eat pork out of respect for, and so on, no.
+
+341
+00:34:43,320 --> 00:34:45,256
+And you get here wonderful paradoxes.
+
+342
+00:34:45,760 --> 00:34:47,639
+I mean, I'm not focusing on Jews with Arabs.
+
+343
+00:34:47,780 --> 00:34:48,995
+It's the same with us Christians.
+
+344
+00:34:49,480 --> 00:34:51,213
+I'm saying because I know the situation there.
+
+345
+00:34:52,160 --> 00:34:55,218
+A typical Jew, of course, doesn't believe in God.
+
+346
+00:34:55,640 --> 00:34:59,198
+But nonetheless, he believes that God gave them the land of Israel, that they can have it.
+
+347
+00:34:59,400 --> 00:35:00,553
+That's another story, no?
+
+348
+00:35:01,300 --> 00:35:06,518
+But what I want to say is, so what is then the answer, not this politically correct, of Nils Bohr?
+
+349
+00:35:06,801 --> 00:35:07,575
+Why do you have it?
+
+350
+00:35:07,921 --> 00:35:08,695
+It's a wonderful one.
+
+351
+00:35:09,081 --> 00:35:11,919
+He answered, of course, I don't believe in it.
+
+352
+00:35:12,060 --> 00:35:16,493
+But I have it there because I was told that it works even if you don't believe in it.
+
+353
+00:35:17,060 --> 00:35:18,436
+That's ideology today.
+
+354
+00:35:18,880 --> 00:35:21,599
+You don't have to believe in democracy.
+
+355
+00:35:21,721 --> 00:35:22,714
+You practice it.
+
+356
+00:35:23,200 --> 00:35:25,877
+And your beliefs are out there in practice.
+
+357
+00:35:26,320 --> 00:35:28,318
+Let me give you, let's go to the end here.
+
+358
+00:35:28,640 --> 00:35:36,179
+It will be, as it's usual with me, I'm sorry if I offend some of you, an absolutely scatological, obscene end point.
+
+359
+00:35:36,420 --> 00:35:40,416
+but I cannot resist repeating an old story that I often use.
+
+360
+00:35:41,481 --> 00:35:49,176
+If you had the fortune of misfortune to travel around Europe, maybe you noticed how, in what different way,
+
+361
+00:35:49,800 --> 00:35:53,896
+now comes the dangerous point, toilets are structured in Europe.
+
+362
+00:35:54,280 --> 00:36:00,819
+You have the French toilets where the hole where excrement disappears is in the back.
+
+363
+00:36:01,140 --> 00:36:06,036
+So the idea is it drops, falls directly into it, it goes away as soon as possible.
+
+364
+00:36:06,380 --> 00:36:10,794
+Then you have English or yours, Anglo-Saxon, where it floats in water.
+
+365
+00:36:11,740 --> 00:36:19,596
+Then you have the German one, which is the most obscene, of course, which is that the hole is in front.
+
+366
+00:36:20,360 --> 00:36:26,019
+And you have just a little bit of water in the hole so that most of the bowl is a kind of a plateau.
+
+367
+00:36:26,240 --> 00:36:29,460
+The idea is your excrement falls there to enable.
+
+368
+00:36:29,560 --> 00:36:39,499
+It's an old, disgusting German tradition that every morning you should inspect your bowl, sniff it, and so on to see, look for any traces of illness.
+
+369
+00:36:39,760 --> 00:36:41,779
+If you don't believe me, go and look.
+
+370
+00:36:41,940 --> 00:36:43,633
+It's quite a cultural shock.
+
+371
+00:36:44,661 --> 00:36:47,217
+Now I ask myself, why this?
+
+372
+00:36:47,720 --> 00:36:48,324
+What's the point?
+
+373
+00:36:50,721 --> 00:36:51,457
+I read books.
+
+374
+00:36:51,640 --> 00:36:53,071
+There are two books on the market,
+
+375
+00:36:54,420 --> 00:36:57,797
+so you can check it on architect, very obscene books.
+
+376
+00:36:58,540 --> 00:37:00,335
+They have scientific studies.
+
+377
+00:37:00,940 --> 00:37:03,099
+In what angle shit falls down.
+
+378
+00:37:06,512 --> 00:37:08,440
+And they don't give an account of this.
+
+379
+00:37:08,520 --> 00:37:13,539
+They simply eat every book that I know or text plays this simple utilitarian card.
+
+380
+00:37:13,680 --> 00:37:18,550
+Oh, how is that the other guys don't see that ours is the most utilitarian, the most practical?
+
+381
+00:37:19,141 --> 00:37:20,316
+But then it strike me.
+
+382
+00:37:20,640 --> 00:37:23,980
+Of course, things are more complex in reality.
+
+383
+00:37:24,120 --> 00:37:28,734
+But basically, I claim this is the only account that I can imagine.
+
+384
+00:37:29,440 --> 00:37:43,938
+Do you know that, if you know a little bit of the history of European thought, around the time of Hegel, it was popular to claim that, to assert the notion of so-called European Trinity.
+
+385
+00:37:44,380 --> 00:37:51,157
+The idea being that Europe, as a spiritual entity, is structured around three poles.
+
+386
+00:37:51,560 --> 00:38:04,523
+Each of them stands for a certain nation, for a certain political attitude or attitude towards life, and for a certain level of social life.
+
+387
+00:38:04,523 --> 00:38:11,598
+Germans are politically conservative, the level of life is poetry, thinking, contemplation.
+
+388
+00:38:13,383 --> 00:38:18,919
+French, politics, level of life, domain of life, politically leftist, revolutionary.
+
+389
+00:38:19,240 --> 00:38:26,375
+English. Economy as a sphere of life and moderate liberalism.
+
+390
+00:38:26,375 --> 00:38:28,098
+It did strike me, but that's it.
+
+391
+00:38:28,920 --> 00:38:32,012
+The French approach this radical politics.
+
+392
+00:38:32,012 --> 00:38:34,000
+It falls in, liquidated, disappears.
+
+393
+00:38:34,000 --> 00:38:35,644
+It's like guillotine.
+
+394
+00:38:35,644 --> 00:38:37,208
+It should disappear.
+
+395
+00:38:37,208 --> 00:38:40,275
+Anglo-Saxon, pragmatic.
+
+396
+00:38:40,275 --> 00:38:41,738
+Let it flow there.
+
+397
+00:38:41,738 --> 00:38:43,723
+We will solve the problem.
+
+398
+00:38:43,723 --> 00:38:49,875
+Germans, of course, poetry and contemplation.
+
+399
+00:38:49,875 --> 00:39:00,209
+Now, crazy as this may sound, but believe me or not, in a way it is true that I say, that's my point, serious point that I want to make.
+
+400
+00:39:00,209 --> 00:39:02,737
+It's easy to say, oh, no ideology and so on.
+
+401
+00:39:02,737 --> 00:39:07,491
+My God, you go to the toilet and you sit on ideology, how should I put it.
+
+402
+00:39:07,491 --> 00:39:17,860
+That is to say, even such the lowest of the lowest vulgar everyday object cannot be accounted for in direct utilitarian terms.
+
+403
+00:39:18,120 --> 00:39:29,798
+It is structured like this because it's the most appropriate but embodies certain very fundamental attitudes towards what is one of the big problems of life,
+
+404
+00:39:30,200 --> 00:39:35,838
+what to do with this embarrassing excrement that comes out of our body.
+
+405
+00:39:36,100 --> 00:39:38,237
+And this is not a secondary point.
+
+406
+00:39:38,661 --> 00:39:54,414
+Every good anthropologist will tell you that one of the signs that you are dealing with humans no longer with apes or animals is that you have this embarrassment what to do with feet, basically.
+
+407
+00:39:55,600 --> 00:39:56,417
+It must disappear.
+
+408
+00:39:59,701 --> 00:40:04,059
+It's the whole problem of, I mean, we are immediately in the deepest metaphysics.
+
+409
+00:40:04,180 --> 00:40:08,879
+I'm quite serious, which is, what we as humans,
+
+410
+00:40:10,820 --> 00:40:14,458
+I think that disgust is a deeply human emotion.
+
+411
+00:40:14,841 --> 00:40:15,955
+And what is disgust?
+
+412
+00:40:16,420 --> 00:40:22,518
+Disgust is not necessarily immediately characterized by its object.
+
+413
+00:40:22,680 --> 00:40:28,178
+It has to do something with the disturbed frontier between inside and outside.
+
+414
+00:40:28,480 --> 00:40:34,735
+Disgust is with something inside, from your inside, you confront it from the outside.
+
+415
+00:40:35,800 --> 00:40:38,740
+OK, now you can tell me, but shit is disgusting.
+
+416
+00:40:38,821 --> 00:40:41,769
+No, but let's take a more neutral example, which I hope will convince you.
+
+417
+00:40:43,280 --> 00:40:45,538
+You have saliva all the time in your mouth.
+
+418
+00:40:45,860 --> 00:40:50,098
+You swallow it now all the time, no problem, nothing disgusting.
+
+419
+00:40:50,661 --> 00:40:51,779
+Do, or rather, don't do it.
+
+420
+00:40:51,902 --> 00:40:52,539
+I can't do it.
+
+421
+00:40:52,580 --> 00:40:56,378
+But try to do a certain extremely elementary example.
+
+422
+00:40:56,760 --> 00:41:03,638
+Take a glass, spit in it, kind of a certain strata, a half an inch of your saliva, look, and then try to drink it.
+
+423
+00:41:03,980 --> 00:41:05,977
+You cannot, because it's outside.
+
+424
+00:41:06,321 --> 00:41:07,032
+It's disgusting.
+
+425
+00:41:07,561 --> 00:41:08,170
+It's disgusting.
+
+426
+00:41:08,760 --> 00:41:15,418
+So what I want to say is that you cannot imagine how much this tells us about human identity.
+
+427
+00:41:15,840 --> 00:41:22,397
+The point being that at a certain level, precisely at the level of Rumsfeldian unknown knowns,
+
+428
+00:41:23,301 --> 00:41:34,399
+we do not perceive ourselves in this most elementary phenomenological self-experience, we do not perceive ourselves as beings with depth.
+
+429
+00:41:34,560 --> 00:41:36,739
+The depth is spiritual, not bodily.
+
+430
+00:41:36,880 --> 00:41:39,097
+I claim that when I look at you,
+
+431
+00:41:39,580 --> 00:41:48,736
+I somehow obstruct the fact that beneath your skin there are pretty horrible things, all the blood, bones, whatever.
+
+432
+00:41:49,240 --> 00:42:02,999
+When I look you into your eyes, head, I behave as if there is some kind of a soul spiritual presence inside, not the stupidity of biological machine or whatever.
+
+433
+00:42:03,360 --> 00:42:08,595
+So this tells us a lot about this most immediate phenomenology of our experience.
+
+434
+00:42:09,260 --> 00:42:14,857
+Again, the way it is embodied in this unknown knowns.
+
+435
+00:42:15,740 --> 00:42:18,359
+Now, let me make a step further.
+
+436
+00:42:19,882 --> 00:42:37,159
+And the central mystery here is that these beliefs, even if we are aware of them, another way that we deal with them is that we transpose them onto others.
+
+437
+00:42:37,480 --> 00:42:43,459
+There is nothing hypocritical in it, or rather it's a kind of sincere hypocrisy.
+
+438
+00:42:43,860 --> 00:42:44,544
+What do we mean by this?
+
+439
+00:42:47,140 --> 00:42:51,536
+My favorite example here is another one which I repeatedly use in my books.
+
+440
+00:42:51,840 --> 00:42:55,199
+Do you know the Tibetan praying meals?
+
+441
+00:42:55,480 --> 00:43:01,756
+Like, you write a prayer, you put it into a meal, you turn it around, or even better,
+
+442
+00:43:02,200 --> 00:43:05,739
+you put it on a windmill, and it turns around itself.
+
+443
+00:43:05,941 --> 00:43:08,740
+And to put it in a slightly cynical way, it's wonderful.
+
+444
+00:43:08,800 --> 00:43:13,016
+Like, you can think about sex, whatever you want, but objectively, you pray, no?
+
+445
+00:43:13,581 --> 00:43:14,514
+It prays for you.
+
+446
+00:43:15,020 --> 00:43:18,779
+Now, you will say, ha ha, this goes for primitive cultures.
+
+447
+00:43:19,041 --> 00:43:32,478
+No, we have exactly same phenomena all around. Think about what, if you ask me, is one of the great contributions of American civilization to world culture, can laughter on TV.
+
+448
+00:43:32,820 --> 00:43:36,419
+You know, laughter being part of the soundtrack.
+
+449
+00:43:36,700 --> 00:43:38,236
+It's a very mysterious phenomenon.
+
+450
+00:43:38,721 --> 00:43:39,494
+Why does it work?
+
+451
+00:43:39,861 --> 00:43:40,918
+Namely, how does it work?
+
+452
+00:43:41,060 --> 00:43:47,758
+It's not as many people think that it's It's a kind of a Pavlovian reflex machine to signal you when to laugh.
+
+453
+00:43:48,180 --> 00:43:50,029
+No, as a rule, you don't laugh.
+
+454
+00:43:50,029 --> 00:44:02,438
+You return home in the evening, tired as a dog, you put it on, cheers, friends, whatever, you hear the laughter and you just look at it as an idiot and when it ends, you feel relieved.
+
+455
+00:44:02,960 --> 00:44:06,232
+It is as if you have laughed.
+
+456
+00:44:06,232 --> 00:44:08,339
+I mean, it's a paradox how, first to put
+
+457
+00:44:08,901 --> 00:44:20,615
+I mean, even the most intimate, spontaneous expression of yourself, like laughter, can be transposed onto others.
+
+458
+00:44:21,920 --> 00:44:26,915
+The same goes also especially, I claim, for example, for beliefs.
+
+459
+00:44:28,520 --> 00:44:29,173
+What do I mean by this?
+
+460
+00:44:29,520 --> 00:44:44,799
+Did you notice how often in families where parents have belief or stop believing, what What happens is that they desperately cling to another one.
+
+461
+00:44:45,220 --> 00:44:50,698
+It can be their parents, old mother, children, who should believe.
+
+462
+00:44:51,160 --> 00:45:03,713
+What really breaks them down is that much more than their disbelief is to discover that this other, whose innocence should be protected, doesn't believe.
+
+463
+00:45:07,100 --> 00:45:10,839
+for many people who participate in sexual orgies and so on.
+
+464
+00:45:11,080 --> 00:45:27,620
+I spoke recently with a sociologist who investigated this and told me how, as a rule, there can be ruthless group orgies, whatever you want, but they always have somebody who should remain innocent, who shouldn't know about it.
+
+465
+00:45:27,700 --> 00:45:33,912
+The moment that happens, their life literally falls apart.
+
+466
+00:45:37,840 --> 00:45:40,996
+This structure, I think, is extremely interesting.
+
+467
+00:45:41,880 --> 00:45:43,439
+Let me give you another example from literature.
+
+468
+00:45:43,921 --> 00:45:50,438
+Okay, literature, I only saw the film, the Edith Wharton's Age of Innocence.
+
+469
+00:45:51,200 --> 00:45:58,123
+This is the beauty of the story that you remember, the affair between Newland and that Count Olenskauer who?
+
+470
+00:45:58,123 --> 00:45:58,805
+No.
+
+471
+00:45:58,805 --> 00:46:03,579
+But the wife, to put it in human terms, Winona Ryder, the young wife
+
+472
+00:46:04,040 --> 00:46:06,690
+is supposed to be naive not to know.
+
+473
+00:46:06,690 --> 00:46:08,978
+And then you know what happens at the end.
+
+474
+00:46:08,978 --> 00:46:12,707
+The wife, young wife of the hero dies.
+
+475
+00:46:12,707 --> 00:46:21,018
+He thinks he is free now legally to rejoin his love of of Longyear's mistress, Michelle Pfeiffer in the film,
+
+476
+00:46:21,340 --> 00:46:32,760
+then at this very point, his son tells him that the wife knew it all the time, just pretended not to know, and it's ruined.
+
+477
+00:46:32,881 --> 00:46:33,554
+He cannot do it.
+
+478
+00:46:33,840 --> 00:46:46,978
+You see, he was engaged in this transgressive behavior, whatever, but on condition that another one, of this innocence of another one.
+
+479
+00:46:47,220 --> 00:46:59,299
+So this is the great mystery of how, even if we don't believe, we claim to be cynical and so on, we have this need for another one to remain pure to believe.
+
+480
+00:46:59,701 --> 00:47:01,079
+I know now enough of jokes.
+
+481
+00:47:01,180 --> 00:47:04,878
+I know a much more serious and tragic version of this.
+
+482
+00:47:05,320 --> 00:47:17,235
+Agnes Heller, probably unknown to almost all of you, is a Hungarian philosopher who was during, now she's a very old lady, during World War II in, I think it was even Auschwitz.
+
+483
+00:47:17,680 --> 00:47:21,932
+I mean, she has all these numbers, the real one, how should I put it.
+
+484
+00:47:22,341 --> 00:47:30,820
+And she told me a very interesting story, how in every barrack in the camp, there were two types of people, basically.
+
+485
+00:47:30,860 --> 00:47:37,099
+There were survivalists, those who were totally bitter, but still struggled for survival.
+
+486
+00:47:37,340 --> 00:47:40,078
+And this was some kind of a codified egotism.
+
+487
+00:47:40,460 --> 00:47:46,354
+You were allowed, if the other guy was stupid and left some food there and walked away, you were allowed to steal it.
+
+488
+00:47:46,820 --> 00:47:49,915
+There were some minimal rules, but very hard rules.
+
+489
+00:47:51,040 --> 00:47:54,474
+Then there were so-called Muslims, Muslim men, and the living dead.
+
+490
+00:47:55,100 --> 00:48:00,517
+The ones who simply no longer cared, just as living dead walked around.
+
+491
+00:48:00,940 --> 00:48:05,039
+And then, now comes the tragic point, story she told me.
+
+492
+00:48:05,340 --> 00:48:14,117
+Then there was in every barrack a myth that somewhere out there, usually in a next barrack, next,
+
+493
+00:48:14,740 --> 00:48:16,577
+There is somebody who is still fully human.
+
+494
+00:48:16,880 --> 00:48:22,536
+That is to say, somebody who didn't regress to this level of survivalism.
+
+495
+00:48:23,282 --> 00:48:24,158
+Still, you do that.
+
+496
+00:48:24,280 --> 00:48:25,956
+You just cruelly try to survive.
+
+497
+00:48:26,400 --> 00:48:33,737
+But who behaves even in those terrifying circumstances as if you are in normal life.
+
+498
+00:48:34,120 --> 00:48:37,056
+He helped others, shared food, and so on.
+
+499
+00:48:37,740 --> 00:48:47,677
+And she told me something very interesting, that the most dangerous moment for your psychic integrity was when, as unfortunately it was the case,
+
+500
+00:48:48,240 --> 00:48:55,897
+you sooner or later discovered that this is a myth, that this other is like most of us.
+
+501
+00:48:56,520 --> 00:49:10,177
+At that point, usually people lose even the will to survive, even this will to struggle and regress to what was called Muslim, Muslimen, that is to say, turned into living dead.
+
+502
+00:49:10,481 --> 00:49:12,196
+So you see the nice here.
+
+503
+00:49:12,780 --> 00:49:23,338
+Even, to put it in more almost theological terms, even to be consistently evil, you need a presupposed goodness somewhere up there.
+
+504
+00:49:23,780 --> 00:49:26,960
+And I claim, now we shouldn't underestimate this.
+
+505
+00:49:27,020 --> 00:49:31,035
+Now don't go into this orgy, oh, divine spark, we are all deeply good.
+
+506
+00:49:31,480 --> 00:49:38,078
+No, the problem is that the same holds for Hitler, for Stalin, from whoever you want.
+
+507
+00:49:38,240 --> 00:49:43,099
+I have no doubts that they were doing with this innocence in view.
+
+508
+00:49:43,340 --> 00:49:48,496
+That is to say, you can also give to this a very nasty term, unethical term.
+
+509
+00:49:49,800 --> 00:49:57,938
+You have, for example, with Stalinist communists, even more in this case with Nazis, this especially perverse logic,
+
+510
+00:49:58,280 --> 00:50:08,215
+which is that the greatest heroism when tough things have to be done, you kill, you torture, and so on, that through every idiot can be good.
+
+511
+00:50:08,640 --> 00:50:17,659
+The greatest heroism is to do the necessary tough, cruel thing to protect the innocence of the others.
+
+512
+00:50:17,800 --> 00:50:28,672
+If you look at one of the most disgusting ethical documents, but it's still an ethical document in the sense that crazy as it sounds, it tries to articulate the ethics of 20th century,
+
+513
+00:50:29,780 --> 00:50:46,399
+The famous speech in 33 October, 43, I think, of Heinrich Himmler, SS, had two officers for the preparation of Holocaust in Posen, a Polish city.
+
+514
+00:50:47,160 --> 00:51:01,253
+He there uttered these famous phrases, claiming that Holocaust will be the most glorious chapter of German history, but the chapter which, unfortunately, will never be written.
+
+515
+00:51:01,640 --> 00:51:05,378
+That is to say, the message is we are the true heroes.
+
+516
+00:51:05,881 --> 00:51:06,879
+It's a terrible message.
+
+517
+00:51:06,960 --> 00:51:23,118
+The message is you are in front of, I mean, in a way, Himmler, that's the horror of it, was bothered by a true ethical problem, which is how could SS officers and soldiers do their dirty job?
+
+518
+00:51:23,780 --> 00:51:29,357
+slaughtering, killing children, women, without becoming beasts themselves.
+
+519
+00:51:29,921 --> 00:51:44,520
+His solution was this kind of heroism, that you perceive your very evil acts as the supreme act of heroism, ready to descend into this hell for the good of the people.
+
+520
+00:51:44,580 --> 00:51:46,876
+It's a terrifying logic.
+
+521
+00:51:47,580 --> 00:51:52,878
+So since, unfortunately, time is running, let me go on.
+
+522
+00:51:58,007 --> 00:52:14,293
+This delicate relationship between what we believe and what we know, or rather, what we explicitly know and this disavowed beliefs, they are at work in a very refined way in our daily experience.
+
+523
+00:52:15,400 --> 00:52:30,841
+Often you believe in something, you can even believe sincerely, but nonetheless it's It's a great shock and surprise if you see your belief confirmed directly in a too brutal way.
+
+524
+00:52:31,780 --> 00:52:42,519
+Did you see the film, isn't there, I was told that tomorrow there will be here a play by Steve Martin, somewhere, okay, doesn't matter, performed.
+
+525
+00:52:42,820 --> 00:52:56,219
+The point is that he acts in a film, Leap of Faith from 1992, maybe you saw it, which This is one thing about a con artist, this preacher who treats, he heals, cripples, but it's all a stage.
+
+526
+00:52:56,540 --> 00:53:03,279
+Then once, he does something which he thinks it's treating, but it's a true miracle.
+
+527
+00:53:03,501 --> 00:53:04,474
+He totally breaks down.
+
+528
+00:53:04,941 --> 00:53:05,574
+It's a shock.
+
+529
+00:53:05,940 --> 00:53:12,917
+So things are here much more refined, in the sense that, what does it mean to believe?
+
+530
+00:53:13,520 --> 00:53:19,160
+Often, people who believe, believe with a distance.
+
+531
+00:53:19,340 --> 00:53:30,659
+I often notice how religious people often pray and obey the ritual, not as Pascal thought, in order to really believe.
+
+532
+00:53:30,760 --> 00:53:35,918
+You know that advice of Blaise Pascal to unbelievers who want to believe.
+
+533
+00:53:36,120 --> 00:53:38,356
+You don't believe, here it is what you should do. Simply act as if you believe.
+
+534
+00:53:41,620 --> 00:53:46,637
+obey the ritual, kneel down, pray, do good works, and belief will come by itself.
+
+535
+00:53:47,020 --> 00:53:50,017
+I claim, unfortunately, that often it's the exact opposite.
+
+536
+00:53:50,680 --> 00:53:57,178
+It's that what if you really believe, but in a too intense way, it's horrible directly to believe?
+
+537
+00:53:57,600 --> 00:54:05,253
+Then maybe the solution is do as if you believe, and your belief will be externalized in the ritual out there.
+
+538
+00:54:05,500 --> 00:54:08,258
+You no longer will directly have to believe.
+
+539
+00:54:08,580 --> 00:54:11,995
+Now let's move to more problematic topic.
+
+540
+00:54:13,260 --> 00:54:29,529
+This gap between what we rationally know and what we unconsciously believe tells us, I claim, a lot about our predicament, namely how we relate usually to the prospect of ecological catastrophe.
+
+541
+00:54:31,481 --> 00:54:32,417
+This is a paradox.
+
+542
+00:54:32,660 --> 00:54:36,339
+Basically, we know catastrophe is coming.
+
+543
+00:54:36,560 --> 00:54:38,336
+there will be global warming, whatever.
+
+544
+00:54:38,820 --> 00:54:40,474
+But why don't we act?
+
+545
+00:54:41,300 --> 00:54:42,376
+Why don't we do something?
+
+546
+00:54:42,660 --> 00:54:48,276
+I don't think it's enough, this simple leftist explanation, yes, big companies, manipulation, whatever.
+
+547
+00:54:48,800 --> 00:54:50,454
+I claim we know, but we don't believe.
+
+548
+00:54:51,260 --> 00:54:56,797
+That is to say, imagine yourself reading a report on global warming, horrible this, that.
+
+549
+00:54:57,300 --> 00:55:01,659
+But then you go out, you see sun, trees, grass.
+
+550
+00:55:01,860 --> 00:55:04,716
+My god, you say, but this cannot really disappear.
+
+551
+00:55:05,500 --> 00:55:18,678
+That's the tragedy, that what prevents us from taking seriously the prospect of ecological catastrophe. It's precisely our direct immersion into our life world.
+
+552
+00:55:19,120 --> 00:55:23,100
+These are beliefs which are part of the way we act in reality.
+
+553
+00:55:23,220 --> 00:55:26,217
+And it's extremely difficult to renounce them.
+
+554
+00:55:26,820 --> 00:55:32,778
+There is a very important theoretical consequence to be drawn from this paradoxical one.
+
+555
+00:55:33,180 --> 00:55:41,899
+You know the usual criticism of why we are in ecological deadlock.
+
+556
+00:55:41,980 --> 00:55:43,257
+The idea is the following one.
+
+557
+00:55:43,540 --> 00:55:47,378
+We trust too much science, abstract scientific reasoning.
+
+558
+00:55:47,780 --> 00:55:50,778
+We should not forget that science is secondary.
+
+559
+00:55:51,160 --> 00:56:00,319
+It's alienated secondary product of our primordial attitude which is our being embedded in a concrete life world.
+
+560
+00:56:00,600 --> 00:56:05,178
+You see, you feel, you sense with the earth where you live, and so on.
+
+561
+00:56:05,580 --> 00:56:09,219
+But I claim that that's not enough.
+
+562
+00:56:09,480 --> 00:56:15,396
+We cannot return to this immediate life world experience, because this exactly is the problem.
+
+563
+00:56:16,000 --> 00:56:19,539
+If we are to confront properly, I claim, ecological catastrophe,
+
+564
+00:56:19,860 --> 00:56:26,276
+we have to confront, we have to outgrow precisely this direct embeddedness.
+
+565
+00:56:26,881 --> 00:56:27,990
+Now let's go on.
+
+566
+00:56:29,220 --> 00:56:31,497
+I hope it will be a little bit more amusing what I say now.
+
+567
+00:56:31,880 --> 00:56:35,599
+Namely, how, then, do we relate towards this?
+
+568
+00:56:38,900 --> 00:56:45,458
+Where do we detect this gap in our beliefs or knowledge, this inconsistency?
+
+569
+00:56:45,620 --> 00:56:48,075
+I know it's true, but nonetheless, I don't believe it.
+
+570
+00:56:48,980 --> 00:56:50,396
+Let me make a simple observation.
+
+571
+00:56:50,740 --> 00:57:00,397
+Did you notice how every normative order, in the sense of rules that we obey, in order to be members of certain collective,
+
+572
+00:57:01,020 --> 00:57:07,635
+from family to whenever you want, is never a simple set of rules that you learn them you are in.
+
+573
+00:57:08,920 --> 00:57:12,514
+What's so interesting is that there are never simply only rules.
+
+574
+00:57:12,900 --> 00:57:16,600
+There are always rules and then meta rules.
+
+575
+00:57:16,720 --> 00:57:23,208
+That is to say, rules which tell you how to relate to these rules, to take them seriously or not, how seriously.
+
+576
+00:57:24,420 --> 00:57:28,359
+For example, it's often that there is a prohibition.
+
+577
+00:57:28,620 --> 00:57:29,672
+You shouldn't do it.
+
+578
+00:57:30,360 --> 00:57:37,194
+But we all know that it usually means, in many cases, do it discreetly.
+
+579
+00:57:37,761 --> 00:57:45,174
+Or sometimes, especially with some kind of sexual prohibitions, it's even a direct solicitation, do it or whatever.
+
+580
+00:57:45,620 --> 00:57:51,678
+So then can be prohibitions which are not meant to be taken seriously.
+
+581
+00:57:51,960 --> 00:57:56,019
+If you take them seriously, you appear an idiot, how should I put it.
+
+582
+00:57:56,100 --> 00:57:58,000
+Like, you are here a little bit different.
+
+583
+00:57:58,040 --> 00:57:59,657
+You take your state seriously.
+
+584
+00:57:59,960 --> 00:58:04,129
+For example, this is my legacy from the socialist regime in my country, no?
+
+585
+00:58:05,520 --> 00:58:12,520
+Like, if I try not to pay taxes to find a loophole, and if somebody tells me, how can you?
+
+586
+00:58:12,560 --> 00:58:14,056
+We have to pay taxes all.
+
+587
+00:58:14,420 --> 00:58:15,911
+I mean, the guy is an idiot.
+
+588
+00:58:17,080 --> 00:58:17,568
+You know what I mean?
+
+589
+00:58:18,301 --> 00:58:18,383
+OK.
+
+590
+00:58:18,920 --> 00:58:21,478
+But there is something much more interesting here.
+
+591
+00:58:21,740 --> 00:58:22,872
+the opposite paradox.
+
+592
+00:58:23,640 --> 00:58:34,057
+The paradox not of prohibition which between the lines tells you do it, do it discreetly, whatever, but do it, but an offer of freedom.
+
+593
+00:58:34,860 --> 00:58:41,379
+You are permitted something, but on condition that you don't use this option.
+
+594
+00:58:41,600 --> 00:58:46,932
+As if you can do it, you are given the freedom to do it on condition that you will not do it.
+
+595
+00:58:48,580 --> 00:58:53,058
+Again, there are especially, for example, in different political regimes.
+
+596
+00:58:53,340 --> 00:58:57,331
+You have freedom to choose on condition that you make the right choice, that's the truth.
+
+597
+00:58:58,820 --> 00:59:00,435
+Or even in our daily lives.
+
+598
+00:59:00,960 --> 00:59:09,536
+For example, recently a friend from Japan told me, do you know that in Japan workers have the right to 40 days holiday every year?
+
+599
+00:59:10,280 --> 00:59:15,739
+But you are expected not to use this right in its full extent.
+
+600
+00:59:16,020 --> 00:59:18,075
+The implicit rule is not more than 20 days.
+
+601
+00:59:18,880 --> 00:59:22,432
+Then I asked them, OK, but then don't you simply write 20 days.
+
+602
+00:59:23,322 --> 00:59:24,398
+He told me, you are an idiot.
+
+603
+00:59:24,541 --> 00:59:25,218
+You don't get it.
+
+604
+00:59:25,341 --> 00:59:25,997
+And he was right.
+
+605
+00:59:26,140 --> 00:59:26,813
+I didn't get it.
+
+606
+00:59:27,221 --> 00:59:27,587
+Why not?
+
+607
+00:59:28,480 --> 00:59:42,398
+It's the same as, do you know, this is always what fascinated me, because I think this is communication between people at its most mysterious and elementary, these empty gestures.
+
+608
+00:59:42,580 --> 00:59:45,917
+You are offered something, but you shouldn't use it.
+
+609
+00:59:46,560 --> 00:59:49,718
+For example, all of you probably were already in this situation.
+
+610
+00:59:50,060 --> 00:59:54,478
+you were invited by somebody older, richer, to dinner.
+
+611
+00:59:54,960 --> 00:59:59,471
+Now, you knew it was absolutely clear in advance that he will pay.
+
+612
+01:00:00,640 --> 01:00:06,580
+But isn't it kind of a ritual of politeness that you have to insist for some time, no, no, let me pay.
+
+613
+01:00:06,660 --> 01:00:09,499
+Just don't do, by the way, what I did once I insisted too long.
+
+614
+01:00:09,620 --> 01:00:12,857
+And then the guy said, if you won't, do it.
+
+615
+01:00:13,520 --> 01:00:15,938
+Then I have to stage all this comedy off.
+
+616
+01:00:16,221 --> 01:00:18,880
+Oh my god, I forgot my credit cards or whatever.
+
+617
+01:00:20,246 --> 01:00:22,939
+But there are other beautiful examples.
+
+618
+01:00:23,140 --> 01:00:31,616
+For example, she is my friend, although we fight all the time theoretically, personally she is my friend, Judith Butler.
+
+619
+01:00:32,500 --> 01:00:41,997
+Recently I met her in Switzerland and I was not too rude to her, but I used some degenerate grip, whatever, I'm horrible when I eat.
+
+620
+01:00:42,480 --> 01:00:44,756
+So I saw that I did hurt her.
+
+621
+01:00:45,340 --> 01:00:47,658
+So I felt bad afterwards.
+
+622
+01:00:48,001 --> 01:00:48,611
+I phoned her.
+
+623
+01:00:49,261 --> 01:00:49,936
+I called her.
+
+624
+01:00:50,140 --> 01:00:51,197
+I told her, sorry, blah, blah.
+
+625
+01:00:51,420 --> 01:00:54,660
+And then she told me, thanks, I appreciate it.
+
+626
+01:00:54,720 --> 01:00:56,337
+But really, I wasn't offended.
+
+627
+01:00:56,641 --> 01:00:57,816
+I knew you didn't mean it.
+
+628
+01:00:58,120 --> 01:00:59,516
+You owe me no apology.
+
+629
+01:00:59,860 --> 01:01:01,095
+She was absolutely sincere.
+
+630
+01:01:01,540 --> 01:01:03,980
+And I was really grateful.
+
+631
+01:01:04,040 --> 01:01:12,876
+But you see, the paradox is that it was possible for her to say, you owe me no apology, only after I did apologize.
+
+632
+01:01:13,780 --> 01:01:14,875
+And this is not hypocrisy.
+
+633
+01:01:15,260 --> 01:01:17,657
+That's the mystery of communication.
+
+634
+01:01:18,140 --> 01:01:20,758
+You do something, the result is nothing.
+
+635
+01:01:21,040 --> 01:01:25,138
+You do something which is declared superfluous.
+
+636
+01:01:25,740 --> 01:01:29,575
+But in order to be declared superfluous, you have to do it.
+
+637
+01:01:31,001 --> 01:01:33,558
+This is how now you will say, what's the profit?
+
+638
+01:01:33,820 --> 01:01:40,994
+The profit is respect, friendship, love, communication, through communication, through communication between us.
+
+639
+01:01:42,441 --> 01:01:42,791
+I don't know.
+
+640
+01:01:43,200 --> 01:01:47,320
+My favourite example even here is we have this ritual in my country, let us say that
+
+641
+01:01:47,581 --> 01:01:50,696
+I and a friend of mine compete for the same job.
+
+642
+01:01:51,520 --> 01:01:54,195
+Let us say he wins, I lose.
+
+643
+01:01:55,200 --> 01:02:05,178
+It's a ritual in my country that then the winner should say to the loser, listen, I know that you deserved it more, why don't I step down and you will get the job.
+
+644
+01:02:05,640 --> 01:02:08,615
+But of course you have to say no, no, no, you can have it.
+
+645
+01:02:09,680 --> 01:02:10,270
+What's the profit?
+
+646
+01:02:10,941 --> 01:02:13,456
+the friendship is saved in this way, frankly, no?
+
+647
+01:02:14,160 --> 01:02:25,826
+So what I'm saying here is that the most delicate texture of our human relations moves, operates at this level,
+
+648
+01:02:25,850 --> 01:02:39,750
+at the level not of explicit rules but of this between the lines rules, you know, like I give you an offer but these meta rules tell me it's an offer to be rejected or whatever.
+
+649
+01:02:39,802 --> 01:02:44,396
+And now I come to the concluding point, if you allow me a little bit of time.
+
+650
+01:02:45,880 --> 01:02:53,399
+It is that I claim that what is going on today, what worries me, is that these unspoken rules,
+
+651
+01:02:53,800 --> 01:03:13,895
+what I would call following Hegel, the ethical substance of our being, this I claim is slowly surely, if you want, is disintegrating today.
+
+652
+01:03:15,980 --> 01:03:20,098
+There are some profound changes operating at that level.
+
+653
+01:03:20,680 --> 01:03:21,291
+What do you mean by this?
+
+654
+01:03:21,760 --> 01:03:25,018
+Let me take a book which I, as an atheist, should like, but I'm not.
+
+655
+01:03:25,100 --> 01:03:26,172
+I think it's a horrible book.
+
+656
+01:03:26,981 --> 01:03:30,318
+It was a big New York Times bestseller around a year ago,
+
+657
+01:03:30,761 --> 01:03:33,237
+Sam Harris, The End of Belief.
+
+658
+01:03:33,841 --> 01:03:35,100
+It tells all the title.
+
+659
+01:03:35,181 --> 01:03:43,920
+The thesis of the book is our, and he It means specifically our religions of the book, Jewish, Christian, Muslim, and so on.
+
+660
+01:03:44,000 --> 01:03:46,216
+Beliefs are ridiculously out of date.
+
+661
+01:03:46,820 --> 01:03:48,938
+They belong to a totally different epoch.
+
+662
+01:03:49,280 --> 01:03:52,258
+Today, they only cause ethnic slaughter and so on.
+
+663
+01:03:52,660 --> 01:03:54,219
+So we have to outgrow them.
+
+664
+01:03:54,420 --> 01:04:03,394
+And all he allows is some kind of a vague Buddhist, whatever, oriental meditation with no epistemological commitment.
+
+665
+01:04:05,121 --> 01:04:11,637
+But I think there is something significant here, that precisely the guy who claims this, the end of belief,
+
+666
+01:04:12,280 --> 01:04:18,549
+is also the guy who advocates the use of torture in this book.
+
+667
+01:04:19,100 --> 01:04:26,000
+And it's interesting to take a look at how does he justify torture.
+
+668
+01:04:29,420 --> 01:04:33,957
+Because the point is to find exactly what is wrong in his reasoning.
+
+669
+01:04:34,320 --> 01:04:36,635
+His reasoning is very simple, basically.
+
+670
+01:04:37,601 --> 01:04:39,078
+He starts with this problem.
+
+671
+01:04:39,360 --> 01:04:52,876
+Why is it that most of us find it more problematic, much more problematic, to torture somebody in front of us than to push a button which will kill hundreds of thousand people out there, out of our sight?
+
+672
+01:04:53,400 --> 01:05:00,038
+He claims he calls this the moon illusion, in parallel with this old perceptual illusion.
+
+673
+01:05:00,521 --> 01:05:05,440
+If you don't know how it is, you think the moon is just a small object out there in the sky.
+
+674
+01:05:05,480 --> 01:05:12,374
+But he said, in the same way that we know now rationally that moon is a quite large object,
+
+675
+01:05:13,480 --> 01:05:18,556
+that we should do the same restructuring of our ethical experience.
+
+676
+01:05:19,020 --> 01:05:21,217
+So for him, it's a pretty horrifying conclusion.
+
+677
+01:05:21,580 --> 01:05:24,618
+The fact that we cannot torture, most of us at least,
+
+678
+01:05:25,000 --> 01:05:28,558
+somebody face to face is simply, I quote him,
+
+679
+01:05:28,940 --> 01:05:37,576
+the reason for this inability to torture another person is every bit as neurological as those that give rise to the moon illusion.
+
+680
+01:05:37,920 --> 01:05:39,672
+So simply, let's grow up.
+
+681
+01:05:41,040 --> 01:05:44,177
+Let's learn to put things in proper proportion.
+
+682
+01:05:44,660 --> 01:05:48,998
+And following a ruthless utilitarian calculation,
+
+683
+01:05:49,560 --> 01:05:58,558
+let's become aware that it's even your duty, as he puts it, to torture somebody in front of you if in this way you can prevent much larger suffering.
+
+684
+01:05:58,940 --> 01:06:05,237
+Now, Harris concedes that, nonetheless, we cannot simply outgrow our deeply ingrained habits.
+
+685
+01:06:05,621 --> 01:06:09,993
+So he proposed something which I think is even more tasteless, a kind of a truth pill.
+
+686
+01:06:11,441 --> 01:06:18,594
+Here is how he says, a drug that would deliver both the instrument of torture and the instrument of its utter concealment.
+
+687
+01:06:19,200 --> 01:06:22,118
+The action of the pill, OK, I will cut it short.
+
+688
+01:06:22,500 --> 01:06:29,374
+The idea is a pill which causes indescribable suffering, but not visible from the outside.
+
+689
+01:06:30,420 --> 01:06:31,310
+You have a terrorist.
+
+690
+01:06:32,160 --> 01:06:37,338
+You, instead of torturing him there, which would make you feel bad, you give him the pill.
+
+691
+01:06:37,701 --> 01:06:41,777
+And the terrorist, suspected terrorist, just seems to take a half an hour nap.
+
+692
+01:06:42,201 --> 01:06:43,098
+But then he awakens.
+
+693
+01:06:43,200 --> 01:06:45,293
+And I confess everything you want, no?
+
+694
+01:06:46,580 --> 01:06:52,979
+The first thing that bothers me here is that how this fits perfectly our postmodern logic of,
+
+695
+01:06:53,320 --> 01:06:56,536
+which I develop in many of the books, of decaf coffee.
+
+696
+01:06:57,320 --> 01:07:00,918
+We like today's projects, sorry, objects, products,
+
+697
+01:07:01,320 --> 01:07:03,057
+without paying the price for them.
+
+698
+01:07:03,380 --> 01:07:05,059
+Coffee, but decaf coffee.
+
+699
+01:07:05,201 --> 01:07:06,837
+Beer, but beer without alcohol.
+
+700
+01:07:07,201 --> 01:07:08,799
+A cake, but fat-free cake.
+
+701
+01:07:08,880 --> 01:07:11,096
+And don't you think that this is only for products?
+
+702
+01:07:11,700 --> 01:07:16,856
+I claim it's exactly the same in our intersubjective relations.
+
+703
+01:07:18,220 --> 01:07:22,080
+Colin Powell's theory of war was precisely decaffeinated war.
+
+704
+01:07:22,200 --> 01:07:25,019
+war, but no victims on our side.
+
+705
+01:07:25,180 --> 01:07:27,377
+And to be a little bit more nasty,
+
+706
+01:07:27,820 --> 01:07:37,759
+I would say that at least the way it is in its predominant form, multiculturalist tolerance is the tolerance of, to be nasty, the decaffeinated other.
+
+707
+01:07:37,981 --> 01:07:38,084
+No?
+
+708
+01:07:38,661 --> 01:07:40,019
+The other is abstracted.
+
+709
+01:07:40,100 --> 01:07:47,200
+For example, I think this is the filthiest form of racism to celebrate Native Americans, if you call them that.
+
+710
+01:07:47,280 --> 01:07:53,999
+I found this disgusting, even more racist than Indians, because I spoke with one of them, and he told me, Native Americans, what is this?
+
+711
+01:07:54,181 --> 01:07:55,080
+Are we part of nature?
+
+712
+01:07:55,120 --> 01:07:56,635
+What are you, cultural Americans?
+
+713
+01:07:57,100 --> 01:08:04,420
+And he said, to be called an Indian, at least then my name is a monument to white men's stupidity.
+
+714
+01:08:04,480 --> 01:08:06,637
+No, like, they thought better.
+
+715
+01:08:07,100 --> 01:08:08,572
+They thought they are in India, no?
+
+716
+01:08:09,560 --> 01:08:13,239
+But did you notice how these politically great guys,
+
+717
+01:08:13,621 --> 01:08:27,278
+if you hear them talk about Native Americans, it's, you know, people who live in a holistic way, harmony with nature, have their dances spiritually connected to Earth, nothing about torture, family rapes, whatever.
+
+718
+01:08:27,800 --> 01:08:35,979
+And I don't say this in, I think, so what I want to say is that this is for me, this cleansing of the other is the most racist thing.
+
+719
+01:08:36,240 --> 01:08:40,035
+So back to this, this is the first problem I have with Sam Harris.
+
+720
+01:08:40,400 --> 01:08:44,778
+The second problem, but it's just a minor remark, is that, fine, so we are following KGB.
+
+721
+01:08:45,120 --> 01:08:52,278
+Namely, I learned in a book about the misuses of psychiatry in Soviet Union that they already had it.
+
+722
+01:08:52,600 --> 01:09:02,579
+The standard way to torture dissidents there was under the mask up, because there in Soviet Union in the last decades, dissidents being critical of the system
+
+723
+01:09:02,860 --> 01:09:09,357
+was defined as a special form of social schizophrenia or whatever, no megalomania that you can create.
+
+724
+01:09:09,960 --> 01:09:16,799
+They injected something here in the region of your heart, and it was a terrifying experience.
+
+725
+01:09:16,960 --> 01:09:19,138
+It slowed down your heartbeat.
+
+726
+01:09:19,400 --> 01:09:21,154
+You thought, like, you know, you are slowly dying.
+
+727
+01:09:22,040 --> 01:09:24,019
+From the outside, you just took a nap.
+
+728
+01:09:24,120 --> 01:09:26,017
+It's exactly what Sam Harris described.
+
+729
+01:09:26,400 --> 01:09:28,078
+From the inside, it was a nightmare.
+
+730
+01:09:28,360 --> 01:09:31,374
+But, but, now I come to the truly central point.
+
+731
+01:09:32,620 --> 01:09:34,959
+Nonetheless, you will say, but what's the point?
+
+732
+01:09:35,200 --> 01:09:37,855
+What is fundamentally wrong with Harris?
+
+733
+01:09:38,720 --> 01:09:49,817
+Here we come to the topic of what in Judeo-Christian tradition, and Freud also refers to this tradition in his theory of how we relate to others, we call the neighbor.
+
+734
+01:09:50,440 --> 01:09:54,556
+The neighbor is something very radical in Judeo-Christian tradition.
+
+735
+01:09:54,920 --> 01:09:57,877
+The neighbor is not the other who is like us.
+
+736
+01:09:58,480 --> 01:10:01,479
+The neighbor is some kind of a traumatic presence.
+
+737
+01:10:01,620 --> 01:10:07,537
+It's the other person, if you want, in the abyss of its infinity.
+
+738
+01:10:08,060 --> 01:10:10,657
+And there is always something monstrous about it.
+
+739
+01:10:11,200 --> 01:10:13,879
+But the name of that monstrosity is freedom, no?
+
+740
+01:10:14,080 --> 01:10:17,756
+You cannot ever be sure you promised me this, but how do I know?
+
+741
+01:10:18,040 --> 01:10:21,119
+How do I know that I can trust you, and so on?
+
+742
+01:10:21,280 --> 01:10:24,973
+Which is why we need promises with people which are not neighbors.
+
+743
+01:10:25,620 --> 01:10:35,138
+If I were to know you totally, in a kind of a cognitivist or brain sciences dream, that I know the mechanisms, how you decide, I wouldn't need promises.
+
+744
+01:10:35,420 --> 01:10:40,934
+Promises are here because precisely I don't know what an abyss you are.
+
+745
+01:10:42,160 --> 01:10:51,298
+And I think we should be very careful here not to, how should I put it, not to idealize the notion of the neighbor.
+
+746
+01:10:51,620 --> 01:10:58,338
+There is something irreducibly traumatic in the notion of the neighbor, which is why a little lesson in theology.
+
+747
+01:10:59,800 --> 01:11:06,558
+If you look already at the Old Testament, I claim that the true function of the 10 commandments
+
+748
+01:11:07,682 --> 01:11:15,199
+It's not so much to enable you to love your neighbor, but also to keep a neighbor at the proper distance.
+
+749
+01:11:15,461 --> 01:11:19,878
+It can be very unpleasant, intrusive to come too close to it.
+
+750
+01:11:20,360 --> 01:11:20,442
+Why?
+
+751
+01:11:21,360 --> 01:11:22,340
+Let me give you a simple example.
+
+752
+01:11:22,400 --> 01:11:26,877
+I hope you were, but it's not as loving as it may appear.
+
+753
+01:11:27,640 --> 01:11:35,356
+You were, some of you at least, I hope most of you all, in a situation where somebody declared intense love to you.
+
+754
+01:11:36,140 --> 01:11:42,059
+approaches you and you see that it's sincere, it's not a joke, you are the center of my life, I totally love you,
+
+755
+01:11:42,083 --> 01:11:49,483
+admit it if you are honest that maybe you enjoyed it but for a split of a second at least you were horrified.
+
+756
+01:11:49,540 --> 01:12:03,859
+I mean it's something horrifying to be in such an intense way the focus of all desires of another person, which is why, do you know that William Butler Yeats famous poem like
+
+757
+01:12:04,260 --> 01:12:08,656
+You walk, be careful how you walk because you are walking in my dreams.
+
+758
+01:12:09,120 --> 01:12:18,100
+It's horrible to be somebody who as a real person walks in a dream of dreams of another person.
+
+759
+01:12:18,180 --> 01:12:21,158
+It's a very claustrophobic experience.
+
+760
+01:12:21,580 --> 01:12:27,838
+So again, this topic of neighbor is crucial, abyssal topic.
+
+761
+01:12:27,940 --> 01:12:35,899
+I even claim that we are basically, Our basic fear is fear of the neighbor.
+
+762
+01:12:36,060 --> 01:12:40,799
+And all racisms play upon this, this abyss of the other.
+
+763
+01:12:41,040 --> 01:12:48,875
+And that's, incidentally, one of the sad things, for me at least, going on today, namely the fact of how,
+
+764
+01:12:50,200 --> 01:12:57,497
+did you notice how in the last two, three decades, our politics is defined by two, three features?
+
+765
+01:12:58,200 --> 01:13:10,753
+One is that the only way to mobilize people, not just to do this technocratic administration, but to mobilize people passionately, is to play on a fear.
+
+766
+01:13:11,560 --> 01:13:15,258
+The only politics of passions today is a politics of fear.
+
+767
+01:13:15,640 --> 01:13:18,538
+And unfortunately, not only for the right, also for the left,
+
+768
+01:13:18,820 --> 01:13:27,617
+fear of immigrants, fear of, I don't know, fear of ecological catastrophe, fear of the state high taxes, whatever you want, fear of sexual depravity, and so on.
+
+769
+01:13:28,180 --> 01:13:33,434
+I claim what is beneath this is effectively fear of the neighbor.
+
+770
+01:13:35,840 --> 01:13:42,695
+Another thing to be noted here is how sad thing about today is then how do we deal with the neighbor?
+
+771
+01:13:43,260 --> 01:13:47,599
+You cannot simply swallow him or her.
+
+772
+01:13:47,840 --> 01:13:56,999
+Neighbor is out there in its abyss, which is why, again, I claim that this notion of love thy neighbor, it's something very radical.
+
+773
+01:13:57,160 --> 01:14:01,959
+It means love thy neighbor, love this radical otherness.
+
+774
+01:14:02,300 --> 01:14:04,511
+Not just love somebody who is like me.
+
+775
+01:14:06,360 --> 01:14:11,000
+It's that today, the way we deal with it is tolerance.
+
+776
+01:14:11,120 --> 01:14:12,720
+And here, I'm sorry, I don't have time.
+
+777
+01:14:12,740 --> 01:14:14,537
+Maybe tomorrow morning at the restraint seminar,
+
+778
+01:14:14,800 --> 01:14:18,820
+I want to go with it because I'm now in intense dialogue with that wonderful book.
+
+779
+01:14:18,900 --> 01:14:24,516
+but I have my critical with Wendy Brown's book on regulating aversion.
+
+780
+01:14:25,120 --> 01:14:29,980
+She draws, nonetheless, wonderful conclusions and asks the right questions.
+
+781
+01:14:30,040 --> 01:14:32,235
+Namely, the basic problem is the following one.
+
+782
+01:14:33,120 --> 01:14:39,613
+Why is the category of tolerance universalized to such an extent today?
+
+783
+01:14:40,360 --> 01:14:57,417
+Did you notice how problems which 20, 30, 40 years ago were perceived not as problem of intolerance, but problems of injustice, inequality, and so on, are today rephrased as problems of tolerance.
+
+784
+01:14:57,960 --> 01:15:09,878
+Racism is today, you don't tolerate my way of life, whatever, but make a stupid experiment, the moment of glory of United States Martin Luther King, the fight for racial equality.
+
+785
+01:15:10,680 --> 01:15:19,336
+I made a simple experiment, go to internet, put some of his speeches, and put tolerance in tolerance, practically absent.
+
+786
+01:15:20,580 --> 01:15:22,657
+Martin Luther King didn't fight for tolerance.
+
+787
+01:15:23,120 --> 01:15:27,980
+He fought for end of exploitation, end of injustice, inequality.
+
+788
+01:15:28,080 --> 01:15:29,430
+That was the problem for him.
+
+789
+01:15:30,760 --> 01:15:37,459
+I mean, it would be even obscene and racist to say for him, oh, we blacks want whites to tolerate us.
+
+790
+01:15:37,580 --> 01:15:44,795
+You know, it's the same ridicule as to say, as if a eminist would have said, we want men to tolerate women.
+
+791
+01:15:45,460 --> 01:15:49,537
+Which is even a very obscene idea, like many of my male friends would have said,
+
+792
+01:15:49,941 --> 01:15:53,740
+I can somehow grant equality to women, but tolerate them never there.
+
+793
+01:15:53,820 --> 01:15:56,335
+So OK, that's another story.
+
+794
+01:15:57,201 --> 01:16:03,019
+What's underlying this is something that should be called culturalization of politics.
+
+795
+01:16:03,360 --> 01:16:11,252
+In our postmodern era, where economy is more and more reduced to something that experts do, just administration.
+
+796
+01:16:11,920 --> 01:16:18,240
+The only conflicts that remain are perceived as conflicts of culture.
+
+797
+01:16:18,320 --> 01:16:26,079
+But now, really, sorry to conclude, this notion of neighbor is something terrifying, I claim.
+
+798
+01:16:26,381 --> 01:16:26,970
+In what sense?
+
+799
+01:16:27,640 --> 01:16:36,858
+In the sense that, again, neighbor is not the wealth of another person, as we put it, his or her inner life, what I see in you.
+
+800
+01:16:37,360 --> 01:16:40,376
+No, this level is usually a lie.
+
+801
+01:16:41,220 --> 01:16:44,355
+There is a wonderful poetic, but I totally reject it.
+
+802
+01:16:45,400 --> 01:16:47,718
+Multicultural phrase, which is something like this.
+
+803
+01:16:48,021 --> 01:16:49,499
+It's supposed to be a deep insight.
+
+804
+01:16:49,600 --> 01:16:51,894
+I think it's precisely pseudo-depth.
+
+805
+01:16:52,940 --> 01:16:57,059
+It's an enemy is someone whose story you have not heard.
+
+806
+01:16:57,361 --> 01:17:01,799
+It sounds so noble, you know, like you are my enemy if I just objectivize you, you there.
+
+807
+01:17:01,920 --> 01:17:10,519
+But oh, if I take care or make the effort of understanding you from within, oh, then I will see that you have your standpoint.
+
+808
+01:17:10,700 --> 01:17:13,880
+OK, up to a certain level, this is undoubtedly true.
+
+809
+01:17:14,021 --> 01:17:15,797
+But I claim only up to a certain level.
+
+810
+01:17:16,200 --> 01:17:22,197
+And the limits are clear if I simply paraphrase this or apply to a very specific case.
+
+811
+01:17:22,640 --> 01:17:28,360
+Would you also be ready to say Hitler was our enemy because we didn't hear his story?
+
+812
+01:17:31,314 --> 01:17:32,480
+I did hear his story.
+
+813
+01:17:32,560 --> 01:17:34,056
+I read Mein Kampf and so on.
+
+814
+01:17:34,480 --> 01:17:46,798
+And what shocks me is how no matter how horrible your politics is, you always can find a nice way, as we usually put it, to rationalize it, to tell yourself a story about it.
+
+815
+01:17:47,200 --> 01:17:56,037
+So the radical conclusion here is that, and I think this is another deepest insight of Judeo-Christian tradition,
+
+816
+01:17:56,540 --> 01:18:02,876
+is that the ultimate truth, the truth of you as a unique person, where you really stand,
+
+817
+01:18:03,500 --> 01:18:10,038
+is not when you go deep into yourself and the deepest sincere self-identification or whatever.
+
+818
+01:18:10,401 --> 01:18:12,378
+At that level, we usually lie.
+
+819
+01:18:12,660 --> 01:18:14,112
+That's not the ultimate truth.
+
+820
+01:18:15,060 --> 01:18:21,356
+Which is why, if you want to get this point, I advise you to read two books.
+
+821
+01:18:22,441 --> 01:18:26,359
+One is Aldous Huxley, the English guy, gray eminence.
+
+822
+01:18:26,600 --> 01:18:34,997
+It's the story of Father Joseph, Per Joseph, the foreign minister of Cardinal Richelieu in the early 17th century, the 30 years' war.
+
+823
+01:18:35,640 --> 01:18:37,258
+What's so fascinating in this person?
+
+824
+01:18:37,500 --> 01:18:39,898
+He was, for that epoch, evil incarnated.
+
+825
+01:18:40,260 --> 01:18:55,798
+The worst realpolitik manipulator, he concluded a pact between Catholic France and Protestant Sweden against Catholic Austria to prevent unification of Germany.
+
+826
+01:18:56,420 --> 01:19:00,619
+So we can even say he's guilty for Hitler in a certain way.
+
+827
+01:19:00,780 --> 01:19:07,098
+Because it was because of his political plotting that German was not unified earlier as a nation state.
+
+828
+01:19:07,400 --> 01:19:11,838
+We all know this is what caused First World War and so on.
+
+829
+01:19:12,300 --> 01:19:13,371
+Now, what is the shock?
+
+830
+01:19:14,320 --> 01:19:30,237
+The shock is that the same person ordering tortures, poisoning, blah, was, in the evening, after his work was done, was writing the most precious of incredible depth mystical meditations.
+
+831
+01:19:30,561 --> 01:19:35,434
+Absolutely, how should I put it in a vulgar way, top level, at the level of Santa Teresa, whoever you want.
+
+832
+01:19:36,620 --> 01:19:38,739
+And this is what bothered Huxley.
+
+833
+01:19:38,840 --> 01:19:41,136
+I think his solution is wrong, but this gap.
+
+834
+01:19:41,760 --> 01:19:47,417
+The same, Let's Go to the East, a simple book by Brian Victoria, Zen at War.
+
+835
+01:19:47,921 --> 01:19:48,619
+The same problem.
+
+836
+01:19:48,660 --> 01:19:55,299
+We have undoubtedly authentic Zen Buddhist monks, like the one who was very popular.
+
+837
+01:19:55,460 --> 01:20:01,437
+If some of you are old enough, in the 60s era, hippies, DT Suzuki, the great.
+
+838
+01:20:02,081 --> 01:20:03,132
+Yeah, but he was in the 30s, 40s.
+
+839
+01:20:03,880 --> 01:20:13,099
+He was not only totally supporting Japanese militarism, but even was writing justification of it,
+
+840
+01:20:13,400 --> 01:20:23,139
+claiming that for the majority of people, this unconditional obedience of military discipline, you don't think there is order.
+
+841
+01:20:23,221 --> 01:20:23,653
+You do it.
+
+842
+01:20:24,000 --> 01:20:28,899
+It's the only way to satori, to enlightenment, to overcoming of your force.
+
+843
+01:20:29,040 --> 01:20:30,314
+So the same paradox.
+
+844
+01:20:30,920 --> 01:20:38,558
+And I think the lesson of it is very clear that when we who stand in a Christian tradition, when we speak about redemption, blah, blah, all this,
+
+845
+01:20:38,940 --> 01:20:47,038
+is something totally different than this gnostic or pagan perspective of going deep into yourself,
+
+846
+01:20:47,520 --> 01:20:51,378
+finding this inner truth about yourself, and so on and so on.
+
+847
+01:20:51,780 --> 01:20:56,737
+Precisely, this level of inner truth is a lie.
+
+848
+01:20:57,701 --> 01:20:58,897
+It's the point of lying.
+
+849
+01:20:59,220 --> 01:21:03,298
+So now, believe me or not, but I will really conclude now very shortly.
+
+850
+01:21:03,500 --> 01:21:05,938
+So just two concluding points from all this.
+
+851
+01:21:06,321 --> 01:21:09,352
+Now you will tell me, OK, but this all my relativism and so on.
+
+852
+01:21:09,761 --> 01:21:10,458
+We don't believe.
+
+853
+01:21:10,520 --> 01:21:12,158
+You don't know where you believe, blah, blah.
+
+854
+01:21:12,420 --> 01:21:17,657
+But there are people, so-called fundamentalists, who really immediately believe.
+
+855
+01:21:18,760 --> 01:21:23,459
+I don't have time, it will take another hour, to develop the whole line of thought.
+
+856
+01:21:23,720 --> 01:21:25,013
+My conclusion is they don't believe.
+
+857
+01:21:25,760 --> 01:21:28,476
+Not that they are not sincere that they treat, they know.
+
+858
+01:21:29,120 --> 01:21:45,330
+That is to say, to be very precise, I claim that belief, what bothers me in at least some type of fundamentalist, is precisely, for example, what's for me problematic in creationism as opposed to evolutionism.
+
+859
+01:21:45,330 --> 01:21:48,159
+It's not that it's wrong, I don't care.
+
+860
+01:21:48,560 --> 01:22:05,219
+It is that the presupposition is that you obliterate the gap between religious faith and scientific propositions and you treat religious propositions at the same level like
+
+861
+01:22:05,660 --> 01:22:13,993
+Jesus has arisen from the dead becomes a statement like this is the DNA structure of that animal or whatsoever.
+
+862
+01:22:14,340 --> 01:22:21,529
+Which is why I think it's deeply significant that fundamentalists usually don't have any problem dealing with science.
+
+863
+01:22:23,560 --> 01:22:24,458
+They love science.
+
+864
+01:22:24,560 --> 01:22:27,658
+They all the time try to prove that there is no gap there.
+
+865
+01:22:27,980 --> 01:22:30,198
+You have them in Christianity, creationists.
+
+866
+01:22:30,460 --> 01:22:31,636
+You have them in Islam.
+
+867
+01:22:31,900 --> 01:22:33,415
+You have them among the Jews.
+
+868
+01:22:33,920 --> 01:22:48,018
+For example, I learned that there is a group in Israel which takes literally the prophecy that Messiah will come when a calf will be born with totally red hair.
+
+869
+01:22:48,800 --> 01:22:55,271
+So they say, let's fasten the process and they are making these biogenetic experiments to make it happen.
+
+870
+01:22:56,821 --> 01:22:58,696
+So you know what's for me?
+
+871
+01:22:59,365 --> 01:22:59,610
+Belief.
+
+872
+01:23:00,120 --> 01:23:01,400
+Belief is something different.
+
+873
+01:23:01,400 --> 01:23:06,718
+Belief is, for me, a kind of, there is always an element of a belief which is absurd.
+
+874
+01:23:07,240 --> 01:23:09,857
+Belief is not, you don't believe in facts.
+
+875
+01:23:12,546 --> 01:23:18,424
+To say, I believe in Christ, but fuck it, I prefer to sin or I don't take, no, you cannot.
+
+876
+01:23:19,320 --> 01:23:25,858
+It's a belief which is by definition an existentially engaged belief.
+
+877
+01:23:26,560 --> 01:23:30,096
+It's for example, to give a pathetic example, it's ridiculous but it's true.
+
+878
+01:23:31,060 --> 01:23:33,820
+Anna Frank, if you read her memoirs, this is belief.
+
+879
+01:23:33,900 --> 01:23:39,037
+When she writes, in spite of all the horrors that Germans are doing to us, the Jews,
+
+880
+01:23:39,440 --> 01:23:43,298
+I believe that there is a divine spark in every human being.
+
+881
+01:23:43,800 --> 01:23:46,800
+This total counterfactual, crazy gesture.
+
+882
+01:23:46,901 --> 01:23:48,192
+It's the same with human rights.
+
+883
+01:23:49,181 --> 01:23:58,259
+Believing in human rights doesn't mean I look around scientifically, analyze people, I see at certain level they all have rights, then I say, oh, OK, I believe.
+
+884
+01:23:58,400 --> 01:24:00,938
+No, it's a leap of faith.
+
+885
+01:24:01,300 --> 01:24:02,897
+It's a kind of a crazy axiom.
+
+886
+01:24:03,240 --> 01:24:06,677
+You can be white, black, yellow, high, low, stupid.
+
+887
+01:24:07,480 --> 01:24:14,812
+I posit it as a practical axiom, and this engagement is crucial.
+
+888
+01:24:15,600 --> 01:24:28,417
+So the first paradoxical conclusion from this, I claim, is that the true danger of this kind of fundamentalism is not that it's a danger to secular knowledge, if they take over, no science.
+
+889
+01:24:28,740 --> 01:24:29,632
+That doesn't bother me.
+
+890
+01:24:30,321 --> 01:24:32,038
+It's there the true end of belief.
+
+891
+01:24:32,300 --> 01:24:35,997
+It's belief at its most authentic is endangered.
+
+892
+01:24:36,661 --> 01:24:37,920
+So what is belief today?
+
+893
+01:24:37,980 --> 01:24:39,997
+Let me go briefly, no, really, three minutes.
+
+894
+01:24:40,340 --> 01:24:41,777
+You are my super ego here, yeah.
+
+895
+01:24:42,100 --> 01:24:43,125
+Briefly back to Holocaust.
+
+896
+01:24:46,020 --> 01:24:53,316
+I claim that what the ultimate lesson of when I spoke about how we shouldn't play this game,
+
+897
+01:24:54,060 --> 01:25:00,099
+God is the good father up there who somehow manipulates things, and you can trust on him.
+
+898
+01:25:00,240 --> 01:25:02,155
+Everything will turn out well, and so on.
+
+899
+01:25:02,840 --> 01:25:11,059
+I think that with things like Holocaust, it's obscene to expect, oh, we don't know how, but mysterious are the way of the Lord.
+
+900
+01:25:11,180 --> 01:25:14,899
+It must have some deep meanings that it's somehow justified.
+
+901
+01:25:15,260 --> 01:25:19,038
+I claim, here I follow Shaggles reading of Christianity.
+
+902
+01:25:19,540 --> 01:25:23,235
+I claim that it is what really dies on the cross.
+
+903
+01:25:24,441 --> 01:25:26,775
+It's not, it's precisely this God.
+
+904
+01:25:27,520 --> 01:25:29,737
+As Hegel would have put it, God as substance.
+
+905
+01:25:30,120 --> 01:25:34,316
+God as this secret mind which benevolently controls everything.
+
+906
+01:25:34,720 --> 01:25:41,018
+God as whatever we here do, in a kind of higher unity, everything has a secret meaning and so on and so on.
+
+907
+01:25:42,420 --> 01:25:47,718
+Because, I mean, here we should be, if you want to be Christian, be really a Christian.
+
+908
+01:25:47,920 --> 01:25:59,878
+That is to say, it's not that we are here, God is there, and then God from time to time, why not, he sends a messenger, okay, things turn back, come back next time, and so on.
+
+909
+01:26:01,381 --> 01:26:10,518
+The ultimate lesson of Christianity, of embodiment, incarnation, for me is that God is engaged in our history.
+
+910
+01:26:10,880 --> 01:26:16,237
+What happens here on Earth, it's not something that God observes from above.
+
+911
+01:26:16,880 --> 01:26:26,719
+And the way I read it is that the death of Christ on the cross, which means it's not just the death of a representative of God.
+
+912
+01:26:26,840 --> 01:26:29,816
+And I think even we should forget all that legalistic topic.
+
+913
+01:26:30,160 --> 01:26:32,599
+God paid the price for our redemption.
+
+914
+01:26:32,780 --> 01:26:33,266
+Oh my God.
+
+915
+01:26:34,320 --> 01:26:35,016
+Paid to whom?
+
+916
+01:26:35,241 --> 01:26:35,757
+To devil?
+
+917
+01:26:35,900 --> 01:26:36,223
+To what?
+
+918
+01:26:38,380 --> 01:26:55,599
+It's the death on the cross is precisely the death of that Christ of God as an absolute master which controls everything in a kind of teleological unity so that all our stains are somehow
+
+919
+01:26:55,920 --> 01:27:00,913
+redeemed as contributing to some higher harmony, even if it's unknown to us.
+
+920
+01:27:01,760 --> 01:27:08,377
+God's Christ coming here suffering with us means precisely our suffering is for the real.
+
+921
+01:27:08,900 --> 01:27:11,575
+You cannot redeem it in this stupid way.
+
+922
+01:27:12,460 --> 01:27:26,579
+So what I claim is that something absolutely unheard of happens with Christianity, which is the death of Christ means something very radical.
+
+923
+01:27:26,960 --> 01:27:32,758
+It means in all other religions we trust God, we believe in God.
+
+924
+01:27:33,500 --> 01:27:36,195
+The death of Christ means God trusted us.
+
+925
+01:27:36,980 --> 01:27:41,137
+It means like I give you your freedom, it's up to you.
+
+926
+01:27:42,040 --> 01:27:48,377
+goes for me is literally, I take it literally when it says in the Bible, whenever the two of you are there, I will be there, I am there.
+
+927
+01:27:48,840 --> 01:27:50,376
+It means the gift of freedom.
+
+928
+01:27:50,820 --> 01:27:54,079
+It means God doesn't want to play that up there guarantee.
+
+929
+01:27:54,200 --> 01:28:00,099
+It means God entrusts the faith of creation, his own faith into us.
+
+930
+01:28:00,440 --> 01:28:07,559
+It means what happens here is part, as it were, of the history of God.
+
+931
+01:28:08,101 --> 01:28:09,917
+although I don't agree with Amalo and Levinas.
+
+932
+01:28:10,301 --> 01:28:11,597
+He made nicely this point.
+
+933
+01:28:11,840 --> 01:28:15,098
+Here, I agree with him, apropos iconoclasm.
+
+934
+01:28:15,441 --> 01:28:16,194
+Don't misread it.
+
+935
+01:28:16,580 --> 01:28:20,659
+The prohibition to make image of God in Judaism
+
+936
+01:28:20,981 --> 01:28:24,419
+does not mean, oh, in this gnostic way, oh, it's too mysterious.
+
+937
+01:28:24,521 --> 01:28:25,355
+We cannot paint it.
+
+938
+01:28:25,661 --> 01:28:26,898
+It means exact opposite.
+
+939
+01:28:27,040 --> 01:28:33,917
+It means God is alive, not in your stupid deep meditations of up there, but how you react with others.
+
+940
+01:28:34,400 --> 01:28:39,119
+That's why you shouldn't make images, Because it's not an image to be made up there.
+
+941
+01:28:39,360 --> 01:28:44,220
+And I think, if anything even more, this holds for Christianity.
+
+942
+01:28:44,280 --> 01:28:46,136
+That's for me what holy ghost is.
+
+943
+01:28:46,640 --> 01:28:50,457
+God is no longer the substantial master up there.
+
+944
+01:28:51,100 --> 01:28:55,639
+God is, to put it in this way, the spirit of our community.
+
+945
+01:28:55,881 --> 01:28:57,517
+It's the gift of freedom.
+
+946
+01:28:57,860 --> 01:29:02,139
+I claim, if you don't draw this crazy conclusion,
+
+947
+01:29:02,480 --> 01:29:07,440
+Then, whatever you claim to be, you repaganize Christianity.
+
+948
+01:29:07,780 --> 01:29:12,457
+You fall back at that level of God is up there sending messengers or whatever.
+
+949
+01:29:12,861 --> 01:29:17,359
+Sorry, but to inform you, although you know this, but Christ is not a messenger of God.
+
+950
+01:29:17,460 --> 01:29:18,252
+Christ is God.
+
+951
+01:29:18,860 --> 01:29:21,758
+I'm just trying to draw conclusions from what this means.
+
+952
+01:29:22,080 --> 01:29:24,198
+I'm sorry if I was too long.
+
+953
+01:29:24,501 --> 01:29:25,879
+On the other hand, I'm not sorry.
+
+954
+01:29:25,920 --> 01:29:26,759
+You had to suffer it.
+
+955
+01:29:26,800 --> 01:29:27,230
+That's life.
+
+956
+01:29:27,640 --> 01:29:28,153
+Thanks very much.
+
+957
+01:29:28,480 --> 01:29:50,126
+And we have some time for questions, and what we thought we'd do so that everyone can hear
+
+958
+01:30:03,431 --> 01:30:13,846
+is we have a couple of microphones here and here, and so if you have a question pertaining to what was discussed and presented, you can cue up to the mic.
+
+959
+01:30:15,270 --> 01:30:15,719
+If you...
+
+960
+01:30:17,194 --> 01:30:22,248
+Zizek said we should be a little bit liberal and allow those who would like to end their suffering to leave now, so...
+
+961
+01:30:23,034 --> 01:30:24,745
+Yeah, liberal, but did you see?
+
+962
+01:30:25,450 --> 01:30:26,904
+Goldfinger claims gold.
+
+963
+01:30:27,590 --> 01:30:30,187
+You remember that car where you press the button, no?
+
+964
+01:30:30,670 --> 01:30:33,510
+My dream is to have here this kind of a plan.
+
+965
+01:30:33,590 --> 01:30:38,804
+You ask me a nasty question, I press the button, you jump up, and nonetheless.
+
+966
+01:30:39,910 --> 01:30:43,857
+Well, since we don't have that button, or maybe we do, I don't know.
+
+967
+01:30:45,033 --> 01:30:46,648
+So if you feel like you'd like to leave, feel free.
+
+968
+01:30:46,870 --> 01:30:51,533
+Otherwise, go ahead and we'll try to negotiate back and forth between the two.
+
+969
+01:30:54,030 --> 01:30:55,688
+Do you want to do or should I?
+
+970
+01:30:55,850 --> 01:30:57,004
+There is a guy there already.
+
+971
+01:30:57,551 --> 01:30:57,941
+Are we ready?
+
+972
+01:30:58,310 --> 01:30:58,856
+Oh, OK.
+
+973
+01:31:00,491 --> 01:31:08,039
+So if you will comment briefly maybe on the connection between what you were talking about earlier and some of your other work in your writings.
+
+974
+01:31:09,770 --> 01:31:16,585
+Maybe something about how in films like Independence Day where we saw the events that would later happen
+
+975
+01:31:17,590 --> 01:31:22,688
+and then we look at movies like the two you mentioned today where we didn't see what we knew happened.
+
+976
+01:31:22,990 --> 01:31:24,445
+Sorry, which is the second film, I didn't get it.
+
+977
+01:31:25,010 --> 01:31:32,350
+The two you discussed earlier, the two, the flight and the relationship between
+
+978
+01:31:32,990 --> 01:31:39,962
+the desert storm conflict where we watched the film or the war on television as if it were a film or we were experiencing it,
+
+979
+01:31:40,650 --> 01:31:47,785
+and the current conflict where we dismiss it with media and just kind of talk about it from the point of view of DC.
+
+980
+01:31:48,590 --> 01:31:57,190
+There are so many, again, I will be short because it's, I hate you, because it's too good question in the sense to, you know what I mean?
+
+981
+01:31:57,230 --> 01:32:00,397
+To answer it properly, it's, again, half an hour and so on, no?
+
+982
+01:32:01,570 --> 01:32:07,002
+What I want to say is that, first, when you said like Independence Day, we saw what happens later, no?
+
+983
+01:32:07,971 --> 01:32:11,103
+My god, many people accused me when I wrote about this in my welcome.
+
+984
+01:32:11,950 --> 01:32:17,569
+As if I'm some kind of a mean, evil, anti-American and wants to say, you see, you were dreaming about it.
+
+985
+01:32:17,750 --> 01:32:23,521
+So you basically got what you not only deserved, but desired.
+
+986
+01:32:25,711 --> 01:32:27,129
+Here, things are much more complex.
+
+987
+01:32:27,230 --> 01:32:36,423
+Because the first lesson of psychoanalysis is that it's also, I think, the title of that last novel of Truman Capote, Unfinished, something along these lines.
+
+988
+01:32:37,571 --> 01:32:42,007
+The worst thing that can happen to you is that your dreams come true, how should I put it?
+
+989
+01:32:42,510 --> 01:32:45,988
+The Freudian notion of desire is much more complex.
+
+990
+01:32:46,530 --> 01:32:48,342
+If you fantasize about something,
+
+991
+01:32:49,750 --> 01:32:57,469
+It is often that the worst thing that can happen is if this fantasy is brutally from outside imposed onto you.
+
+992
+01:32:57,810 --> 01:33:02,388
+In one of my books, I even make a very unpleasant.
+
+993
+01:33:03,070 --> 01:33:12,208
+I take a brutal example, but talking with many feminists who first were shocked, but then half accepted it, I'm convinced in the truth.
+
+994
+01:33:12,651 --> 01:33:17,547
+Namely, you know, now this will be problematic for some of you, but at least listen to the end.
+
+995
+01:33:17,990 --> 01:33:22,067
+Do you remember this usual phrase of a rapist?
+
+996
+01:33:22,871 --> 01:33:24,449
+Oh, but she secretly deserved it.
+
+997
+01:33:24,590 --> 01:33:27,568
+I only gave the bitch what she really was asking for.
+
+998
+01:33:27,990 --> 01:33:33,183
+No, the standard defense is, oh, male fantasy, they dream about it, and so on.
+
+999
+01:33:33,990 --> 01:33:38,209
+But when they speak frankly, many women will tell you.
+
+1000
+01:33:38,510 --> 01:33:44,347
+I read many minutes of reports on rape that it is true that there was some kind of desire.
+
+1001
+01:33:45,191 --> 01:33:46,389
+Now comes my conclusion.
+
+1002
+01:33:46,491 --> 01:33:48,088
+Does this justify it?
+
+1003
+01:33:48,414 --> 01:33:48,601
+Not.
+
+1004
+01:33:48,870 --> 01:33:49,861
+It's even more horrible.
+
+1005
+01:33:50,650 --> 01:33:52,208
+What do I mean by this?
+
+1006
+01:33:52,471 --> 01:33:56,042
+I read in my country some reports on rape, and one thing is clear.
+
+1007
+01:33:56,931 --> 01:33:58,387
+I do it in one of my early books.
+
+1008
+01:33:58,710 --> 01:34:00,670
+Imagine this situation, just to get the point.
+
+1009
+01:34:00,750 --> 01:34:03,704
+Of course, it's not as simple as that, but the basic point is like this.
+
+1010
+01:34:04,330 --> 01:34:07,128
+Imagine two women, to simplify to the utmost.
+
+1011
+01:34:07,531 --> 01:34:12,629
+One is self-assertive, autonomous.
+
+1012
+01:34:12,870 --> 01:34:16,625
+The other is more passive, dreams about being beaten, raped, and so on.
+
+1013
+01:34:17,031 --> 01:34:19,106
+Imagine both of them raped.
+
+1014
+01:34:19,770 --> 01:34:24,583
+I claim for the second one, it would have been much more terrifying.
+
+1015
+01:34:25,510 --> 01:34:30,246
+The first one will get over, maybe, I hope so, take even some revenge afterwards.
+
+1016
+01:34:30,771 --> 01:34:32,086
+For the second one, who?
+
+1017
+01:34:32,430 --> 01:34:36,488
+At a certain level, you can say, oh, she just got what she was dreaming about.
+
+1018
+01:34:36,790 --> 01:34:39,367
+For that one, I fear she may kill herself, and so on,
+
+1019
+01:34:39,871 --> 01:34:40,746
+I claim afterwards.
+
+1020
+01:34:41,010 --> 01:34:52,941
+That is to say, there is nothing more humiliating then to get from the outside like stuck into your face the fact of your dreams.
+
+1021
+01:34:53,770 --> 01:34:57,707
+Because you know, fantasies are a very fragile thing.
+
+1022
+01:34:58,410 --> 01:35:04,941
+So back to that point, I think this is a different question, but very interesting one.
+
+1023
+01:35:06,110 --> 01:35:14,810
+Why this eternal fascination of the United States with the victory of the enemy from all those fantasies.
+
+1024
+01:35:14,910 --> 01:35:22,668
+And I like them, all those stories where there was, I think, with, I don't know who played in it, a big miniseries some 10, 20 years ago
+
+1025
+01:35:23,010 --> 01:35:27,446
+where Soviet Union occupied the United States, and then daily life.
+
+1026
+01:35:27,770 --> 01:35:31,003
+And even the last one, I bought it, my god, at the airport now four days ago.
+
+1027
+01:35:31,490 --> 01:35:35,507
+I forgot some Italian sounding author, prayers for the assassins.
+
+1028
+01:35:35,910 --> 01:35:38,769
+The idea is atomic bombs, blah, blah, blah, war.
+
+1029
+01:35:38,970 --> 01:35:41,466
+The result, United States falls apart.
+
+1030
+01:35:42,311 --> 01:35:53,605
+Southeast, Bible Belt Republic, New York, that area, atomic waste, and LA, Northwest in Seattle, Islamic Republic of the United States.
+
+1031
+01:35:54,250 --> 01:35:59,709
+And it's a very nice novel because it doesn't paint Islam simply as bad.
+
+1032
+01:35:59,851 --> 01:36:01,950
+It tries to imagine how it would have felt.
+
+1033
+01:36:01,970 --> 01:36:09,664
+But again, the point is, what ideological pleasure do you get from it, no?
+
+1034
+01:36:10,510 --> 01:36:13,330
+So, OK, I would have to go on too much.
+
+1035
+01:36:13,390 --> 01:36:22,828
+But to go your other points about where we get, we didn't see, and so on, and so on, I'm not, no,
+
+1036
+01:36:23,390 --> 01:36:24,789
+I will make another point here.
+
+1037
+01:36:24,870 --> 01:36:25,822
+And that's all I can say now.
+
+1038
+01:36:26,570 --> 01:36:42,669
+I am not saying, maybe I gave a wrong impression, that the true film would have been the one which would have provided a total picture with all historical causes of the events, no, I already hinted a couple of versions of what would have been a more truthful film.
+
+1039
+01:36:42,730 --> 01:36:46,065
+For example, as I said, American 11 instead of United 93.
+
+1040
+01:36:47,090 --> 01:36:54,444
+That is to say, not some kind of Marxist, optimistic, total knowledge, but at least the true despair, how should I put it, no?
+
+1041
+01:36:54,770 --> 01:36:56,046
+At least the true despair.
+
+1042
+01:36:57,911 --> 01:37:03,909
+And again, this doesn't involve any kind of secret pseudo-leftist justification.
+
+1043
+01:37:04,030 --> 01:37:07,068
+ha ha, you got what you want, or whatever.
+
+1044
+01:37:07,490 --> 01:37:17,746
+No, it's just, how should I put it, the problem is simply precisely to confront things in all their horror.
+
+1045
+01:37:18,150 --> 01:37:31,109
+What bothers me in this aggressive, either here Republican attitude, it's a feature which somehow strangely, this idea that you can only tell the story when people fight back.
+
+1046
+01:37:31,310 --> 01:37:36,728
+And you know that this was the same in communist countries.
+
+1047
+01:37:37,290 --> 01:37:52,688
+It's a strange thing why, when they were dealing with those who survived the concentration camps, the communist regimes always found it a kind of irrational hatred and guilt.
+
+1048
+01:37:53,231 --> 01:37:59,829
+Usually, all those Russian soldiers who were freed from Nazi camps, most of them were sent to Siberia killed.
+
+1049
+01:37:59,970 --> 01:38:07,049
+or even worse, in my country, Slovenia, part of x-Yugoslavia, we avoided Stalinist show trials.
+
+1050
+01:38:07,130 --> 01:38:10,142
+But there was one show trial monstrous in 51.
+
+1051
+01:38:12,130 --> 01:38:13,467
+It was called Dachau trial.
+
+1052
+01:38:13,790 --> 01:38:20,849
+The survivors of Dachau were put to trial, accused of surviving Dachau because they collaborated with the Germans.
+
+1053
+01:38:20,930 --> 01:38:23,028
+And then there are no English spies, the usual story.
+
+1054
+01:38:23,270 --> 01:38:31,849
+But what fascinated, I think, what is beneath is that the communists couldn't imagine this true despair,
+
+1055
+01:38:32,150 --> 01:38:42,868
+that there are situations where you can be so humiliated that it's no longer possible this heroic stance, shoot, but I fight back, and so on, no?
+
+1056
+01:38:43,450 --> 01:38:48,434
+They still, it's somehow too embarrassing, unimaginable to them,
+
+1057
+01:38:48,458 --> 01:39:02,058
+this utter despair embodied in the figure of this nicely described in Agamben's book about Auschwitz, these Muslims, Muslim men, and this living dead, totally broken.
+
+1058
+01:39:02,130 --> 01:39:06,016
+Or to put it in another way, it's a very sensitive topic, but I insist on it.
+
+1059
+01:39:08,150 --> 01:39:14,801
+Did you notice a strange fact that most of the really good films about Holocaust and so on are comedies?
+
+1060
+01:39:15,410 --> 01:39:17,845
+I think there is a deeper necessity in it.
+
+1061
+01:39:18,671 --> 01:39:19,738
+What kind of necessity?
+
+1062
+01:39:21,330 --> 01:39:23,629
+Tragedy can only be written.
+
+1063
+01:39:23,871 --> 01:39:29,548
+something can be staged, presented as tragedy, when things are not really, truly desperate to the end.
+
+1064
+01:39:29,910 --> 01:39:38,228
+Because in tragedy, you retain a minimum of dignity to play your tragic role with this heroic dignity.
+
+1065
+01:39:38,630 --> 01:39:46,760
+So a film which would have taken place, for example, in Auschwitz as a tragedy would have been an obscenity, I claim.
+
+1066
+01:39:47,250 --> 01:39:50,790
+It would have given too much credit to the Nazis.
+
+1067
+01:39:50,910 --> 01:40:07,706
+The whole point is that the terror was so total that it was not possible to do a conflict at the level of tragedy, which is why some of the scenes, if you read Primo Levi, the way he described,
+
+1068
+01:40:08,450 --> 01:40:11,327
+you cannot but describe them as comical.
+
+1069
+01:40:11,770 --> 01:40:22,063
+For example, one of the most horrible scenes, read it in, if this is a man when every two months you had in Auschwitz camp a process called selection.
+
+1070
+01:40:23,550 --> 01:40:27,307
+All prisoners have to run naked in front of a SS doctor.
+
+1071
+01:40:27,991 --> 01:40:30,027
+And the doctor was tired, didn't care.
+
+1072
+01:40:30,411 --> 01:40:35,710
+Literally, you had two, three seconds to impress the doctor, that you are healthy enough to survive.
+
+1073
+01:40:35,810 --> 01:40:41,028
+And he simply categorize you to be burned or to allowed to live.
+
+1074
+01:40:41,510 --> 01:40:47,410
+But there is something obscenely, madly comical in this, how Primo Levi describes this.
+
+1075
+01:40:47,450 --> 01:40:55,029
+You know, like the prisoners were trying to pinch their lips to appear more healthy, more red, their stomachs tried to rise.
+
+1076
+01:40:55,290 --> 01:40:59,129
+It's kind of a totally crazy comedy, no dignity in it.
+
+1077
+01:40:59,350 --> 01:41:01,427
+And that's the true horror of it, I claim.
+
+1078
+01:41:01,830 --> 01:41:06,176
+So the same goes for Stalinist show trials, and so on, and so on.
+
+1079
+01:41:07,070 --> 01:41:12,703
+When in this sense, I claim, and Kierkegaard knew this, Christianity is a comedy.
+
+1080
+01:41:13,450 --> 01:41:19,061
+Christianity, to read crucifixion as a tragedy is an obscenity.
+
+1081
+01:41:19,830 --> 01:41:21,708
+Tragedy is for ancient Greeks.
+
+1082
+01:41:22,011 --> 01:41:23,370
+For the Christian, it's comedy.
+
+1083
+01:41:23,450 --> 01:41:29,649
+But of course, the whole point being comedy, which is much more nightmarish than more.
+
+1084
+01:41:29,870 --> 01:41:32,229
+So again, I didn't answer your question.
+
+1085
+01:41:32,390 --> 01:41:34,769
+I know, but there was too much in it.
+
+1086
+01:41:35,012 --> 01:41:35,470
+I'm sorry.
+
+1087
+01:41:35,511 --> 01:41:36,349
+I cannot go in there.
+
+1088
+01:41:39,800 --> 01:41:40,050
+Ah, sorry.
+
+1089
+01:41:40,050 --> 01:41:40,196
+Please.
+
+1090
+01:41:40,590 --> 01:41:41,315
+Thank you.
+
+1091
+01:41:43,390 --> 01:41:53,528
+At the end of your talk, he said that Jesus, by God through Jesus, gives us the gift of freedom, and that is Christianity as you read it.
+
+1092
+01:41:55,150 --> 01:42:07,767
+That really made me think about an earlier statement you made about the idea of, for example, the paradoxical statements you were making about we have freedom to choose as long as we don't choose it.
+
+1093
+01:42:08,150 --> 01:42:12,729
+So on some level, can you reconcile that with Calvinism?
+
+1094
+01:42:13,631 --> 01:42:19,597
+Since we're here at Calvin College, I'm just wondering, are you an atheist Calvinist on some level?
+
+1095
+01:42:20,474 --> 01:42:21,250
+No, if you, okay.
+
+1096
+01:42:21,270 --> 01:42:21,576
+Paradoxically.
+
+1097
+01:42:22,290 --> 01:42:22,535
+Almost.
+
+1098
+01:42:23,270 --> 01:42:29,109
+If you ask me which religious orientation would be of Christianity, would be closest
+
+1099
+01:42:29,370 --> 01:42:40,588
+to my spontaneous sensitivity, generally Protestantism, but maybe those who are closer to Protestants among Catholics, Pascal, Poirot, why?
+
+1100
+01:42:40,870 --> 01:42:43,028
+Because we can debate about everything.
+
+1101
+01:42:43,310 --> 01:42:52,410
+One thing I don't concede, this obscenity that our salvation depends on our good acts.
+
+1102
+01:42:52,630 --> 01:43:07,212
+I think this is an obscenity for me, an obscenity in the sense that this then introduces an irreducible aspect of, you know, as if, oh God, okay, if I make this, will it be okay that of kind of economic exchange or whatever.
+
+1103
+01:43:07,250 --> 01:43:08,581
+It has to be predestination.
+
+1104
+01:43:09,811 --> 01:43:12,388
+That's where I totally agree with it.
+
+1105
+01:43:12,650 --> 01:43:18,105
+And now comes the point, oh my God, I hate you, why are you asking me two good questions?
+
+1106
+01:43:19,690 --> 01:43:24,808
+Have you thought about this paradox, I've written about it, which is a crazy paradox,
+
+1107
+01:43:25,490 --> 01:43:44,253
+namely how we all know Max Weber, capitalism, Protestantism, but if we approach it with a common sense, it would have been that capitalism, as we know, the most dynamic, competitive system in the history of humanity.
+
+1108
+01:43:44,350 --> 01:43:48,588
+You are up to you, you are autonomous, you work like crazy.
+
+1109
+01:43:49,170 --> 01:43:55,489
+How is it that this attitude is justified by the notion of predestination, which, if
+
+1110
+01:43:56,010 --> 01:44:06,770
+you approach it in a common sense way, should have justified precisely the opposite attitude, to be vulgar if everything is decided in advance?
+
+1111
+01:44:07,312 --> 01:44:11,070
+Why don't I sit down, read pornography, and drink lemonade?
+
+1112
+01:44:11,130 --> 01:44:14,408
+You know, like, why were everything is already decided?
+
+1113
+01:44:14,770 --> 01:44:16,202
+So it's mysterious.
+
+1114
+01:44:17,291 --> 01:44:27,507
+How is it that precisely the awareness that everything is decided in advance pushes us to incessant activity?
+
+1115
+01:44:28,191 --> 01:44:35,308
+My answer would be here problematic for some theologists maybe, but I'm convinced by it.
+
+1116
+01:44:35,690 --> 01:44:40,929
+that predestination is an extremely refined dialectical notion.
+
+1117
+01:44:41,090 --> 01:44:43,247
+It's not simply it's written up there.
+
+1118
+01:44:43,710 --> 01:44:47,406
+It's that it's written up there, but you don't know what is written, no?
+
+1119
+01:44:47,830 --> 01:44:57,730
+And I think that we should make clear here a step further that even say it is written up there, but it is backwards written.
+
+1120
+01:44:57,790 --> 01:44:58,435
+What do I mean by this?
+
+1121
+01:45:00,730 --> 01:45:12,829
+There is a very refined paradox which theorists of even some theorists of rational action articulated, of how something may happen or not.
+
+1122
+01:45:13,330 --> 01:45:19,507
+But if it happens, retroactively it appears that it had to happen from the beginning.
+
+1123
+01:45:20,030 --> 01:45:32,289
+For example, all good histories of the Roman Civil War, Julius Caesar, and so on, will tell you how once Caesar won, everybody saw it as a destiny, no?
+
+1124
+01:45:32,670 --> 01:45:38,126
+But it is as if things are not necessary from the beginning.
+
+1125
+01:45:39,650 --> 01:45:46,086
+So that the paradox is that if a thing happens, you have to say retroactively that it had to happen.
+
+1126
+01:45:46,851 --> 01:45:47,562
+Retroactively.
+
+1127
+01:45:48,191 --> 01:45:50,169
+And this brings me to another.
+
+1128
+01:45:50,330 --> 01:45:54,290
+I love, as a Marxist, I love religious conservatives.
+
+1129
+01:45:54,350 --> 01:45:56,246
+You find intelligent conservatives.
+
+1130
+01:45:56,770 --> 01:46:03,087
+Like TS Eliot, you know that, my god, if you study English, the most traditional and individual talent.
+
+1131
+01:46:03,590 --> 01:46:13,404
+That famous phrase, the proposition how every great work of art retroactively changes its entire past.
+
+1132
+01:46:14,451 --> 01:46:26,766
+Or it's the same Borges said something similar in his wonderful text on Kafka, that a modest writer, you can say by whom he or she was influenced, a truly great writer,
+
+1133
+01:46:27,410 --> 01:46:30,946
+creates its own, his or her own precursors.
+
+1134
+01:46:31,931 --> 01:46:39,449
+His idea is that, of course, we can say Kafka was influenced by Dostoevsky, Edgar Lampeau,
+
+1135
+01:46:39,731 --> 01:46:40,724
+William Blake, whatever.
+
+1136
+01:46:41,210 --> 01:46:43,045
+But it's not as simple as that.
+
+1137
+01:46:43,710 --> 01:46:49,987
+But to perceive that dimension in Dostoevsky, blah, blah, blah, Kafka already had to be here.
+
+1138
+01:46:50,390 --> 01:46:53,688
+Now, this doesn't mean we simply retroactively project it.
+
+1139
+01:46:54,010 --> 01:47:04,741
+I think that this retroactive constitution
+of necessity is the key to predestination.
+
+1140
+01:47:07,110 --> 01:47:10,047
+Predestination doesn't mean we are not free.
+
+1141
+01:47:10,530 --> 01:47:21,828
+Predestination means that we are, at the much more radical level, free to constitute our very predestination, how should I put it?
+
+1142
+01:47:22,130 --> 01:47:23,886
+Because that's the paradox of freedom.
+
+1143
+01:47:24,410 --> 01:47:27,859
+Freedom, here I agree with deepest insights of Protestants.
+
+1144
+01:47:28,690 --> 01:47:34,207
+True freedom is not, oh, do I want a strawberry cake or a chocolate cake or whatever, this and that.
+
+1145
+01:47:34,710 --> 01:47:40,164
+True freedom is in a way to choose your necessity, how should I put it, no?
+
+1146
+01:47:40,550 --> 01:47:43,648
+True freedom is something much more difficult.
+
+1147
+01:47:44,050 --> 01:47:47,646
+For example, let's take the ultimate free act, love.
+
+1148
+01:47:48,510 --> 01:47:50,326
+Of course, love has to be free.
+
+1149
+01:47:50,810 --> 01:47:54,938
+If somebody tells me you have to love this, that, it doesn't work.
+
+1150
+01:47:55,930 --> 01:48:00,606
+But it's a strange kind of freedom because at the same time, let me be extremely vulgar.
+
+1151
+01:48:01,250 --> 01:48:06,149
+You notice that I like to be, I use the, it's nice to be hypocritical and put the blame.
+
+1152
+01:48:06,210 --> 01:48:10,110
+You know, I really don't want to be vulgar but for the sake of argument, sake of argument.
+
+1153
+01:48:10,130 --> 01:48:10,353
+Okay.
+
+1154
+01:48:11,550 --> 01:48:17,567
+Let's say if I were to say here are some nice girls, let me fall in love and I look around.
+
+1155
+01:48:18,010 --> 01:48:19,969
+Ah, you have nice hair, my legs like that.
+
+1156
+01:48:20,130 --> 01:48:22,849
+OK, the most percentage, it's you.
+
+1157
+01:48:23,070 --> 01:48:25,848
+No, I will not point at anyone, not to be accused of harassment.
+
+1158
+01:48:26,210 --> 01:48:28,547
+And it doesn't work, isn't it?
+
+1159
+01:48:29,010 --> 01:48:32,266
+The whole point of love is that it is free,
+
+1160
+01:48:33,070 --> 01:48:34,844
+the freest maybe act of all.
+
+1161
+01:48:35,670 --> 01:48:39,128
+But what kind of, how do you experience it?
+
+1162
+01:48:39,510 --> 01:48:44,360
+All of a sudden, you experience it as I cannot do otherwise but that.
+
+1163
+01:48:44,950 --> 01:48:46,429
+That's my necessity.
+
+1164
+01:48:46,510 --> 01:48:47,184
+I have to do it.
+
+1165
+01:48:47,470 --> 01:48:53,050
+And it's the same with all great acts of freedom, not through chocolate cake or strawberry cake.
+
+1166
+01:48:53,090 --> 01:48:55,948
+But for example, you are in a difficult predicament.
+
+1167
+01:48:56,330 --> 01:49:03,648
+There is war, or let's say in Europe, Nazi occupation, whatever, to decide to fight it, to engage in fight.
+
+1168
+01:49:04,030 --> 01:49:07,188
+It's probably the utmost free decision.
+
+1169
+01:49:07,630 --> 01:49:15,267
+But it's not that when you decide for it in a way, or for example, for a white man here in the 50s
+
+1170
+01:49:15,790 --> 01:49:26,190
+to really do it, not as a white liberal signing protests up there in New York, but like those white men who were killed here, to come really not here, we are up down there in the south.
+
+1171
+01:49:26,251 --> 01:49:31,123
+Sorry, I still think, I thought that I was where I was two days ago in the south.
+
+1172
+01:49:32,410 --> 01:49:36,641
+To go really down there and risk to be killed supporting the blacks and so on.
+
+1173
+01:49:37,530 --> 01:49:40,767
+It's obscene to say, oh, I was free to decide, I decided.
+
+1174
+01:49:41,390 --> 01:49:47,323
+You decided because in some way you sense that you would be ashamed of yourself, you cannot do otherwise.
+
+1175
+01:49:48,110 --> 01:49:55,348
+This is the deepest sense, not this neurological sense, when you think you are free, you are controlled by your neurons.
+
+1176
+01:49:55,690 --> 01:50:03,928
+This is the deepest sense in which the highest freedom is assuming inner necessity.
+
+1177
+01:50:04,490 --> 01:50:13,608
+So I know, again, that I didn't answer you, but here you see how I relate very intensely to all this topic of predestination and so on.
+
+1178
+01:50:14,050 --> 01:50:34,809
+And definitely, definitely, I think that all the, how to put it, I even, now I'm writing a book on Hegel and Christianity, where I try to develop this, my god, I will be hated for that again, was this political, how very Eurocentric, unashamed, and pro-Protestant.
+
+1179
+01:50:34,870 --> 01:50:38,507
+First, we have Eastern Orthodoxy,
+
+1180
+01:50:39,190 --> 01:50:49,768
+which for me is, I mean, as Christianity, I mean, Russian church, that orthodoxy, not John Milbank, not here, radical orthodoxy, neither East Buddhism, but that one.
+
+1181
+01:50:53,411 --> 01:50:55,689
+I'm very uneasy with that one.
+
+1182
+01:50:55,790 --> 01:51:06,608
+Because first, this whole, I think they secretly change Christ into kind of an idol, a mere ideal to be imitated.
+
+1183
+01:51:06,750 --> 01:51:10,330
+And then in the long term, we all can become Christ.
+
+1184
+01:51:10,410 --> 01:51:15,667
+You know, this idea of man becoming God, gradually we will all becoming God,
+
+1185
+01:51:16,111 --> 01:51:22,148
+connected with another problem which I find very problematic in Orthodox Christian church.
+
+1186
+01:51:22,730 --> 01:51:41,846
+The notion of this distinction between what they call economy and God in itself, as if you can distinguish in God the inner mystery, trinity, of God himself and economy, which is basically to be cynical public relations, how God deals with humanity.
+
+1187
+01:51:42,370 --> 01:51:49,785
+But I think that what gets lost here is simply the deepest Christian insight, which you find in,
+
+1188
+01:51:51,230 --> 01:52:01,969
+at its purest only in Protestantism and some maybe of those mystics like Meister Eckhart, who got it, that what is the deepest insight of them?
+
+1189
+01:52:02,190 --> 01:52:06,730
+it's that we are part of God's history, how should I put it?
+
+1190
+01:52:06,811 --> 01:52:08,184
+It's not God up there.
+
+1191
+01:52:08,850 --> 01:52:13,228
+So I claim that Catholicism, you have more this symbolic exchange.
+
+1192
+01:52:13,390 --> 01:52:15,605
+You deal with God, institution, and so on.
+
+1193
+01:52:16,511 --> 01:52:22,407
+I quite naively believe, so here I'm totally for it, that only with Protestantism did
+
+1194
+01:52:22,990 --> 01:52:33,928
+Christianity, again, to use this nice Hegelian dialectical formulation, only with Protestantism Did Christianity become what it always truly was, as I put it?
+
+1195
+01:52:34,390 --> 01:52:43,168
+Here again, you have this nice paradox, which is properly Christian Hegelian dialectical paradox, that there is eternity.
+
+1196
+01:52:43,490 --> 01:52:49,228
+But eternity is something which can become through time.
+
+1197
+01:52:49,811 --> 01:52:55,225
+Not simply that it wasn't there, it becomes what it always already was.
+
+1198
+01:52:56,350 --> 01:52:57,844
+OK, I'm sorry if I was wrong.
+
+1199
+01:52:58,611 --> 01:52:59,869
+Again, these are serious problems.
+
+1200
+01:52:59,930 --> 01:53:02,969
+If you come again, you can tell us what toilets are like in Slovenia.
+
+1201
+01:53:03,197 --> 01:53:03,447
+Thank you.
+
+1202
+01:53:03,814 --> 01:53:05,030
+Germans, we are disgusting Germans.
+
+1203
+01:53:05,051 --> 01:53:05,649
+That was a joke.
+
+1204
+01:53:05,752 --> 01:53:06,169
+Next person.
+
+1205
+01:53:06,210 --> 01:53:07,443
+We are disgusting Germans.
+
+1206
+01:53:08,191 --> 01:53:09,197
+Sorry to inform you.
+
+1207
+01:53:11,210 --> 01:53:12,787
+I've got a very simple question for you.
+
+1208
+01:53:13,090 --> 01:53:14,888
+Oh my god, this will be the really nasty one.
+
+1209
+01:53:15,110 --> 01:53:19,888
+You already got asked the question about Calvinism.
+
+1210
+01:53:20,430 --> 01:53:28,938
+But going back to your presentation and the scope of human suffering and how that all kind of fits or it doesn't fit with Christianity.
+
+1211
+01:53:30,950 --> 01:53:33,165
+To me, kind of, you stopped at crucifixion.
+
+1212
+01:53:33,951 --> 01:53:46,047
+And I find it kind of narrowing to talk about Christian tradition at large without the resurrection, how resurrection fits into what you just said or how it doesn't fit.
+
+1213
+01:53:46,411 --> 01:53:46,680
+It does.
+
+1214
+01:53:47,070 --> 01:53:53,726
+But here, maybe I'm a little bit too much in favor of some kind of materialist rereading, no?
+
+1215
+01:53:54,450 --> 01:54:02,199
+I mean, resurrection is, for me, what I quoted, that when the two of you will be there and love between you, I will be there.
+
+1216
+01:54:03,030 --> 01:54:06,827
+Resurrection, for me, is the Holy Ghost.
+
+1217
+01:54:07,530 --> 01:54:12,263
+You don't need any Christ to meddle things up there, Hersey.
+
+1218
+01:54:12,450 --> 01:54:17,446
+OK, so your definition of Christian Protestantism will be more of the 19th century liberal tradition.
+
+1219
+01:54:17,991 --> 01:54:18,728
+Oh my god, no.
+
+1220
+01:54:19,091 --> 01:54:25,200
+If we were to be, sorry to tell you this, But if we were to be in Soviet Union in the 30s,
+
+1221
+01:54:27,811 --> 01:54:33,925
+even before you would reach home, you would disappear in a camp of re-education, five years minimum.
+
+1222
+01:54:34,330 --> 01:54:39,230
+No, seriously, because no, my god, I'm Kierkegaardian here.
+
+1223
+01:54:39,290 --> 01:54:51,708
+And the greatness of Kierkegaard is that people usually misread Kierkegaard because they misread him as if his point was no, not institution, but inner faith, absolutely not.
+
+1224
+01:54:52,110 --> 01:54:55,128
+Kierkegaard is, this is for me, the miracle of Kierkegaard.
+
+1225
+01:54:55,571 --> 01:55:11,164
+He knew very well in his critique of what he called Christendom, the Christianity as institution, that the solution is not this liberal attitude of what it only truly matters is your inner faith.
+
+1226
+01:55:11,670 --> 01:55:13,426
+OK, let me give you a radical answer.
+
+1227
+01:55:13,910 --> 01:55:16,726
+If I were to choose, OK, I'll do it this way.
+
+1228
+01:55:17,370 --> 01:55:24,704
+I have many friends who are this kind of half closet materialist closet believers, and they even don't know in which closet they really are or whatever.
+
+1229
+01:55:25,690 --> 01:55:28,910
+I ask them, I like this brutal, do you believe or not?
+
+1230
+01:55:29,030 --> 01:55:32,349
+The usual answer I get is really not.
+
+1231
+01:55:32,490 --> 01:55:37,941
+I don't like institutions, but there is something deep in me, maybe some force, blah, blah, blah.
+
+1232
+01:55:39,610 --> 01:55:41,320
+I have no mercy for this.
+
+1233
+01:55:43,190 --> 01:55:48,102
+To me, what is much more sympathetic, what interests me is precisely church as an institution.
+
+1234
+01:55:49,950 --> 01:55:53,085
+Church as an institution, which is why what interests me is Protestantism.
+
+1235
+01:55:53,451 --> 01:55:55,147
+It's not this, me and God.
+
+1236
+01:55:55,490 --> 01:55:58,308
+No, it's Gemeinde, it's the community.
+
+1237
+01:55:58,590 --> 01:56:06,489
+That's absolutely crucial for me, which is why, for example, I totally agree with that basic Protestant insight.
+
+1238
+01:56:06,710 --> 01:56:09,169
+What does it mean, read Bible alone?
+
+1239
+01:56:09,410 --> 01:56:13,881
+It doesn't mean kind of inner orgasm of meditation, blah, blah.
+
+1240
+01:56:14,371 --> 01:56:16,468
+It means God's work for me.
+
+1241
+01:56:16,770 --> 01:56:18,783
+Read Bible means precisely
+
+1242
+01:56:19,870 --> 01:56:21,922
+You cannot bypass logos.
+
+1243
+01:56:23,350 --> 01:56:26,048
+This is even the limitation for me of all those mystics.
+
+1244
+01:56:26,370 --> 01:56:34,806
+Like, great as he is, but Meister Eckhart cannot really deal with incarnation, with Christ.
+
+1245
+01:56:36,011 --> 01:56:48,609
+Did you notice how the whole operation of Meister Eckhart, his mystical rereading of Christianity, is based on this basically treating with works?
+
+1246
+01:56:48,890 --> 01:56:55,206
+I think you have been letting this ambiguity mundus, now it can means pure and world.
+
+1247
+01:56:55,950 --> 01:57:05,167
+So here it is, God sends his son into mundus whatever, not as into the world, but into the purity of our virgin soul.
+
+1248
+01:57:05,770 --> 01:57:08,270
+I think you lose everything in this way.
+
+1249
+01:57:08,330 --> 01:57:23,450
+But going back so that I don't get lost, to your point, what I'm especially opposed to is this secular humanist notion of this Feuerbach version of you, it doesn't matter what you believe,
+
+1250
+01:57:23,771 --> 01:57:36,749
+Christianity is more a kind of an ideal, you know, it's really we just project into it our highest human desires, what is most noble in us, and so on and so on.
+
+1251
+01:57:36,950 --> 01:57:53,529
+No, I think it's absolutely crucial to insist, I cannot develop it now, that man is not enough to, you must have a dimension which is more radical than only a man in man,
+
+1252
+01:57:53,910 --> 01:58:05,428
+and I cannot go now into it theoretically, but even in psychoanalysis, I claim, this is the function of a concept which is deeply misunderstood, the concept of death drive.
+
+1253
+01:58:06,050 --> 01:58:14,787
+Death drive is not this, oh, I want to die, disappear, or some kind of crazy destructive drive paradoxically, I claim is Freud's name for immortality.
+
+1254
+01:58:15,370 --> 01:58:21,583
+If you really want to understand what is death drive, forgot about all this nirvana stuff and think about Stephen King.
+
+1255
+01:58:22,210 --> 01:58:22,763
+You know what I mean?
+
+1256
+01:58:23,191 --> 01:58:26,589
+This undead, in the sense of death, but living death.
+
+1257
+01:58:26,790 --> 01:58:30,428
+Something which insists beyond life and death.
+
+1258
+01:58:30,830 --> 01:58:37,867
+So again, in this sense, sorry for my tastelessness, but you got my point, in this sense,
+
+1259
+01:58:38,350 --> 01:58:45,168
+No, I'm definitely opposed to this, how should I put it, this soft religious humanism.
+
+1260
+01:58:45,550 --> 01:58:50,622
+Who cares, institutionally, just that you are sincere and that whatever, no.
+
+1261
+01:58:51,310 --> 01:58:56,706
+No, no, no, here I am a strict Kierkegaardian, who, again, what Kierkegaard got,
+
+1262
+01:58:57,290 --> 01:59:06,206
+and this was a great, almost, I would say, Marxist insight by him, is that wasn't, you know, better this than me, wasn't a big target of Kierkegaard's
+
+1263
+01:59:08,675 --> 01:59:14,770
+was some big state theologist, I forgot the name, who was precisely this kind of a liberal.
+
+1264
+01:59:15,231 --> 01:59:23,630
+And what Kierkegaard got is that there is no opposition between this kind of flat,
+
+1265
+01:59:24,191 --> 01:59:31,710
+cheap, bleeding heart humanism and being the worst conformist state philosopher.
+
