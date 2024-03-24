@@ -1,0 +1,1308 @@
+1
+00:00:00,672 --> 00:00:04,009
+Thanks very much for coming, and welcome to this talk.
+
+2
+00:00:04,290 --> 00:00:06,505
+Delighted to be talking to Slavoj Zizek.
+
+3
+00:00:07,330 --> 00:00:12,829
+He is the iconoclastic philosopher of our time, known for giving voice to the profound, the absurd, and everything in between.
+
+4
+00:00:12,950 --> 00:00:16,468
+Among his many books are The Sublime Object of Ideology,
+
+5
+00:00:16,911 --> 00:00:28,004
+Living in the End Times, and more recently, Pandemic, as well as Hegel in a Wired Brain, and Surplus Enjoyment, a guide for the non perplexed, really critical difference.
+
+6
+00:00:28,932 --> 00:00:39,067
+And he tells me he's now got three more books emerging in the autumn, including Freedom, A Disease Without Cure and Too Late to Awaken, is that the other term?
+
+7
+00:00:39,611 --> 00:00:46,020
+So what we'll do is we'll have 30 minutes where we will talk and then we'll turn for a Q&A with about 15 minutes for that.
+
+8
+00:00:47,211 --> 00:00:50,829
+So in terms of the life and work, yeah, there's this question about life.
+
+9
+00:00:50,890 --> 00:00:59,105
+Slavoj, should we start with often very, very driven people have a deep lying, underlying trauma as we were discussing.
+
+10
+00:00:59,471 --> 00:01:00,641
+So what is your trauma?
+
+11
+00:01:01,811 --> 00:01:03,164
+In some sense, I'm not kidding.
+
+12
+00:01:03,851 --> 00:01:04,743
+Life itself.
+
+13
+00:01:05,370 --> 00:01:08,027
+I don't think I existed before theory.
+
+14
+00:01:08,450 --> 00:01:18,968
+And I'm so corrupted that even when I watch a movie or read a novel, my mind is always, how can I use it in my theory afterwards?
+
+15
+00:01:19,610 --> 00:01:20,949
+And I notice details.
+
+16
+00:01:21,010 --> 00:01:30,846
+For example, did you see that it's not so good, but it's based on video game, the first season of the series, The Last of Us, post acapelipity.
+
+17
+00:01:31,530 --> 00:01:33,163
+For me, of course, as a leftist.
+
+18
+00:01:34,030 --> 00:01:45,889
+I think it's episode five, where the two, father figure and the girl walker, and enter a city which is well organized in these survivalist terms.
+
+19
+00:01:45,950 --> 00:01:46,962
+They share everything.
+
+20
+00:01:47,690 --> 00:01:54,268
+And then, I don't know who, I think Pedro Pascal, the guy, but you have communism here.
+
+21
+00:01:54,550 --> 00:01:57,088
+And they simply say, yes, so what, we have communism, yes.
+
+22
+00:01:57,511 --> 00:01:59,324
+And I think this is what we will need.
+
+23
+00:02:00,271 --> 00:02:10,047
+If things go on like this, look at you here in England, you are now almost as bad and without in Slovenia, public health service and so on, everything collapsing.
+
+24
+00:02:10,670 --> 00:02:14,448
+And just imagine a new crisis of whatever sort.
+
+25
+00:02:15,050 --> 00:02:29,010
+It's clearly that the market will not do it, that we will need, I'm a communist pessimist, we will need more some kind of a war communism, emergency state, but I'm losing time.
+
+26
+00:02:29,091 --> 00:02:30,589
+No, no, you're not, that's really important.
+
+27
+00:02:30,670 --> 00:02:37,986
+So I want to ask you about the end, because you've been writing for a long time, you were talking about melancholia and how you quite like it because it is the end.
+
+28
+00:02:38,551 --> 00:02:45,325
+And there are virtues to ends where something emerges, but then if it's just a total collapse, then that's a bad idea.
+
+29
+00:02:45,710 --> 00:02:50,406
+And in surplus enjoyment, you've turned to that living in the end times, which is quite some time ago you were talking about it.
+
+30
+00:02:50,830 --> 00:02:54,606
+So to ask you a question you ask in Hegel in A Wired Brain,
+
+31
+00:02:55,630 --> 00:03:00,105
+Are we living in a dystopian time or a time of dystopian fantasies, or both?
+
+32
+00:03:01,273 --> 00:03:05,508
+It's a very good question because this difference is crucial.
+
+33
+00:03:05,830 --> 00:03:09,745
+The only way I can account for it, let me be precise, which difference?
+
+34
+00:03:10,410 --> 00:03:16,505
+Precisely, are we really more or less approaching some kind of end?
+
+35
+00:03:17,311 --> 00:03:23,806
+Or is it just that in a strange way we are obsessed by the end?
+
+36
+00:03:24,550 --> 00:03:29,470
+I think both are true, but not in the sense of harmony.
+
+37
+00:03:30,090 --> 00:03:33,428
+The explanation I have is that we, at the same time,
+
+38
+00:03:33,971 --> 00:03:40,369
+we live in an era of what I call, following my conservative German friend, Peter Sloterdijk,
+
+39
+00:03:40,650 --> 00:03:48,566
+we live in an era of cynical reason, where, you know, in the old times, the survival worked like this.
+
+40
+00:03:49,171 --> 00:03:54,065
+You knew something is true, but you pretend that it's not true.
+
+41
+00:03:55,050 --> 00:03:58,588
+And you, or you try to explain it away and so on.
+
+42
+00:03:59,110 --> 00:04:06,067
+Now we are entering a new era, I have in my next book, but also can impress later, of science,
+
+43
+00:04:06,550 --> 00:04:11,470
+where we learned, we, those in power, not me,
+
+44
+00:04:12,170 --> 00:04:18,184
+we learned how to tell objectively at the level of facts the truth,
+
+45
+00:04:18,990 --> 00:04:21,642
+But this very fact immobilizes us.
+
+46
+00:04:23,490 --> 00:04:32,600
+Precisely, the fact of talking about it instead of mobilizing us makes us apathetic, inefficient, and so on.
+
+47
+00:04:33,150 --> 00:04:38,046
+For example, even at the level of art, because I'm here, not at the other place.
+
+48
+00:04:38,710 --> 00:04:40,190
+Is there another place in Davis?
+
+49
+00:04:40,293 --> 00:04:40,728
+I don't know.
+
+50
+00:04:40,811 --> 00:04:41,309
+I can't remember.
+
+51
+00:04:41,350 --> 00:04:41,767
+Yeah, also.
+
+52
+00:04:41,850 --> 00:04:42,079
+I forgot.
+
+53
+00:04:42,370 --> 00:04:49,846
+Because if there is a thing I hate, and one of the things where I am tempted to act as a terrorist, like a bomb there.
+
+54
+00:04:50,510 --> 00:04:55,490
+It's this big art biennales, Venice Castle and so on.
+
+55
+00:04:55,550 --> 00:04:57,306
+Did you notice something about them?
+
+56
+00:04:57,790 --> 00:05:05,848
+How, in their programmatic notes to begin with, they say we are all under capitalism,
+
+57
+00:05:06,150 --> 00:05:11,180
+we are part of exploitation, Eurocentric, racist, blah, blah, blah.
+
+58
+00:05:11,790 --> 00:05:22,987
+And then they go on, and the way Castle and Venice functions are perfect examples of pure capitalist commercialization of art.
+
+59
+00:05:23,330 --> 00:05:29,888
+You see the paradox, you are telling it what it is and instead of preventing you, it goes on.
+
+60
+00:05:30,230 --> 00:05:40,447
+Wasn't the same with, no, it was a little bit north two years ago when you remember the Glasgow Conference on Prince, now no longer just Prince.
+
+61
+00:05:40,970 --> 00:05:52,769
+Charles was there and in some stupid sense, Although it's not, he basically told the truth, bread danger, blah, blah, blah, but nothing came out of it.
+
+62
+00:05:52,870 --> 00:05:55,227
+And this is very close to me, now I enter.
+
+63
+00:05:55,650 --> 00:05:58,666
+This is as much as you will get from me about life.
+
+64
+00:05:59,531 --> 00:06:02,787
+I know that stance because I have it.
+
+65
+00:06:03,370 --> 00:06:05,665
+It's the obsession neurotic stance.
+
+66
+00:06:06,430 --> 00:06:11,149
+You talk all the time, not to achieve something,
+
+67
+00:06:11,611 --> 00:06:15,087
+but to make it sure that nothing will happen.
+
+68
+00:06:15,690 --> 00:06:24,208
+That's why another detail from life, when I was 50 years ago, 40, in psychoanalysis, you can imagine how it looked.
+
+69
+00:06:24,551 --> 00:06:31,867
+It was a Lacanian psychoanalysis, which means I could be sure that the session will not last more than five, seven minutes.
+
+70
+00:06:32,330 --> 00:06:34,287
+So I talked all the time.
+
+71
+00:06:34,751 --> 00:06:34,936
+Why?
+
+72
+00:06:35,530 --> 00:06:39,087
+Because I was afraid that if I stop talking for a second,
+
+73
+00:06:39,710 --> 00:06:44,028
+the analyst will ask me some really embarrassing questions.
+
+74
+00:06:44,710 --> 00:06:52,370
+So you see, this idea of being active to make it sure that nothing will really change, happen.
+
+75
+00:06:52,772 --> 00:07:02,749
+Can I posit a kind of devil's advocate on that, though, that is it possible, but by talking about the apocalypse, it becomes something that occurs?
+
+76
+00:07:02,830 --> 00:07:04,122
+I mean, do you bring it into being,
+
+77
+00:07:05,030 --> 00:07:14,679
+by everybody saying we're in an apocalypse, it's happening, it's going, and then so whenever there's apocalyptic possibility that's immediately grasped and we kind of incite ourselves into an apocalypse.
+
+78
+00:07:14,679 --> 00:07:29,670
+I know I know I know the question but I'm not sure if it functions like that I think it's more this idea if we talk enough about it life will somehow magically just life will just go on
+
+79
+00:07:30,512 --> 00:07:38,186
+that's why some of you will widely disagree with me because even some Some leftists ask me, are you crazy?
+
+80
+00:07:38,650 --> 00:07:40,287
+How can you support Ukraine?
+
+81
+00:07:40,530 --> 00:07:44,448
+You support NATO, you support Western imperialism and so on.
+
+82
+00:07:44,911 --> 00:07:47,923
+Well, this is a very strange thing.
+
+83
+00:07:49,651 --> 00:07:53,367
+I go into it with my Too Late to Awaken book.
+
+84
+00:07:54,250 --> 00:08:02,729
+I tell them, first, I passively speak Russian and my brains are not washed by Western propaganda about Ukraine.
+
+85
+00:08:03,199 --> 00:08:03,546
+Sorry.
+
+86
+00:08:03,990 --> 00:08:12,328
+listening to Russian media all the time, and it's absolutely horrible what I read there.
+
+87
+00:08:14,191 --> 00:08:17,784
+So which is why I'm jumping, but here we are to jump here and there.
+
+88
+00:08:17,784 --> 00:08:25,345
+Another thing that I hate absolutely is this pseudo-deep proverb, you know, apparently multiculturalist.
+
+89
+00:08:25,345 --> 00:08:32,949
+The enemy is somebody whose side, whose truth, whose story you were not able to listen to.
+
+90
+00:08:33,390 --> 00:08:34,201
+Are you crazy?
+
+91
+00:08:34,990 --> 00:08:44,049
+Okay, this applies maybe to small neighborly conflicts, but when you say Hitler is our enemy because we are not ready to listen to his story.
+
+92
+00:08:44,450 --> 00:08:48,048
+I mean, I did, I read Mein Kampf, a very boring book.
+
+93
+00:08:48,610 --> 00:08:52,668
+And you are even more horrified there.
+
+94
+00:08:53,130 --> 00:08:57,983
+On the other hand, I think that, of course, we always have a story.
+
+95
+00:08:58,670 --> 00:09:03,967
+But in politics, it's not that you enact a story.
+
+96
+00:09:05,011 --> 00:09:16,008
+It's that you do something horrible, and the big problem is to invent a story which covers it up, which allows you to live with the horror.
+
+97
+00:09:16,370 --> 00:09:25,627
+And I think, unfortunately, and my Japanese friends even agree with me here, that that's the case with so-called Western Buddhism, but the same there.
+
+98
+00:09:26,390 --> 00:09:41,589
+No wonder that, so I read, the most popular spiritual religious, if you call it, but it's not, orientation of big corporate guys today is some kind of a vague pseudo-oriental spiritualism.
+
+99
+00:09:41,910 --> 00:09:42,890
+Because it's wonderful.
+
+100
+00:09:42,930 --> 00:09:46,290
+You do all the dirty things, people losing jobs, killing.
+
+101
+00:09:46,370 --> 00:09:48,370
+And then you tell yourself, but what is this?
+
+102
+00:09:48,430 --> 00:09:50,787
+But isn't life just a fleeting appearance?
+
+103
+00:09:51,290 --> 00:09:53,847
+The truth is in me, and so on, and so on.
+
+104
+00:09:54,350 --> 00:09:58,705
+I mean, if you have, I respect Buddhism, especially Zen Buddhism.
+
+105
+00:09:59,170 --> 00:10:09,701
+But this was, for me, the sobering, one of my, how should I call it, grounding, again, fucking Clive, we are coming back, life experiences.
+
+106
+00:10:10,670 --> 00:10:24,143
+When I read a book, I quoted, Brian Victoria, he is a Japanese, although this type of name, Zen and War, Zen War, something like that.
+
+107
+00:10:24,631 --> 00:10:36,329
+It describes how almost all of them, there were a couple of million Zen establishment, apart from four or five dissidents, totally supported the Japanese Imperial War.
+
+108
+00:10:36,710 --> 00:10:44,528
+You know, if you are old enough, the big guy popularizer of Zen dies at the tower of Suzuki, Suzuki from hippie times.
+
+109
+00:10:44,951 --> 00:10:47,928
+Yeah, but look at his earlier writings, you know.
+
+110
+00:10:48,291 --> 00:10:54,369
+In late 30s, he wrote a long justification of the Japanese attack on China.
+
+111
+00:10:54,691 --> 00:11:02,929
+Not only this, he collaborated with the army because he proposed them a theory with a terrifying example, but which is the truth.
+
+112
+00:11:03,111 --> 00:11:03,945
+I appreciate him.
+
+113
+00:11:04,310 --> 00:11:07,367
+He said, sorry, let's say you are my enemy.
+
+114
+00:11:07,931 --> 00:11:09,388
+We meet in the battlefield.
+
+115
+00:11:10,590 --> 00:11:12,485
+The fight is primitive, I have a knife.
+
+116
+00:11:13,231 --> 00:11:15,269
+Nonetheless, I'm not totally evil.
+
+117
+00:11:15,430 --> 00:11:20,346
+I would find it a little bit problematic to stick my knife into you.
+
+118
+00:11:20,990 --> 00:11:23,606
+And he confronts this problem, Suzuki.
+
+119
+00:11:24,410 --> 00:11:28,928
+And he says Zen Buddhism has a solution here.
+
+120
+00:11:29,530 --> 00:11:40,428
+You must go through that, you can call it nirvana, whatever, the zero experience, enlightenment, where you see there is no substantial reality.
+
+121
+00:11:41,031 --> 00:11:42,387
+You are not really active.
+
+122
+00:11:42,650 --> 00:11:47,648
+You are just an empty brain observing the crazy dance of phenomena.
+
+123
+00:11:47,930 --> 00:11:55,649
+So Suzuki, I'm quoting him, he says, so it's not I as a person will stick my knife into you.
+
+124
+00:11:55,950 --> 00:11:59,168
+That's painful, I'm still human at some level.
+
+125
+00:11:59,590 --> 00:12:02,506
+But you should have said, I'm observing a phenomenon,
+
+126
+00:12:03,210 --> 00:12:11,488
+phenomenal multiplicity where my knife is dancing in the air and somehow it gets stuck into your breast.
+
+127
+00:12:11,910 --> 00:12:13,447
+and I can kindly leave it.
+
+128
+00:12:13,811 --> 00:12:14,559
+So, you know, no.
+
+129
+00:12:15,490 --> 00:12:21,269
+But let's talk about paradox as well, because that's really fundamental to your writing and to Zen, in fact, that idea of paradox.
+
+130
+00:12:21,792 --> 00:12:32,186
+And in terms also of, I mean, you've talked, and you're sort of talking about it at the moment, you've said that recently things have changed with ideology, that you were saying until now, ideology was just a lie,
+
+131
+00:12:32,710 --> 00:12:36,964
+but now it's a more cynical thing in a very precise sense that you know what you're doing.
+
+132
+00:12:37,410 --> 00:12:40,228
+I would call it lie in the guise of truth.
+
+133
+00:12:40,650 --> 00:12:48,985
+But what does this do then to the old enlightenment mind, this idea that everyone is a kind of, which you've written about as well, that we're sort of rational actors and we can make these decisions
+
+134
+00:12:49,511 --> 00:12:51,349
+if you're in this kind of total paradise?
+
+135
+00:12:51,490 --> 00:12:57,288
+I remain fully, although many people would not believe me, a guy of enlightenment.
+
+136
+00:12:59,470 --> 00:13:06,166
+What I'm saying is not that since rational argumentation doesn't work,
+
+137
+00:13:07,070 --> 00:13:11,385
+then whatever, just violence or do nothing and so on, no.
+
+138
+00:13:11,870 --> 00:13:21,808
+I think that there are different even strategies of speaking, where you can undermine this stance.
+
+139
+00:13:22,250 --> 00:13:26,046
+And I even, in one of my earlier books, I forgot which one, there are too many of them,
+
+140
+00:13:26,610 --> 00:13:35,583
+I elaborated this how every apparently cynical guy, usually you have a fetish, an exception.
+
+141
+00:13:37,030 --> 00:13:39,410
+And there is where you have to attach it.
+
+142
+00:13:39,490 --> 00:13:42,147
+Maybe some of you know this example that I used years ago.
+
+143
+00:13:42,751 --> 00:13:44,704
+It's real life, very stupid.
+
+144
+00:13:46,052 --> 00:13:51,066
+A friend of mine, this was 30 years ago, 20,
+
+145
+00:13:51,090 --> 00:13:57,449
+had a wife who was, sorry for this sexist sounding, but beautiful young, they loved each other all you want.
+
+146
+00:13:57,751 --> 00:14:04,248
+And then all of a sudden in her mid-20s, she got breast cancer and it was too late.
+
+147
+00:14:05,470 --> 00:14:07,507
+She died in two months, horrible.
+
+148
+00:14:07,950 --> 00:14:17,068
+And we were so surprised that the guy, the husband, just went on functioning like normally,
+
+149
+00:14:17,510 --> 00:14:23,447
+talked even about the last moments of his wife, and then something happened.
+
+150
+00:14:23,930 --> 00:14:28,709
+His wife had a preferred pet object, a small hamster.
+
+151
+00:14:30,830 --> 00:14:33,683
+Half a year later, this hamster died.
+
+152
+00:14:35,290 --> 00:14:37,189
+The guy immediately tried to kill him.
+
+153
+00:14:37,350 --> 00:14:39,504
+You know, hamster was his fetish.
+
+154
+00:14:40,430 --> 00:14:47,908
+It embodied like the wife somehow as a fetish, it was a disavowal of his wife's death.
+
+155
+00:14:48,230 --> 00:14:56,186
+So it was at that point that he totally broke down, he had to be for one month on a, how do you call it, suicide watch, you know.
+
+156
+00:14:56,730 --> 00:14:57,842
+Always somebody with him.
+
+157
+00:14:58,750 --> 00:15:15,994
+And tomorrow, to make a little bit of propaganda, at my speech about surplus enjoyment, enjoyment or maybe even at the theological debate in the afternoon, I will go into another forum of this.
+
+158
+00:15:15,994 --> 00:15:32,030
+I was so fascinated with the figure of Heinrich Himmler, SS boss, who was formally, formally as to form, an extremely ethical guy.
+
+159
+00:15:32,950 --> 00:15:36,388
+Never heard, but he organized Holocaust.
+
+160
+00:15:36,730 --> 00:15:40,947
+But for him, this was the highest ethical act.
+
+161
+00:15:41,810 --> 00:15:48,285
+And you know, he used a terrifying reversal here, this cynicism at its purest.
+
+162
+00:15:49,251 --> 00:15:51,587
+He admitted it, this is horrible.
+
+163
+00:15:52,111 --> 00:15:54,666
+How can we, decent Germans,
+
+164
+00:15:55,371 --> 00:15:57,748
+Do this, killing Jewish children,
+
+165
+00:15:59,310 --> 00:16:02,808
+we mean not even, and remain decent.
+
+166
+00:16:03,210 --> 00:16:04,463
+You know what was his answer?
+
+167
+00:16:05,191 --> 00:16:06,408
+Oriental spiritualism.
+
+168
+00:16:06,670 --> 00:16:14,606
+He always was carrying in his pocket a special leather copy of Bhagavad Gita,
+
+169
+00:16:15,490 --> 00:16:23,107
+where you have this idea, you know, the king is convinced to go into battle, saying life is an appearance, the main thing is to do your duty.
+
+170
+00:16:23,391 --> 00:16:29,025
+And the really horrible thing, You find the same rhetorical trick in Stalinism with Trump today.
+
+171
+00:16:29,511 --> 00:16:38,430
+It's, we all have, as I used it in my example, you know, this, I call it basic common sense decency.
+
+172
+00:16:38,590 --> 00:16:46,287
+Like, certain thing you may, I don't, dream about them, I'm not saying I don't have dirty dreams, just not that kind.
+
+173
+00:16:46,692 --> 00:16:48,550
+But that's not part of the life conversation.
+
+174
+00:16:48,651 --> 00:16:49,389
+Yeah, yeah, yeah.
+
+175
+00:16:49,430 --> 00:16:50,229
+Or maybe it is, I don't know.
+
+176
+00:16:50,270 --> 00:16:51,829
+No, no, no, what I don't, don't be afraid.
+
+177
+00:16:51,910 --> 00:16:59,258
+No, no, no, what I just wanted to say is that The problem of Hitler is how do you remain sane and so on.
+
+178
+00:17:06,190 --> 00:17:08,647
+And he operates a very dirty trick.
+
+179
+00:17:09,030 --> 00:17:13,489
+He says that every idiot can be decent and fight for his country.
+
+180
+00:17:13,710 --> 00:17:21,008
+But true patriotism is that you are ready to do horrible things for your country.
+
+181
+00:17:21,630 --> 00:17:26,424
+And I discovered in how they were making propaganda for collectivization in 1930s, early 30s,
+
+182
+00:17:28,550 --> 00:17:33,903
+when they collectivized and millions died of hunger in Russia, and I found the same figure.
+
+183
+00:17:34,230 --> 00:17:45,890
+They said, you will see horrible things, peasant farmers, families starving and so on, but your decency is the greatest temptation to evil.
+
+184
+00:17:46,392 --> 00:17:49,545
+If you're a true Bolshevik, you go on killing.
+
+185
+00:17:50,930 --> 00:17:53,789
+And this horrible ethics is returning to David Trump.
+
+186
+00:17:54,072 --> 00:17:54,338
+But no.
+
+187
+00:17:54,950 --> 00:17:55,521
+Yes, yes.
+
+188
+00:17:55,950 --> 00:17:58,530
+I want to ask you a bit in terms of appearances as well that we take for realities.
+
+189
+00:17:58,570 --> 00:18:03,769
+And I was thinking about Hegel in A Wired Brain where you're talking all about Hegel
+
+190
+00:18:04,271 --> 00:18:13,569
+and subjectivity and how Hegelian notions of subjectivity might relate to this kind of strange world we're now in where for the first time, you know,
+
+191
+00:18:13,593 --> 00:18:22,193
+the Russians wanted to do this in the Soviet Union, but now we actually begin to have this technology where where we can create these strange singularities,
+
+192
+00:18:22,217 --> 00:18:28,817
+which you write about where brain-computer interfaces can link brains into this potentially, yes, potentially.
+
+193
+00:18:28,831 --> 00:18:32,348
+Of course, it's still sci-fi, but the beginnings of these kinds of technologies.
+
+194
+00:18:32,711 --> 00:18:33,649
+And I want to ask you about that.
+
+195
+00:18:33,730 --> 00:18:38,548
+How then does that change to you, the notion first of subjectivity, which you write about,
+
+196
+00:18:38,850 --> 00:18:43,390
+and also these ideas of free will, autonomy, in terms of who's controlling the brain-computer interface?
+
+197
+00:18:43,511 --> 00:18:45,369
+I don't want to lose too much time.
+
+198
+00:18:45,510 --> 00:18:57,569
+So as to freedom, I try to provide in the first chapter of my freedom book, which will be out by Bloomsbury in the fall, I try to, the point is how to,
+
+199
+00:18:58,350 --> 00:19:09,350
+in facing the neurobiological, however you call it, determinism, how to, under quotation marks, save freedom.
+
+200
+00:19:10,610 --> 00:19:16,207
+Because I agree with some determinists like the German lady Sabine Hossenfelder.
+
+201
+00:19:16,671 --> 00:19:17,649
+She's very intelligent.
+
+202
+00:19:17,710 --> 00:19:19,670
+She said that, she even doesn't argue.
+
+203
+00:19:19,730 --> 00:19:26,466
+She said that the moment you accept naturalism, there simply is no space for freedom.
+
+204
+00:19:27,250 --> 00:19:29,467
+Freedom is a subjective concept.
+
+205
+00:19:29,870 --> 00:19:32,407
+So how to save freedom?
+
+206
+00:19:33,030 --> 00:19:46,909
+My answer is not that it's freedom already there in nature, but that the first thing to do is to open up nature, not in the sense of higher spirituality,
+
+207
+00:19:47,350 --> 00:19:53,805
+but in the sense that nature is in itself ontologically incomplete open.
+
+208
+00:19:54,790 --> 00:20:00,289
+Not only human, sorry, not only human culture, but nature.
+
+209
+00:20:00,710 --> 00:20:02,648
+What do I mean by ontological openness?
+
+210
+00:20:02,890 --> 00:20:12,989
+For example, here I always opposed historicism, which says, for example, classical example, I use it often in books, to really understand Shakespeare,
+
+211
+00:20:13,330 --> 00:20:16,762
+you have to know the details of Elizabethan England and so on.
+
+212
+00:20:17,110 --> 00:20:20,589
+My idea is not to really understand Shakespeare.
+
+213
+00:20:20,971 --> 00:20:23,067
+Shakespeare didn't understand himself.
+
+214
+00:20:23,490 --> 00:20:27,008
+His work was full of inconsistencies, incomplete.
+
+215
+00:20:27,350 --> 00:20:31,829
+And if you come later, it's not an obstacle.
+
+216
+00:20:32,210 --> 00:20:37,084
+You can even understand Shakespeare better than he understood himself.
+
+217
+00:20:37,890 --> 00:20:45,646
+And so in some sense, we are not just reading Shakespeare differently.
+
+218
+00:20:45,930 --> 00:20:48,810
+We are literally completing his work.
+
+219
+00:20:48,890 --> 00:20:53,590
+That's how I hate the official dogma of multiculturalism.
+
+220
+00:20:53,710 --> 00:20:56,328
+But I respect it when you really get it.
+
+221
+00:20:56,670 --> 00:20:59,067
+For example, maybe some of you heard this.
+
+222
+00:20:59,590 --> 00:21:04,841
+I find it so wonderful that the best Shakespeare cinema version that I know.
+
+223
+00:21:05,410 --> 00:21:07,583
+It's done by Akira Kurosawa, 61 or two.
+
+224
+00:21:08,730 --> 00:21:11,930
+The version of Hamlet set in contemporary Japan.
+
+225
+00:21:12,050 --> 00:21:15,549
+Hamlet is a Japanese student returning from the United States.
+
+226
+00:21:15,690 --> 00:21:17,667
+His father was a big corporate boss.
+
+227
+00:21:18,030 --> 00:21:22,368
+But it, and it has a wonderful title, this movie.
+
+228
+00:21:22,951 --> 00:21:24,808
+Only bad people sleep well.
+
+229
+00:21:25,030 --> 00:21:26,927
+It's a wonderful title.
+
+230
+00:21:27,290 --> 00:21:27,782
+They don't care.
+
+231
+00:21:28,130 --> 00:21:30,923
+But what I want to say is that I am ready,
+
+232
+00:21:32,451 --> 00:21:34,106
+Maybe I'm speculating too much.
+
+233
+00:21:34,650 --> 00:21:39,164
+I'm now trying to study in detail as much as I can understand.
+
+234
+00:21:39,770 --> 00:21:52,649
+Quantum physics, because I think what you find at the bottom of quantum physics is this idea of ontologically incomplete universe, in the sense that, in what sense?
+
+235
+00:21:52,871 --> 00:21:54,189
+Sorry, give me two minutes.
+
+236
+00:21:54,411 --> 00:21:57,389
+It's an old story, but I like to repeat it of mine.
+
+237
+00:21:58,895 --> 00:22:02,409
+because it links to the previous debate at video games.
+
+238
+00:22:03,090 --> 00:22:08,168
+Look, the first thing about video games is that their universe is incomplete.
+
+239
+00:22:08,490 --> 00:22:19,046
+You're in a game, stupid game, where you are shooting, fighting on the main street of a small town, let us say, and in the back you see forest with trees.
+
+240
+00:22:20,010 --> 00:22:26,889
+But it's not part of the game that you can approach those trees and see them in detail.
+
+241
+00:22:27,812 --> 00:22:29,769
+It's part of the game, did you ever go there?
+
+242
+00:22:29,870 --> 00:22:33,949
+So the programmer say, why lose time on that programming?
+
+243
+00:22:34,211 --> 00:22:35,384
+Let's leave it open.
+
+244
+00:22:35,970 --> 00:22:42,525
+And the way, I got this from a popular introduction to philosophy, sorry, forgot the name, but very intelligently, I think written.
+
+245
+00:22:43,290 --> 00:22:48,587
+The guy says, is not quantum physics, does it not have the same lesson?
+
+246
+00:22:48,930 --> 00:22:55,508
+When God was programming the universe, he said, people are too stupid to reach beyond the atom.
+
+247
+00:22:56,030 --> 00:22:58,149
+so why should I bother their programming?
+
+248
+00:22:58,411 --> 00:22:59,927
+He lived it undetermined.
+
+249
+00:23:00,310 --> 00:23:07,827
+And we were a little bit too bright for God, and we, as you say in English, caught God with his pants down, as it were.
+
+250
+00:23:08,411 --> 00:23:08,657
+You know?
+
+251
+00:23:09,210 --> 00:23:13,230
+And in fact, do you then believe then, or are you positing in terms of that argument?
+
+252
+00:23:13,330 --> 00:23:20,130
+So are you saying, or maybe it's not possible, within quantum physics this question, is reality discrete or continuous?
+
+253
+00:23:20,210 --> 00:23:30,249
+So is reality like Minecraft, where you kind of zoom in further and further and further, and then you get, as you say, down further, further to these tiny little, you know, to the leptons, and further and further down.
+
+254
+00:23:30,391 --> 00:23:32,459
+Is that a view that you're a little sympathetic to?
+
+255
+00:23:32,459 --> 00:23:35,987
+I spontaneously, but I don't have any empirical ground for this.
+
+256
+00:23:36,671 --> 00:23:45,446
+I am for discrete nature in mod sense, and I think this is almost maybe the lesson of quantum physics, but I'm very much speculating now.
+
+257
+00:23:46,111 --> 00:23:52,666
+I think that it's not this endless divisibility you can further split that.
+
+258
+00:23:53,130 --> 00:23:59,484
+At certain point, I can split this in half, this and that, this and that.
+
+259
+00:24:00,190 --> 00:24:06,305
+But I believe when you approach the zero point, the division is between something and nothing.
+
+260
+00:24:07,190 --> 00:24:11,988
+You see, you get something, its counterpoint is void, is nothing.
+
+261
+00:24:12,510 --> 00:24:19,506
+And so I'm not saying this is bad metaphysical reading of that in this freedom is grounded.
+
+262
+00:24:20,350 --> 00:24:22,668
+No, first, freedom is not contingency.
+
+263
+00:24:24,712 --> 00:24:31,408
+It's not my free act if I, but even this is not, of course, it's deterministic, but let's say for me it's a contingency.
+
+264
+00:24:31,710 --> 00:24:36,689
+It's to make a decision, I throw a coin up and set hat tail or whatever.
+
+265
+00:24:36,770 --> 00:24:40,228
+No, that's contingency from my view, really it's not.
+
+266
+00:24:40,650 --> 00:24:43,789
+But freedom is a necessity of its own.
+
+267
+00:24:44,030 --> 00:24:47,167
+Freedom is a positive decision that you do.
+
+268
+00:24:47,931 --> 00:24:51,166
+Is this only, as they say, user's illusion?
+
+269
+00:24:52,091 --> 00:24:53,928
+I think not.
+
+270
+00:24:54,250 --> 00:25:03,327
+I think we have to, it's more important than ever, we have to accept this ontological openness of nature already, of history.
+
+271
+00:25:03,750 --> 00:25:10,448
+For example, we are now in an open situation, and retroactively it will become necessary.
+
+272
+00:25:10,791 --> 00:25:13,007
+If there will be a world war,
+
+273
+00:25:14,331 --> 00:25:16,788
+if there will be people who will survive it,
+
+274
+00:25:17,170 --> 00:25:22,061
+They will tell the story of how it was all pointed towards this war.
+
+275
+00:25:23,411 --> 00:25:24,423
+We were doomed.
+
+276
+00:25:25,051 --> 00:25:30,087
+If there will not be a war, they will say, oh, it was like Cold War, false alarms, and so on.
+
+277
+00:25:30,530 --> 00:25:33,509
+What I'm claiming is that these are not simply illusions.
+
+278
+00:25:33,630 --> 00:25:36,829
+The situation is genuinely open.
+
+279
+00:25:37,090 --> 00:25:50,509
+And another lesson, which I know it's not legitimate, I applied too quickly from quantum physics to humanities, nonetheless, is that to understand something, a historical event,
+
+280
+00:25:50,770 --> 00:25:57,526
+you should read it in a superposition with other possible events.
+
+281
+00:25:58,190 --> 00:26:09,330
+When something happens, you should always ask yourself what other options failed so that this could have happened.
+
+282
+00:26:09,410 --> 00:26:15,590
+So in this way, back to our point immediately, My point in Wirebrained is a more optimistic one.
+
+283
+00:26:15,670 --> 00:26:17,766
+It's not just dark end of humanity.
+
+284
+00:26:18,331 --> 00:26:30,647
+I try to, and it's so interesting that nobody likes those final concluding chapter, where I try to do exactly this, to ask this absolutely naive question.
+
+285
+00:26:31,331 --> 00:26:32,666
+Maybe it's even the wrong question.
+
+286
+00:26:33,050 --> 00:26:40,087
+Let's say that this, self-objectivization, in the sense of a machine which can read our mind.
+
+287
+00:26:40,810 --> 00:26:43,785
+Let's say that it more or less succeeds.
+
+288
+00:26:44,791 --> 00:26:45,379
+We have it.
+
+289
+00:26:46,250 --> 00:26:50,208
+Does this mean that we no longer exist as subjects?
+
+290
+00:26:50,690 --> 00:26:52,687
+My answer is an optimist one there.
+
+291
+00:26:53,110 --> 00:27:02,027
+First, by subject we should not understand this inner wealth of personality, but the pure Cartesian subjectivity.
+
+292
+00:27:02,551 --> 00:27:06,548
+That empty space will remain supported in what?
+
+293
+00:27:06,731 --> 00:27:07,705
+In the unconscious.
+
+294
+00:27:08,050 --> 00:27:11,969
+Because I have here quite an unconscious for me.
+
+295
+00:27:12,150 --> 00:27:14,805
+It's not deep ingrained in our brain.
+
+296
+00:27:15,730 --> 00:27:27,685
+Think about unconscious as just some kind of a purely symbolic virtual entity, something that exists, not materially, really.
+
+297
+00:27:28,310 --> 00:27:33,944
+But just as a, like, we have three, four versions that we think about.
+
+298
+00:27:34,430 --> 00:27:36,346
+But to account for these versions,
+
+299
+00:27:36,930 --> 00:27:41,949
+You have in your symbolic space to presuppose another option.
+
+300
+00:27:42,310 --> 00:27:45,629
+And unconscious is, in this sense, purely virtual.
+
+301
+00:27:45,930 --> 00:27:52,269
+You know, you must have heard, maybe even here, two years ago when I repeated this story about wonderful anecdote.
+
+302
+00:27:52,350 --> 00:27:55,190
+It's overused from the movie Ninotzka.
+
+303
+00:27:55,250 --> 00:27:59,326
+You know, a guy goes to a cafeteria and bring me coffee.
+
+304
+00:28:00,350 --> 00:28:03,389
+He said, can I get coffee but without cream?
+
+305
+00:28:03,570 --> 00:28:05,348
+And the waiter answers correctly.
+
+306
+00:28:05,632 --> 00:28:06,047
+Sorry, sir.
+
+307
+00:28:06,170 --> 00:28:07,587
+We don't have cream, only milk.
+
+308
+00:28:07,950 --> 00:28:09,583
+So can I give you coffee without milk?
+
+309
+00:28:10,570 --> 00:28:15,249
+That's in the, let's say consciousness is what I see.
+
+310
+00:28:15,810 --> 00:28:18,768
+In any case, I get just plain coffee.
+
+311
+00:28:19,190 --> 00:28:23,546
+But it's a big difference if it's coffee without milk or coffee without cream.
+
+312
+00:28:23,851 --> 00:28:25,289
+You will say I'm bullshitting.
+
+313
+00:28:25,411 --> 00:28:26,764
+No, think about feminism.
+
+314
+00:28:27,410 --> 00:28:32,743
+Isn't the big change in the history of feminism where women got it dead.
+
+315
+00:28:33,630 --> 00:28:40,227
+Women who suffer, what they are deprived of is not milk but cream, if I can put it like this.
+
+316
+00:28:40,730 --> 00:28:49,507
+That is to say that it's not that they have a prescribed place in the symbolic space and that maybe if the husband is too brutal, no death.
+
+317
+00:28:50,091 --> 00:28:56,049
+That what they are deprived of, their freedom and so on, needs a more radical shift.
+
+318
+00:28:56,190 --> 00:29:11,104
+So the first step in feminism, and I got this from Judith Butler, with whom I have many polymics, but I agree with her here, is to first, to clearly formulate what you are deprived of.
+
+319
+00:29:11,971 --> 00:29:16,528
+It's not enough to say, oh, my husband doesn't give me enough money and so on, blah, blah, blah.
+
+320
+00:29:16,810 --> 00:29:26,588
+No, you have to say the whole system which puts my husband, if we are living in traditional patriarchal society, is wrong.
+
+321
+00:29:27,151 --> 00:29:32,708
+So to conclude, not with that long joke, I will tell you another thing, did you see Francois?
+
+322
+00:29:33,422 --> 00:29:33,586
+Yeah.
+
+323
+00:29:35,731 --> 00:29:36,198
+No time.
+
+324
+00:29:37,214 --> 00:29:37,644
+My God.
+
+325
+00:29:37,890 --> 00:29:41,830
+Look, and they see, they think we live in free society.
+
+326
+00:29:41,971 --> 00:29:42,545
+No, no.
+
+327
+00:29:43,173 --> 00:29:44,947
+We live in oppressive society.
+
