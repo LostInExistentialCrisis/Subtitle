@@ -1,0 +1,4428 @@
+1
+00:00:01,750 --> 00:00:02,550
+Thank you very much.
+
+2
+00:00:04,166 --> 00:00:07,900
+Thanks to everyone for coming, and you know, I hope it doesn't get too hot in here.
+
+3
+00:00:09,316 --> 00:00:12,250
+We're going to talk today about moral facts and moral fantasies.
+
+4
+00:00:13,500 --> 00:00:15,633
+Once the fashion of a postmodern age,
+
+5
+00:00:16,533 --> 00:00:26,916
+moral relativism has always had its detractors, not only mainstream analytic philosophers, but in particular those with a religious bent.
+
+6
+00:00:27,516 --> 00:00:36,450
+But now there's a new breed of celebrity thinkers, this time with an atheist bent, from Sam Harris to the late Derek Parfit to Peter Singer.
+
+7
+00:00:37,150 --> 00:00:41,916
+They're making claims for the existence of an absolute set of moral truths,
+
+8
+00:00:42,783 --> 00:00:47,033
+even though they would deride the strict moral codes of others like the Victorians.
+
+9
+00:00:48,233 --> 00:00:52,266
+Critics argue that like authoritarian moralists of the past,
+
+10
+00:00:53,566 --> 00:01:00,366
+They use so-called objective morality to shore up their own prejudices and silence descent.
+
+11
+00:01:02,133 --> 00:01:09,700
+Should we welcome the return of objective morality as an antidote to the chaos and confusion of current ethics?
+
+12
+00:01:11,400 --> 00:01:17,966
+Or is it an authoritarian fantasy that needs to be excised before it gains further traction?
+
+13
+00:01:19,150 --> 00:01:28,600
+Or should we give up moral claims altogether in favor of a calm assessment of our social benefits and the threats of any given action?
+
+14
+00:01:29,950 --> 00:01:32,433
+I'm delighted to introduce our speakers.
+
+15
+00:01:33,750 --> 00:01:35,183
+First we have Slavoj Zizek.
+
+16
+00:01:37,000 --> 00:01:41,133
+He's arguably the leading celebrity philosopher of our times.
+
+17
+00:01:41,466 --> 00:01:44,233
+Foreign policy named him a top 100 global thinker.
+
+18
+00:01:45,450 --> 00:01:45,566
+Only 100.
+
+19
+00:01:46,466 --> 00:01:46,950
+Only the top 100.
+
+20
+00:01:47,950 --> 00:01:49,366
+very low way
+
+21
+00:01:49,400 --> 00:01:56,200
+for giving voice to an air era of absurdity
+
+22
+00:01:56,216 --> 00:02:09,516
+Simon Blackburn to my right, is an academic philosopher, known for his work on meta ethics, he's published over a dozen books on various philosophical issues, both for public and academic audiences,
+
+23
+00:02:09,533 --> 00:02:20,200
+and to my far left we have Joanna Kavanagh she's the author of many works of fiction and nonfiction including The Ice Museum, A Field Guide to Reality, and ZED.
+
+24
+00:02:21,516 --> 00:02:28,450
+She has won many awards for her writing, including the Orange Prize for New Writing, and the Granta Best of British Authors.
+
+25
+00:02:29,300 --> 00:02:37,983
+Okay, so without further ado, what I'd like to do now is to pose a question to each of our panelists, and they each get three minutes.
+
+26
+00:02:38,616 --> 00:02:40,700
+Three minutes, Slavoj, three minutes.
+
+27
+00:02:40,916 --> 00:02:42,600
+Sorry, I have some trouble hearing you.
+
+28
+00:02:43,333 --> 00:02:45,016
+I heard 30, but okay.
+
+29
+00:02:46,000 --> 00:02:48,233
+to give us their reaction to the question.
+
+30
+00:02:48,266 --> 00:02:48,900
+Here's the question.
+
+31
+00:02:50,116 --> 00:02:57,783
+Should we welcome the return of an object of morality, or is it authoritarian fantasy?
+
+32
+00:02:58,133 --> 00:02:59,383
+I'm gonna start with Slavoj.
+
+33
+00:03:01,116 --> 00:03:04,716
+Very briefly, I hope I will have some chance later to go on.
+
+34
+00:03:06,000 --> 00:03:12,483
+First, it all depends on what you mean by objective morality and moral relativism.
+
+35
+00:03:14,533 --> 00:03:17,050
+I think there is a third term here.
+
+36
+00:03:17,616 --> 00:03:22,566
+If I may even refer briefly to a philosopher with whom I didn't agree, Karl Popper.
+
+37
+00:03:22,633 --> 00:03:25,900
+You know he introduced the term of the third world.
+
+38
+00:03:26,266 --> 00:03:40,733
+Like objective facts of a symbolic order which in some sense are not part of external reality but nonetheless it's false to subjectivize them.
+
+39
+00:03:41,400 --> 00:03:44,516
+to say these are just emotions and so on.
+
+40
+00:03:45,116 --> 00:03:54,183
+In this sense, I think morality, to work as morality, has to be minimally objective.
+
+41
+00:03:54,800 --> 00:04:08,033
+You cannot have morality for which you claim that it directly just expresses your attitude, your whatever, but just to give two, three hints into what direction I want to go,
+
+42
+00:04:08,600 --> 00:04:10,950
+There are big historical changes,
+
+43
+00:04:11,566 --> 00:04:19,000
+but I think that although there are many rules which in some way or other are common to different epochs,
+
+44
+00:04:19,450 --> 00:04:29,816
+what always fascinated me is that every objective system of not just morality but customs and so on,
+
+45
+00:04:30,550 --> 00:04:38,216
+always relies on unwritten, implicit unwritten rules rules, which are absolutely crucial.
+
+46
+00:04:38,600 --> 00:04:48,000
+And I will conclude with just two examples which are my favorite. One is, did you notice how often things are prohibited?
+
+47
+00:04:49,166 --> 00:04:51,900
+But the system itself, between the lines,
+
+48
+00:04:52,716 --> 00:04:56,166
+solicits you to violate the prohibition.
+
+49
+00:04:56,533 --> 00:05:01,900
+Like I had a very vulgar experience, sorry to fall so low, with my father when I was young,
+
+50
+00:05:02,333 --> 00:05:07,016
+he warned me against contacts to young with women and so on
+
+51
+00:05:07,733 --> 00:05:10,500
+and then he inquired, but did you already do it?
+
+52
+00:05:10,566 --> 00:05:12,483
+What kind of a man are you and so on?
+
+53
+00:05:13,016 --> 00:05:29,550
+So following this ambiguity and much more interesting with which I will conclude, the opposite version of things that we are solicited even to do, you can do it on condition that you don't do it.
+
+54
+00:05:30,150 --> 00:05:32,483
+For example, my favorite, okay,
+
+55
+00:05:32,916 --> 00:05:35,000
+ordinary and extreme example, then I stop.
+
+56
+00:05:35,333 --> 00:05:39,900
+Ordinary example, do you have, I'm not talking about the traitors, England,
+
+57
+00:05:40,316 --> 00:05:48,166
+here in Wales, do you also have this manner, I invite you to dinner, and it's clear that I will pay.
+
+58
+00:05:48,616 --> 00:05:53,083
+But when the bill arrives, if I invited you,
+
+59
+00:05:53,600 --> 00:05:57,700
+you have to insist for some time, no, no, let's share it, and so on.
+
+60
+00:05:58,166 --> 00:06:01,516
+We both know that at the end I will pay.
+
+61
+00:06:02,333 --> 00:06:08,166
+But the guy has to make an offer which we know will be refused.
+
+62
+00:06:08,750 --> 00:06:12,266
+And my favorite example here is it really happened.
+
+63
+00:06:12,950 --> 00:06:15,533
+Sorry, old Stalinist Soviet Union.
+
+64
+00:06:16,266 --> 00:06:22,833
+In Soviet Union, it was not only of course prohibited to criticize Stalin.
+
+65
+00:06:23,566 --> 00:06:29,850
+it was even more prohibited to publicly announce this prohibition.
+
+66
+00:06:31,250 --> 00:06:35,516
+It happened at one session that the guy raised hand, Comrade Stalin is wrong here.
+
+67
+00:06:35,950 --> 00:06:39,350
+Then another guy raised his hand and said, are you crazy?
+
+68
+00:06:39,600 --> 00:06:40,983
+We don't speak like this here.
+
+69
+00:06:41,033 --> 00:06:42,366
+You don't criticize Stalin.
+
+70
+00:06:42,900 --> 00:06:47,866
+The second guy disappeared much faster than the first one.
+
+71
+00:06:48,266 --> 00:06:50,100
+You know, this is very elegant thing.
+
+72
+00:06:50,466 --> 00:06:53,583
+Prohibition itself is prohibited.
+
+73
+00:06:53,916 --> 00:06:56,983
+All this just to complicate things, thanks.
+
+74
+00:06:58,400 --> 00:06:59,800
+Brilliant, that does complicate things.
+
+75
+00:07:00,800 --> 00:07:13,900
+I'm going to turn things over now to Simon since you said, oh, we mustn't think of morality, moral claims, moral truths as expressions of attitudes we have.
+
+76
+00:07:14,650 --> 00:07:15,516
+Simon, what do you think of that?
+
+77
+00:07:16,516 --> 00:07:18,400
+Well, that's exactly how I do think about them.
+
+78
+00:07:20,200 --> 00:07:20,983
+Sorry, what?
+
+79
+00:07:20,983 --> 00:07:22,983
+There are expressions or you agree with me?
+
+80
+00:07:23,650 --> 00:07:27,200
+I don't think there's anything wrong with saying that morality is an expression of attitude.
+
+81
+00:07:28,366 --> 00:07:37,233
+It's not just your personal attitude usually, it's at least an attitude which you're soliciting other people to agree with.
+
+82
+00:07:37,233 --> 00:07:44,433
+So if I say that Boris Johnson's a bad thing, I think if I'm sincere which I would be.
+
+83
+00:07:44,433 --> 00:07:54,000
+It would be an expression of my attitude to the way he behaves but in expressing it I'm not simply emoting or sounding off.
+
+84
+00:07:54,016 --> 00:07:57,200
+The public act is partly one of trying to solicit agreement,
+
+85
+00:07:57,233 --> 00:08:12,566
+and if you disagree with me I'd expect you to say why and then I'd say why I think he's a bad thing and we to and fro and the art, the point of that depends upon on arriving at this sort of social consensus.
+
+86
+00:08:13,333 --> 00:08:16,100
+Now we may know that we can't get social consensus.
+
+87
+00:08:16,833 --> 00:08:21,466
+I know that there are people in the Conservative Party,
+
+88
+00:08:21,900 --> 00:08:26,000
+Tory backbenchers who are not going to agree with me that Boris Johnson is a bad thing.
+
+89
+00:08:27,133 --> 00:08:29,900
+Not at least until he's lost his premiership.
+
+90
+00:08:31,333 --> 00:08:32,483
+Then they might start agreeing.
+
+91
+00:08:33,766 --> 00:08:38,500
+But the point is to express an attitude and solicit agreement for that attitude.
+
+92
+00:08:39,533 --> 00:08:42,116
+Now, people say, ah, but where's the objectivity in that?
+
+93
+00:08:42,966 --> 00:08:46,300
+Well, objectivity is a very interesting word.
+
+94
+00:08:46,366 --> 00:08:49,166
+People think of morals as either objective or subjective.
+
+95
+00:08:50,216 --> 00:08:51,200
+I don't think like that.
+
+96
+00:08:51,366 --> 00:08:55,866
+I think that an opinion becomes objective by being pursued objectively.
+
+97
+00:08:56,800 --> 00:09:07,900
+And that means by looking at the evidence, by being curious about what might bear on it, by even as Karl Popper used to emphasize,
+
+98
+00:09:08,933 --> 00:09:16,866
+being pleased to find refutations of it, being pleased to find things that don't entirely bear it out and which then force you to think again.
+
+99
+00:09:17,566 --> 00:09:32,016
+In other words, it's as if we've got an onboard critic which is itself worried about our own opinions and the desire to improve those opinions and to back them as best we can, that counts as objectivity.
+
+100
+00:09:32,816 --> 00:09:34,016
+You all know that's okay.
+
+101
+00:09:34,833 --> 00:09:35,816
+If any of you are committed,
+
+102
+00:09:37,016 --> 00:09:40,233
+Suppose you're arrested for a crime which you didn't commit.
+
+103
+00:09:41,050 --> 00:09:44,916
+You're going to be praying that the police inquiry into it is objective.
+
+104
+00:09:45,566 --> 00:09:56,933
+So the point is it's the evidence finding, the curiosity, the willingness to be open-minded, which is the sign of objectivity.
+
+105
+00:09:57,400 --> 00:10:00,600
+And in that sense, some opinions are much more objective than others.
+
+106
+00:10:01,550 --> 00:10:04,766
+The opinion that Boris Johnson is a bad thing is entirely objective.
+
+107
+00:10:04,816 --> 00:10:12,166
+There's no conceivable descent from it, except from, well, people I've already mentioned.
+
+108
+00:10:12,516 --> 00:10:13,666
+Have I gone on for three minutes?
+
+109
+00:10:14,416 --> 00:10:14,716
+Okay.
+
+110
+00:10:14,716 --> 00:10:14,833
+Good.
+
+111
+00:10:15,516 --> 00:10:15,933
+Wonderful.
+
+112
+00:10:15,950 --> 00:10:16,283
+Okay.
+
+113
+00:10:16,450 --> 00:10:19,000
+So now let's have our novelist weigh in.
+
+114
+00:10:20,366 --> 00:10:20,700
+Joanna.
+
+115
+00:10:21,166 --> 00:10:21,483
+Thank you.
+
+116
+00:10:22,000 --> 00:10:23,666
+I'm just reminded of the old joke,
+
+117
+00:10:24,500 --> 00:10:26,750
+of course there are objective morals, whatever I say so.
+
+118
+00:10:26,816 --> 00:10:32,633
+I mean, it's that kind of, within this intrinsic premise, there's a sort of incredible reasonable quorum here.
+
+119
+00:10:32,666 --> 00:10:33,083
+It's wonderful.
+
+120
+00:10:33,733 --> 00:10:36,500
+other world of authoritarian fantasy which you mentioned.
+
+121
+00:10:36,966 --> 00:10:42,233
+So I guess if we think about that, why in the debate is authoritarian fantasy being cited?
+
+122
+00:10:43,133 --> 00:10:44,816
+And this sort of adamantine view.
+
+123
+00:10:45,533 --> 00:10:49,783
+And I was thinking often when I think about morality, I remember this poem that W.B.Yeats wrote in 1919,
+
+124
+00:10:51,216 --> 00:10:58,350
+The Second Coming, and it's written just after the complete slaughter and carnage of World War I, this absolute apocalypse.
+
+125
+00:10:58,900 --> 00:11:04,233
+And he is talking about things fall apart, the center cannot hold, and mere anarchy is loosed upon the world.
+
+126
+00:11:04,733 --> 00:11:06,750
+But he also writes these weird lines which,
+
+127
+00:11:07,033 --> 00:11:18,483
+if you read them, I remember reading it for GCSE and I was this sort of passionate teenager and they say, the best lack all conviction and the worst are full of passionate intensity.
+
+128
+00:11:19,100 --> 00:11:22,033
+And you think, well surely it's really good to be passionate and intense.
+
+129
+00:11:22,516 --> 00:11:26,550
+And so, isn't that a good thing to feel passion and intensity?
+
+130
+00:11:26,633 --> 00:11:27,866
+Why would that be the worst?
+
+131
+00:11:28,400 --> 00:11:30,050
+And why would the best lack conviction?
+
+132
+00:11:30,600 --> 00:11:38,116
+And I think what Yeats means is the real maniacs who take control and say, we've got the absolute moral order sorted,
+
+133
+00:11:38,650 --> 00:11:45,833
+no one can demur, and everyone's got to do what we say because we're in touch with a sort of higher cause or power.
+
+134
+00:11:46,600 --> 00:11:50,533
+And they're the ones that in a way paradoxically drive everything into this kind of anarchy.
+
+135
+00:11:51,316 --> 00:12:02,083
+And so as both my colleagues were saying, there's another tradition which is very ancient tradition of how do we live well, how do we live a good life, which goes way back to the earliest
+
+136
+00:12:02,450 --> 00:12:09,516
+philosophical literary text that we know of, one of the earliest, The Epic of Gilgamesh from 2000 years before Christ.
+
+137
+00:12:10,066 --> 00:12:11,750
+So it's a kind of debate that's gone on forever.
+
+138
+00:12:12,266 --> 00:12:22,400
+And then on the other side, you have this kind of maniacal fervor, this passionate intensity that goes into sort of febrile intensity and what that does to the debate.
+
+139
+00:12:23,016 --> 00:12:31,533
+And of course, novelists are just sort of waffling around in the center somewhere trying to write these novels which express everything, this kind of whole gamut of views.
+
+140
+00:12:32,116 --> 00:12:34,450
+And I think Iris Murdoch had a good view of this.
+
+141
+00:12:34,533 --> 00:12:41,700
+She talked about that you need to express a moral position because otherwise you're into what Yates talks about.
+
+142
+00:12:41,766 --> 00:12:43,016
+You lose all conviction.
+
+143
+00:12:43,716 --> 00:12:44,533
+You lose heart.
+
+144
+00:12:44,616 --> 00:12:45,650
+You can't do anything.
+
+145
+00:12:45,800 --> 00:12:48,666
+You can't do anything against these people with this fervor.
+
+146
+00:12:49,350 --> 00:12:55,733
+So she argued that you should try for a kind of openness, a porous moral position was her view.
+
+147
+00:12:56,433 --> 00:13:03,966
+And Adrienne Rich said the same, that there's a moral responsibility in not allowing others to just talk and name everything for you.
+
+148
+00:13:04,550 --> 00:13:09,416
+You try and name and talk yourself, but you also try and let others do that as well.
+
+149
+00:13:09,950 --> 00:13:20,900
+So I'd argue fewer apocalypses, fewer maniacs, quite a lot of novels, if that's all right, and yeah, a sort of porous moral view of things.
+
+150
+00:13:21,433 --> 00:13:21,666
+Thanks.
+
+151
+00:13:22,266 --> 00:13:23,333
+Is that three minutes or more?
+
+152
+00:13:23,533 --> 00:13:23,866
+Far more?
+
+153
+00:13:24,350 --> 00:13:25,166
+Yeah, no, that's good, that's good.
+
+154
+00:13:25,166 --> 00:13:25,933
+Yeah, sorry, probably more.
+
+155
+00:13:26,033 --> 00:13:34,250
+I don't wanna be the time Nazi here, But OK, let's dig a little deeper, see if we can't sharpen what's being said.
+
+156
+00:13:35,733 --> 00:13:37,150
+Let me raise another question for you.
+
+157
+00:13:38,350 --> 00:13:41,100
+Is objective morality even possible?
+
+158
+00:13:42,200 --> 00:13:43,283
+I'd like to start with Joanna.
+
+159
+00:13:44,333 --> 00:13:53,833
+Well, so I think Simon was defining, he was saying, this idea of what we might define as in Popper's idea that Slavoj mentioned as well, this kind of symbolic order.
+
+160
+00:13:54,316 --> 00:14:02,950
+Because otherwise, you get into this adamantine dictionary definition, which would be something that exists beyond feelings and judgment.
+
+161
+00:14:03,866 --> 00:14:09,783
+And actually, within a moral question, of course, our feelings and experiences and judgments are very fundamental to that.
+
+162
+00:14:09,916 --> 00:14:16,466
+So I think this question then of how would you divest your moral order from all feeling judgment?
+
+163
+00:14:16,533 --> 00:14:19,716
+I mean, when you meet someone, you feel, do I trust them?
+
+164
+00:14:20,716 --> 00:14:22,133
+Is this something I want to talk to?
+
+165
+00:14:24,116 --> 00:14:25,033
+And you can be wrong.
+
+166
+00:14:25,233 --> 00:14:35,450
+So if you're thinking about moral texts like Pride and Prejudice, 1813, Austen, that's all about how you can meet someone and your judgment is wrong.
+
+167
+00:14:35,666 --> 00:14:43,450
+You know, Lizzie Bennet doesn't judge Darcy right at first because he's rude and he won't dance with her and he messes up her sister's love life.
+
+168
+00:14:43,966 --> 00:14:47,600
+So initially she thinks he's bad, but then she gets more information.
+
+169
+00:14:47,666 --> 00:14:54,416
+She makes a different judgment, but there's still the sort of sense of what might constitute a person is maintained,
+
+170
+00:14:55,316 --> 00:14:58,866
+these values that Slavoj was talking about that we do expect from others.
+
+171
+00:14:59,550 --> 00:15:03,733
+So I think if you mean something, the thing about this debate is,
+
+172
+00:15:04,016 --> 00:15:14,483
+and my philosophical colleagues should really talk about this, but there's a kind of, it's like William James said, you have the sort of absolutist on one side smashing the world of experience,
+
+173
+00:15:14,950 --> 00:15:22,650
+and then you have the sort of, you know, the kind of relativist, you know, I just know what I know on the other side, smashing the absolute.
+
+174
+00:15:22,666 --> 00:15:24,583
+And everyone just kind of smashes and smashes.
+
+175
+00:15:24,733 --> 00:15:32,766
+And it's a bit like a duel at dawn, like a Groundhog Day duel at dawn, where you just have to get up every day and fire at your opponent and then stop again.
+
+176
+00:15:32,866 --> 00:15:37,100
+But there has to be some other debate which accepts the possibility,
+
+177
+00:15:37,450 --> 00:15:47,100
+which I think both of you have offered these ways to do that, where you accept there is an order in language, there are terms we use, there are societal conditions we accept,
+
+178
+00:15:47,800 --> 00:15:52,700
+where we have to intervene and act, and we can be wrong so that we have to be malleable as well, I think.
+
+179
+00:15:53,466 --> 00:15:58,266
+And in those spaces, do you think that there's what you would be happy to call objectivity?
+
+180
+00:16:00,666 --> 00:16:15,150
+So let me give you, so Jane Bennett has a view of Darcy, and Elizabeth Bennett has a view of Darcy, and you say Jane is wrong, Elizabeth is wrong at the outset?
+
+181
+00:16:16,800 --> 00:16:21,250
+Well, you'd have to say, so they're having a debate in language with terms in society.
+
+182
+00:16:21,333 --> 00:16:24,016
+They're talking about the mores, the customs, the manners.
+
+183
+00:16:24,033 --> 00:16:26,333
+They're sort of humans living in this human realm.
+
+184
+00:16:26,333 --> 00:16:30,600
+The question would really be, are they referring their debate to a sort of absolute realm?
+
+185
+00:16:30,616 --> 00:16:33,866
+And I think in this debate, that's my question really to the philosophers.
+
+186
+00:16:34,133 --> 00:16:35,266
+Is that what we're saying?
+
+187
+00:16:35,283 --> 00:16:41,483
+If we want objective morality, does it have to be redeemed by somewhere whether it goes beyond every human here,
+
+188
+00:16:41,966 --> 00:16:48,216
+it's in a realm of gods or absolute scientific fact that just have nothing of the human,
+
+189
+00:16:48,700 --> 00:16:53,983
+or can we say there's a sort of societal set of mores that we accept and then we debate,
+
+190
+00:16:54,750 --> 00:17:04,250
+and they do change and we make wrong decisions, but they are present and they're within our very old languages as well, that we all speak with all these old judgments and values in them.
+
+191
+00:17:04,733 --> 00:17:05,716
+Okay, that's super helpful.
+
+192
+00:17:06,416 --> 00:17:21,983
+I do think, and Simon and Savoy can correct me if I'm wrong, that if you look at the debates in moral philosophy now, most people don't think moral objectivism requires some platonic heaven where moral facts subsist.
+
+193
+00:17:22,816 --> 00:17:30,766
+They are within the realm of thinking that we have certain practices in terms of which we can make moral claims that are true or false.
+
+194
+00:17:31,450 --> 00:17:33,683
+So I think that should be the common ground here.
+
+195
+00:17:33,733 --> 00:17:36,650
+Just a small correction. said, correct me if I'm wrong.
+
+196
+00:17:36,650 --> 00:17:39,216
+Be sure I will correct you even if you are right, okay.
+
+197
+00:17:42,950 --> 00:17:46,816
+So Simon, is objective morality possible?
+
+198
+00:17:46,833 --> 00:17:52,883
+Yeah, I think you've got to settle for a conception of objectivity along the lines I mentioned.
+
+199
+00:17:52,883 --> 00:18:03,000
+Objectivity belongs to the process of self-criticism, of assembling evidence, of curiosity, of care, informing your opinions.
+
+200
+00:18:04,233 --> 00:18:22,683
+One of the more frightening things, I think, about the contemporary world is that people will go onto social media, they'll go onto Twitter and so on, and voice opinions, sometimes very nasty opinions, very direct opinions, without taking any care over their verification.
+
+201
+00:18:23,500 --> 00:18:31,450
+So you get conspiracy theories, you get false views and so on, promulgated with the same kind of fervor as any truths that there are.
+
+202
+00:18:32,166 --> 00:18:39,116
+That's not just about morality, that's about just about everything that's the subject of such media storms.
+
+203
+00:18:40,500 --> 00:18:51,600
+The point about a third world or a Popperian world is, I think, well taken and I've no interest in defending it and I don't know anybody really who does.
+
+204
+00:18:53,600 --> 00:18:55,933
+That is, it doesn't lie beyond us.
+
+205
+00:18:56,566 --> 00:19:04,083
+the famous philosopher Charles Sanders Peirce, American philosopher at the end of the 19th century,
+
+206
+00:19:05,650 --> 00:19:11,200
+said that it was a mistake to try to define truth, but you could define the search for truth,
+
+207
+00:19:11,916 --> 00:19:20,600
+which was the search for a point beyond which a question is settled, a point beyond which doubt does not arise.
+
+208
+00:19:21,466 --> 00:19:26,466
+Now in the case of ethics, I think there are plenty of points beyond which doubt does not arise.
+
+209
+00:19:27,616 --> 00:19:36,866
+If I ask for a show of hands, how many people in this audience think that it's wrong to stamp on blind babies for fun?
+
+210
+00:19:39,950 --> 00:19:44,333
+How many people think it's okay to stamp on blind babies for fun?
+
+211
+00:19:45,900 --> 00:19:47,366
+There's only about three people put their hands up.
+
+212
+00:19:47,733 --> 00:19:48,016
+Yeah.
+
+213
+00:19:50,883 --> 00:19:53,450
+Okay, so there's something which is done and dusted.
+
+214
+00:19:53,466 --> 00:19:57,050
+it, it's beyond discussion.
+
+215
+00:19:57,066 --> 00:19:59,550
+To use the famous phrase of the philosopher Elizabeth Anscombe,
+
+216
+00:20:00,116 --> 00:20:06,916
+if somebody chooses to dissent from it, he shows a corrupt mind, and I have no interest in arguing with him.
+
+217
+00:20:06,916 --> 00:20:11,150
+In other words, it's something which, for the moment, the ground stands firm.
+
+218
+00:20:11,150 --> 00:20:12,700
+That's where we are.
+
+219
+00:20:12,716 --> 00:20:19,650
+And then you can go on and see if we can formalize things, make more abstract propositions about morality and so on.
+
+220
+00:20:19,666 --> 00:20:29,883
+And that always proves is very difficult, but the basic judgments from which we start, you've got to start in medias res, in the middle of things.
+
+221
+00:20:30,500 --> 00:20:35,183
+And those basic judgments from which we start, like the one I mentioned, those stand firm.
+
+222
+00:20:35,500 --> 00:20:37,333
+Those are done and dusted.
+
+223
+00:20:37,400 --> 00:20:40,633
+They're part, we can even talk about knowledge if we wish.
+
+224
+00:20:41,250 --> 00:20:44,466
+And where we talk about knowledge, we can talk about objective knowledge, same thing.
+
+225
+00:20:45,850 --> 00:20:52,850
+So I think the polarized debate, which Joanna talked about,
+
+226
+00:20:53,716 --> 00:21:05,966
+between relativists on the one hand and the madmen on the other, the fanatics and the totalitarians, that can be put behind us.
+
+227
+00:21:06,066 --> 00:21:16,833
+We've got to look for more nuanced issues within the general sphere of the things we know and the things we are pretty certain of.
+
+228
+00:21:17,733 --> 00:21:19,600
+And then we can perhaps progress.
+
+229
+00:21:20,550 --> 00:21:25,166
+If you start with the abstract ideas of objectivity and subjectivity, you'll get nowhere.
+
+230
+00:21:27,183 --> 00:21:27,633
+OK, brilliant.
+
+231
+00:21:27,666 --> 00:21:28,350
+That's very helpful.
+
+232
+00:21:28,750 --> 00:21:33,933
+So what I hear Simon saying is that we have some firm ground to stand on.
+
+233
+00:21:34,600 --> 00:21:36,733
+Don't stomp on blind babies for fun.
+
+234
+00:21:37,933 --> 00:21:41,450
+But what would you say to someone who pressured you and said, well, yeah, OK.
+
+235
+00:21:42,316 --> 00:21:43,983
+But what about abortion?
+
+236
+00:21:44,666 --> 00:21:46,666
+What about contraception?
+
+237
+00:21:47,750 --> 00:21:57,283
+What about the fact that we haven't made much moral progress through argumentation of the sort that you champion?
+
+238
+00:21:58,116 --> 00:21:59,533
+Is that a sign of something?
+
+239
+00:22:00,666 --> 00:22:02,650
+Yeah, it's a sign that the question is very difficult.
+
+240
+00:22:03,050 --> 00:22:08,316
+And there are things to be said on both sides and plentiful things to be said on both sides.
+
+241
+00:22:09,133 --> 00:22:13,733
+I mean, we all know the basic moves in something like the abortion debate.
+
+242
+00:22:15,050 --> 00:22:18,200
+People who defend abortion don't defend infanticide,
+
+243
+00:22:19,100 --> 00:22:26,900
+and yet it's a little difficult to be sure where you draw the line, because the processes of life growth are continuous.
+
+244
+00:22:28,350 --> 00:22:30,366
+So there's a difficult area there.
+
+245
+00:22:32,016 --> 00:22:37,400
+And of course, there's a very difficult area when it comes to the conflict between, let's say,
+
+246
+00:22:37,766 --> 00:22:49,733
+woman's right to take control of her own body, and the alleged right of the fetus to develop into a person, if that's what it can do.
+
+247
+00:22:49,750 --> 00:22:57,216
+So I think there, you know, it's going to be a difficult debate because there are worthwhile things to be said on both sides.
+
+248
+00:22:57,216 --> 00:23:02,400
+Slavoj, do you want to tell us whether objective morality is possible, not in a third world sense?
+
+249
+00:23:02,400 --> 00:23:07,400
+I still will like, I don't know what's what's happening with me usually I'm just butchering around,
+
+250
+00:23:07,433 --> 00:23:16,833
+now I'm in a better mood and I try to find common language and I still think there is not a big difference between the two of us.
+
+251
+00:23:16,900 --> 00:23:21,850
+Yes, I agree with you, ultimately in some sense
+
+252
+00:23:22,533 --> 00:23:36,683
+of course morality expresses our stances but I would say if you permit me using one of old examples of mind that there has to be a minimum of, I'm very anti-Marxist here,
+
+253
+00:23:37,566 --> 00:23:40,133
+Marxists usually attack alienation.
+
+254
+00:23:41,766 --> 00:23:50,850
+I think there should be a minimum of alienation here that I don't present it just as my expression.
+
+255
+00:23:51,216 --> 00:23:54,700
+That's why, here comes my old example,
+
+256
+00:23:55,200 --> 00:24:02,216
+phenomena which always interested me are this phenomena the first known example was,
+
+257
+00:24:02,916 --> 00:24:06,916
+and I visited them in south of Greece, so-called weepers.
+
+258
+00:24:07,850 --> 00:24:13,200
+Women whom you pay to cry for you, to do the mourning for you.
+
+259
+00:24:14,133 --> 00:24:16,350
+People would say how hypocritical and so on.
+
+260
+00:24:16,850 --> 00:24:20,500
+No, I think this is a positive phenomenon.
+
+261
+00:24:20,900 --> 00:24:23,583
+It gives you a minimum of distance.
+
+262
+00:24:23,733 --> 00:24:27,916
+You minimally objectivize your stance.
+
+263
+00:24:28,333 --> 00:24:38,250
+The same I would say goes, now you will say, but this goes for primitive cultures like you know, in ancient China, in Tibet, those prayers.
+
+264
+00:24:38,366 --> 00:24:39,416
+I love this idea.
+
+265
+00:24:39,766 --> 00:24:47,983
+You put your prayer on a paper, you put the paper in a meal wheel, you turn it around and put it in Stalinist terms,
+
+266
+00:24:48,450 --> 00:24:53,300
+objectively you are praying, even if your mind is on sex or whatever.
+
+267
+00:24:53,766 --> 00:24:56,900
+But now you will say this goes for primitive cultures,
+
+268
+00:24:57,233 --> 00:25:02,483
+AAA, look at the greatest contribution for me of American culture in the 20th century.
+
+269
+00:25:03,650 --> 00:25:06,783
+It was so called canned laughter, you remember it.
+
+270
+00:25:07,216 --> 00:25:10,533
+Where laughter is part of the screen.
+
+271
+00:25:11,050 --> 00:25:12,183
+It worked with me.
+
+272
+00:25:12,666 --> 00:25:16,983
+I often came home in the evening tired as a dog.
+
+273
+00:25:17,316 --> 00:25:28,233
+I put some stupid series on Cheers friends and I didn't laugh just like this but at the end I felt released as if I laughed.
+
+274
+00:25:29,266 --> 00:25:38,400
+And I think I don't want to dismiss this as, I know our Marxist friend will say, extreme commodification, rasication.
+
+275
+00:25:38,866 --> 00:25:43,350
+No, there has to be this minimum of ritualistic alienation.
+
+276
+00:25:47,100 --> 00:25:48,516
+You do a ritual.
+
+277
+00:25:48,866 --> 00:25:52,433
+And I think it was shown, I will not take too much time very briefly,
+
+278
+00:25:53,416 --> 00:25:55,383
+Our reaction to pandemic, how?
+
+279
+00:25:56,000 --> 00:26:12,866
+This proper level of minimally objectified mourning didn't function and it was mostly limited precisely on this hysterical outbursts on, of course, on Twitter, on Facebook and so on and so on.
+
+280
+00:26:13,400 --> 00:26:17,200
+So incidentally, speaking about Jane Austen, Pride and Prejudice.
+
+281
+00:26:17,850 --> 00:26:19,966
+You know, you have a nice ambiguity there.
+
+282
+00:26:20,616 --> 00:26:31,350
+Usually it's taken, correct me if I'm wrong, that Jane has prejudice against Darcy and Darcy has too much pride.
+
+283
+00:26:31,750 --> 00:26:35,033
+But you know that I read an excellent reading which turns it around.
+
+284
+00:26:35,800 --> 00:26:36,116
+But okay.
+
+285
+00:26:36,983 --> 00:26:38,066
+It's your reading or what?
+
+286
+00:26:38,433 --> 00:26:38,666
+Sorry.
+
+287
+00:26:39,800 --> 00:26:40,600
+Yeah, it's very nice.
+
+288
+00:26:40,816 --> 00:26:42,883
+Okay, quickly, quickly, quickly.
+
+289
+00:26:45,400 --> 00:26:53,933
+You know when we oppose relativism, moral historicism, relativism and this fundamentalist objective morality,
+
+290
+00:26:57,366 --> 00:27:07,100
+did you notice that if you take absolutely dogmatically objectivist morality like some religious fundamentalists,
+
+291
+00:27:07,716 --> 00:27:21,233
+it's the most distracting relativism that you actually introduce into social life because no argumentation counts, is just a pure conflict, quickly, quickly.
+
+292
+00:27:21,666 --> 00:27:34,833
+At some level then, would you agree or not, very limited level, but I think at some level a little bit of moral dogma, dogmaticism, could be helpful, what do you mean by this?
+
+293
+00:27:35,216 --> 00:27:36,450
+Something very simple.
+
+294
+00:27:36,833 --> 00:27:42,816
+Like there is maybe some progress conditionally in this fact.
+
+295
+00:27:43,016 --> 00:27:49,833
+I read somewhere a very good feminist point that measured by today's standards, feminist and so on,
+
+296
+00:27:52,816 --> 00:28:01,100
+80 to 90% of the sex till the 20th century would be considered rape by today's standards.
+
+297
+00:28:01,716 --> 00:28:10,833
+So isn't there nonetheless progress when certain things are accepted in a good sense dogmatically?
+
+298
+00:28:11,433 --> 00:28:17,416
+Like, I would like to live in a society like this where you don't have to argue.
+
+299
+00:28:17,700 --> 00:28:21,266
+You shouldn't torture people, women shouldn't be raped.
+
+300
+00:28:21,750 --> 00:28:23,516
+If you need to argue for it,
+
+301
+00:28:24,166 --> 00:28:28,450
+it's already, you are already losing something.
+
+302
+00:28:28,733 --> 00:28:35,366
+This is why what horrified me is that although, who did this, Dick Cheney or who and then Trump,
+
+303
+00:28:36,533 --> 00:28:42,750
+you remember how some 10, 15 years ago when all of a sudden torture became a topic of debate.
+
+304
+00:28:43,200 --> 00:28:47,050
+Maybe if we do it in the soft way, water, blah, blah, blah.
+
+305
+00:28:48,066 --> 00:28:55,200
+And even if the majority was opposed to it, this was even more horrible, it became a topic of debate.
+
+306
+00:28:55,716 --> 00:28:59,966
+Not to mention rape, who was, I always forget his name, she's not my best friend.
+
+307
+00:29:00,416 --> 00:29:06,266
+Some American senator who claimed there is no rape, because for rape there must be penetration,
+
+308
+00:29:06,600 --> 00:29:11,866
+There is no penetration without the woman getting wet, which means she accept.
+
+309
+00:29:12,400 --> 00:29:14,866
+The moment we debate for it, we are lost.
+
+310
+00:29:18,600 --> 00:29:23,150
+The last thing, when we talk about objective research,
+
+311
+00:29:27,800 --> 00:29:34,566
+I still think that here, this is philosophical, problematic, maybe to you and to you.
+
+312
+00:29:35,166 --> 00:29:56,316
+We should, what horrifies me most is examples when factual truth about just what is really out there serves as clearly an instrument of something we don't agree with, like racism and so on.
+
+313
+00:29:56,716 --> 00:29:58,133
+Like an example.
+
+314
+00:29:58,566 --> 00:30:02,033
+If I were to be a pro-Neo-Nazi German,
+
+315
+00:30:02,516 --> 00:30:11,750
+I guarantee you that I could write a book full of facts, only facts, where I say, wait a minute, it's not so simple.
+
+316
+00:30:12,016 --> 00:30:20,566
+Look at the statistic, 60% of journalists in early 30s were Jews and so on and so on.
+
+317
+00:30:21,166 --> 00:30:29,800
+So the true question here when we fight antisemitism is not the question of objectivity.
+
+318
+00:30:30,033 --> 00:30:32,483
+are facts really like that?
+
+319
+00:30:32,900 --> 00:30:35,133
+The way anti-Semite describes them.
+
+320
+00:30:35,616 --> 00:30:42,700
+My point is the moment you accept this as a topic of a debate, you sold your soul to the devil.
+
+321
+00:30:43,166 --> 00:30:50,516
+Because the question is not are Jews or Palestinians today, whoever, are really like that?
+
+322
+00:30:51,100 --> 00:31:01,916
+The true question is why do the Nazis need the image of the Jew, the anti-Semitic image of the Jew to sustain their world view.
+
+323
+00:31:03,600 --> 00:31:07,350
+So there is some, that is for me the tragedy.
+
+324
+00:31:07,416 --> 00:31:23,100
+The most dangerous propaganda for something which is obviously ethically reprehensible is the propaganda which at the level of facts can be mostly truthful.
+
+325
+00:31:24,116 --> 00:31:27,950
+But that's another topic just if you want me to finish and then you can cut me off more later.
+
+326
+00:31:28,433 --> 00:31:30,983
+The last point, when you, this,
+
+327
+00:31:31,733 --> 00:31:33,233
+when you mentioned Yeats, no?
+
+328
+00:31:33,733 --> 00:31:35,383
+Okay, I have some problems with Yeats.
+
+329
+00:31:35,650 --> 00:31:38,733
+You know that he agreed with 34 racial laws in.
+
+330
+00:31:39,150 --> 00:31:40,800
+No, no, Yeats has huge problems.
+
+331
+00:31:41,033 --> 00:31:42,800
+Yeah, I'm just using him as an example of this view.
+
+332
+00:31:43,166 --> 00:31:45,400
+Yeah, so for me, if I take over.
+
+333
+00:31:45,533 --> 00:31:48,450
+But would you condemn an artist for their problems?
+
+334
+00:31:48,566 --> 00:31:51,133
+That's another moral, because I know I shouldn't ask questions, but.
+
+335
+00:31:51,433 --> 00:31:53,183
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+336
+00:31:53,216 --> 00:31:57,133
+I'm a little bit of a, don't tempt me into that direction.
+
+337
+00:31:57,233 --> 00:31:58,050
+Oh, go on, go on.
+
+338
+00:31:58,050 --> 00:32:04,883
+The only thing I can promise you if Yates goes to Gulag, but he would run a library there and have a relatively.
+
+339
+00:32:05,533 --> 00:32:19,383
+No, no, now more seriously, you know what worries me about passion and so on, is that today we witness, that's so horrible, a lot of false passion.
+
+340
+00:32:20,266 --> 00:32:20,766
+What do I mean?
+
+341
+00:32:21,066 --> 00:32:29,000
+You remember the Glasgow Conference a year ago or when about global warming pollution.
+
+342
+00:32:29,633 --> 00:32:39,916
+They were saying mostly the right things, but I claim it meant strictly nothing at the level of conclusion.
+
+343
+00:32:40,033 --> 00:32:48,866
+So today, ideology, I still call it ideology, no longer functions in that old way, spreading lies and so on.
+
+344
+00:32:49,400 --> 00:32:55,683
+We have a way to tell the truth which makes the truth inefficient.
+
+345
+00:32:56,200 --> 00:33:03,916
+That's why, for example, I hate this modern, the analysis, you know, Venice Castle,
+
+346
+00:33:04,450 --> 00:33:12,666
+the officially, there is always anti-capitalist, like artists enslaved to market, we are all exploited, Eurocentric.
+
+347
+00:33:13,316 --> 00:33:21,083
+And, but nonetheless, they fit perfectly today's capitalist functioning of the market.
+
+348
+00:33:21,216 --> 00:33:37,983
+So beware, especially at the level of passing moral judgment, that partial truth, the most dangerous propaganda is the one which uses partial truth to sustain what we all should agree a global life.
+
+349
+00:33:38,066 --> 00:33:38,866
+Sorry if I was too long.
+
+350
+00:33:38,916 --> 00:33:40,083
+Good, no no, interesting.
+
+351
+00:33:40,550 --> 00:33:40,750
+Yeah.
+
+352
+00:33:43,450 --> 00:33:46,466
+You see people spontaneously expressing their.
+
+353
+00:33:46,816 --> 00:33:48,216
+Appreciation, so good.
+
+354
+00:33:49,116 --> 00:33:56,500
+OK, so what we have so far is we have Slavoj saying, look, it's really horrible to even put a topic on the table.
+
+355
+00:33:57,366 --> 00:33:59,383
+I think we have Simon saying, well, hold on.
+
+356
+00:33:59,650 --> 00:34:02,000
+Let's be open-minded and tolerant.
+
+357
+00:34:02,133 --> 00:34:03,816
+People have different views about things.
+
+358
+00:34:04,466 --> 00:34:08,166
+Let's let them express their passions and have arguments about them.
+
+359
+00:34:09,816 --> 00:34:14,383
+Why do we think there is, sorry, for the last time, why do you think there is an opposition here?
+
+360
+00:34:14,466 --> 00:34:20,916
+I thought you said that it's a very bad thing for us to put on the table certain topics.
+
+361
+00:34:22,600 --> 00:34:25,066
+That's where the objectivity, at least one point where objectivity comes in.
+
+362
+00:34:25,200 --> 00:34:26,150
+But I said the same thing.
+
+363
+00:34:26,466 --> 00:34:36,250
+I said if somebody thinks it's OK to stamp on blind babies, especially blind babies, for fun, then I don't want to argue with them.
+
+364
+00:34:36,400 --> 00:34:41,566
+This is not something that should be in contention, which is basically the same.
+
+365
+00:34:41,650 --> 00:34:48,466
+All right, so the disagreement has to do with what kinds of topics can be properly put on the table.
+
+366
+00:34:48,466 --> 00:34:50,000
+All right.
+
+367
+00:34:50,016 --> 00:34:56,883
+So moral relativism is a view that allows you to put topics on the table.
+
+368
+00:34:56,900 --> 00:35:01,700
+So Joanna will you tell us what you think about the following novel will be.
+
+369
+00:35:02,016 --> 00:35:05,800
+I like to stamp on blind babies.
+
+370
+00:35:05,800 --> 00:35:07,683
+I'll say you told me to write it.
+
+371
+00:35:07,683 --> 00:35:08,766
+Absolutely.
+
+372
+00:35:08,766 --> 00:35:08,983
+Do you
+
+373
+00:35:11,316 --> 00:35:18,150
+Do you think that moral relativism is responsible for the chaos and confusion of current ethics?
+
+374
+00:35:19,600 --> 00:35:20,900
+Do you want yes or no, or do you want?
+
+375
+00:35:21,866 --> 00:35:22,383
+A bit more.
+
+376
+00:35:23,033 --> 00:35:33,266
+So I think, I mean, when I was talking about the dodgy Yeats, I think it's kind of inevitable that if you have these massive crises in a quite absolute moral order,
+
+377
+00:35:34,216 --> 00:35:36,466
+then you're gonna have this swing of the pendulum.
+
+378
+00:35:37,866 --> 00:35:42,950
+And so you have people like the also quite dodgy Yeats, Lawrence, who in 1922, exactly a century ago, says,
+
+379
+00:35:44,666 --> 00:35:50,450
+he says, I really want to thank Mr. Einstein for giving us relativism because we used to be really pinned down.
+
+380
+00:35:50,716 --> 00:35:51,966
+We were all totally pinned.
+
+381
+00:35:52,750 --> 00:35:56,483
+And now we can kind of buzz around and we all know that we're all different.
+
+382
+00:35:57,116 --> 00:36:06,066
+The problem with that, and you're right about Yeats, he gets into this kind of, as does Lawrence, this sort of idealized individualism, which is sort of, you know,
+
+383
+00:36:06,400 --> 00:36:09,083
+the individual has to be the absolute focus.
+
+384
+00:36:09,666 --> 00:36:13,850
+And then you get this atomization and this despair because everybody's kind of,
+
+385
+00:36:14,716 --> 00:36:21,066
+Lawrence has this metaphor of we're all buzzing around, but then everyone's kind of buzzing, you know, miles away potentially from everyone else.
+
+386
+00:36:21,833 --> 00:36:28,983
+So these massive swings, again, we get these huge swings where you end up with these polarities all the time.
+
+387
+00:36:29,433 --> 00:36:35,983
+And I always think of Blake in this, and Blake's quite interesting because he, in the 1790s, he hates the moral order
+
+388
+00:36:36,916 --> 00:36:45,166
+because it's aligned itself with child labor, all these things that we would say are demonstrably bad with the slave trades.
+
+389
+00:36:45,533 --> 00:36:49,883
+Again, I don't think we have to have a discussion about the fact that that's obviously awful.
+
+390
+00:36:50,400 --> 00:36:55,200
+So he just says, whatever you people think is God, I think is the devil.
+
+391
+00:36:55,833 --> 00:36:58,400
+And whatever you think is the devil, I'm really for the devil.
+
+392
+00:36:58,633 --> 00:37:01,766
+I'm gonna really go for whatever you think is evil.
+
+393
+00:37:01,933 --> 00:37:08,150
+So he just, as you said about dogmatism, in a way he just inverts the whole thing and says, I've got my own system and it's just not yours.
+
+394
+00:37:08,866 --> 00:37:10,916
+I suspect if he really meant it.
+
+395
+00:37:11,233 --> 00:37:16,950
+Usually when people say these false radical generalizations they cheat somehow.
+
+396
+00:37:17,033 --> 00:37:18,950
+Oh, do you think when people invert always?
+
+397
+00:37:19,066 --> 00:37:19,216
+Yes.
+
+398
+00:37:19,916 --> 00:37:20,650
+But you can't, I mean, correct.
+
+399
+00:37:20,800 --> 00:37:26,066
+What if somebody comes and brutally rapes his wife and beats him, he would say, yeah, yeah, good, that's my new job.
+
+400
+00:37:26,150 --> 00:37:27,816
+No, no, he doesn't mean it, but he doesn't mean like.
+
+401
+00:37:28,000 --> 00:37:28,633
+What does he mean then?
+
+402
+00:37:28,833 --> 00:37:34,650
+So he doesn't mean the old, well, I mean, I'm now the voice of Blake, but he doesn't mean your old good and evil.
+
+403
+00:37:34,716 --> 00:37:37,866
+He means actually that good is rebelling against the moral order.
+
+404
+00:37:38,100 --> 00:37:45,166
+He says because the moral order's so mad and appalling, good is rebelling and bad is being meek and just sort of sitting back.
+
+405
+00:37:45,300 --> 00:37:47,983
+So it's a bit like when you say about the people stamping on babies.
+
+406
+00:37:48,600 --> 00:37:53,783
+Blake would say it's obviously bad not to say anything and just sort of sit there being meek.
+
+407
+00:37:54,050 --> 00:37:57,000
+But the moral order at the time was praising people for being meek.
+
+408
+00:37:57,466 --> 00:38:00,583
+So he's trying to say don't be meek if people are doing bad stuff.
+
+409
+00:38:01,250 --> 00:38:05,150
+But I take your point about it's a bit easy to just say, I'll tip it backward.
+
+410
+00:38:05,666 --> 00:38:11,616
+But so, in terms of relativism, I think the question we have now is that it's become a cliche to be a relativist.
+
+411
+00:38:11,700 --> 00:38:14,833
+Everyone says I'm playing in the ruins and you know, there's no meaning.
+
+412
+00:38:15,450 --> 00:38:25,166
+And then you get people like Surkov for Putin using this relativism saying, you know, there's no lies, so no truth, so politicians can't be judged.
+
+413
+00:38:25,600 --> 00:38:28,683
+And I think inevitably then there's a huge reaction against that.
+
+414
+00:38:29,700 --> 00:38:31,250
+And that's incredibly important.
+
+415
+00:38:31,450 --> 00:38:33,450
+Again though, it's about these pendulum swings.
+
+416
+00:38:33,500 --> 00:38:36,933
+So I think part of the problem is these massive pendulum swings.
+
+417
+00:38:36,966 --> 00:38:42,033
+And maybe we could go for what Owen Barfield was talking about, which Simon and I have discussed.
+
+418
+00:38:42,133 --> 00:38:49,400
+You had this idea that you clarify positions with these polarities, but you're always trying to find something between or beyond.
+
+419
+00:38:50,133 --> 00:38:51,900
+So that might be my, I think my.
+
+420
+00:38:52,633 --> 00:38:53,783
+That's really wonderful, thank you.
+
+421
+00:38:55,466 --> 00:38:57,750
+That kind of feeds into, I think, your views.
+
+422
+00:38:57,850 --> 00:38:59,416
+So Simon, can you give us a reaction?
+
+423
+00:39:01,133 --> 00:39:06,566
+Yeah, could I raise something that you mentioned in the preamble, Ruth?
+
+424
+00:39:06,566 --> 00:39:17,416
+You mentioned that absolutism is somehow having a comeback in the mouths of people like Sam Harris and Peter Singer were the two, I think, you mentioned.
+
+425
+00:39:17,450 --> 00:39:19,333
+And Derek Parfit, the late Derek Parfit.
+
+426
+00:39:20,066 --> 00:39:21,450
+And Derek Parfit.
+
+427
+00:39:21,466 --> 00:39:25,100
+Well, Derek is a slightly different kettle of fish, but I think Singer
+
+428
+00:39:25,466 --> 00:39:42,950
+and Sam Harris have very simplistic views about what a full-scale morality should consist in, because both of them are basically utilitarians, which is a classical position.
+
+429
+00:39:42,966 --> 00:39:43,400
+It just says,
+
+430
+00:39:44,100 --> 00:39:49,116
+you know, the one measure of value is the greatest good of the greatest number.
+
+431
+00:39:49,116 --> 00:39:52,500
+So general happiness, that's all we care about.
+
+432
+00:39:52,500 --> 00:40:00,216
+And Harris makes that even worse by thinking that science tells us that.
+
+433
+00:40:00,216 --> 00:40:01,683
+Science tells us no such thing.
+
+434
+00:40:01,683 --> 00:40:05,750
+Science doesn't determine your attitude to anything.
+
+435
+00:40:05,766 --> 00:40:16,500
+It may require an attitude of wonder to the world and openness to evidence and experience, but it doesn't tell you that that the source of all value is human happiness, or anything like it.
+
+436
+00:40:20,250 --> 00:40:26,800
+His idea that science provides the authority behind which we can all shelter is, I think, a dangerous fantasy.
+
+437
+00:40:27,833 --> 00:40:30,716
+And that derives from my other reason.
+
+438
+00:40:31,233 --> 00:40:33,483
+It's a question of what attitudes you have to things.
+
+439
+00:40:34,250 --> 00:40:36,666
+Science tells you what you should think about some things
+
+440
+00:40:37,133 --> 00:40:39,433
+and does it very well, does it with great authority.
+
+441
+00:40:40,250 --> 00:40:43,700
+but it doesn't tell you what attitude you should have to the things you find.
+
+442
+00:40:44,500 --> 00:40:50,983
+Scientists might be as happy to be studying a rattlesnake as to be studying a bunny rabbit,
+
+443
+00:40:51,350 --> 00:40:57,500
+but it doesn't mean that you should have the same attitudes to the rattlesnake as you do to the bunny rabbit.
+
+444
+00:40:58,316 --> 00:41:04,966
+In fact, if you've got children, I should hope that they don't have the same attitudes to rattlesnakes and bunny rabbits.
+
+445
+00:41:05,600 --> 00:41:08,650
+So I think he's just hiding to nothing.
+
+446
+00:41:09,566 --> 00:41:24,633
+Singer isn't quite as naive as that, but again he seems to be blind to the enormous amount of criticism that utilitarianism as a monolithic doctrine has encountered over the years.
+
+447
+00:41:24,650 --> 00:41:33,966
+One of the obvious ones is that utilitarians have to struggle to make sense of things like gratitude and justice.
+
+448
+00:41:33,966 --> 00:41:34,366
+These things
+
+449
+00:41:34,716 --> 00:41:46,316
+fit if at all with great difficulty into the utilitarian calculus because often there might be cases of injustice which actually work to the general good.
+
+450
+00:41:46,316 --> 00:42:03,316
+The classic case is something like if you can procure the execution of somebody who's innocent of a crime thereby avoiding social unrest riots, pogroms, and so on, then you should do it.
+
+451
+00:42:03,333 --> 00:42:12,533
+And a lot of people find that rebarbative and think, no you shouldn't, you should never procure the judicial execution of somebody who's innocent of a crime.
+
+452
+00:42:12,550 --> 00:42:25,166
+So there are all these cases which are textbook cases of difficulties for utilitarianism, and I think to sail on as if they didn't exist is not really being objective about things.
+
+453
+00:42:27,583 --> 00:42:27,683
+OK.
+
+454
+00:42:27,850 --> 00:42:31,166
+I couldn't agree more as another professional philosopher.
+
+455
+00:42:31,650 --> 00:42:43,733
+I think people here should know that although this debate has been framed as if moral relativism is no longer fashionable, moral relativism in many circles was never fashionable.
+
+456
+00:42:44,816 --> 00:42:48,283
+There have been very strong arguments against it given by professional philosophers.
+
+457
+00:42:48,833 --> 00:42:50,783
+So we mentioned Derek Parfit, Derek Parfit's view.
+
+458
+00:42:51,666 --> 00:42:55,616
+If you buy his view, here's a way you can be a moral objectivist without being nutty.
+
+459
+00:42:56,316 --> 00:43:02,883
+Nuddy, yeah, hold on you can think that you know, there are these the two plus two equals four
+
+460
+00:43:03,266 --> 00:43:05,033
+That's an absolute truth.
+
+461
+00:43:05,050 --> 00:43:12,150
+It's a necessary truth in mathematics and Stomping on blind babies for fun is wrong.
+
+462
+00:43:12,150 --> 00:43:18,150
+That's also a necessary moral truth We take foundational truths and then we mix in all of our contingent
+
+463
+00:43:18,416 --> 00:43:25,866
+Circumstances languages the way we think our culture and so on and we work our way way towards the best moral truths we can.
+
+464
+00:43:26,000 --> 00:43:28,233
+And that's a way to be a moral objectivist.
+
+465
+00:43:28,916 --> 00:43:32,400
+OK, we're not going to move on to the third question.
+
+466
+00:43:34,316 --> 00:43:36,666
+And this is our final theme for the day.
+
+467
+00:43:36,966 --> 00:43:40,500
+Will the trend towards objective morality continue?
+
+468
+00:43:40,700 --> 00:43:43,716
+And if so, what impact would it have?
+
+469
+00:43:44,200 --> 00:43:45,233
+Slavoj, you go first.
+
+470
+00:43:45,366 --> 00:43:48,400
+I will really try to be, which is very difficult for me.
+
+471
+00:43:49,666 --> 00:43:56,150
+You know, here I am a pessimist, not a relativist pessimist, but a pessimist.
+
+472
+00:43:56,550 --> 00:44:01,683
+The example to which we are obviously all returning, stamping on a blind child.
+
+473
+00:44:02,350 --> 00:44:07,266
+I can imagine, not just imagine, from what I know there was a civilization
+
+474
+00:44:07,666 --> 00:44:15,650
+when this was not literally this, but something like this was experienced as part of your social duty.
+
+475
+00:44:16,166 --> 00:44:22,700
+ancient Sparta where a child was, if it was crippled, it had to be disposed of.
+
+476
+00:44:22,716 --> 00:44:26,500
+So a quick correction, it's simply for fun.
+
+477
+00:44:26,866 --> 00:44:28,250
+You do it just for fun.
+
+478
+00:44:29,516 --> 00:44:35,116
+Not because you're fulfilling a social obligation or playing a role, it just gives you your jollies.
+
+479
+00:44:35,516 --> 00:44:36,516
+I put that in carefully.
+
+480
+00:44:36,900 --> 00:44:37,033
+Yeah.
+
+481
+00:44:37,950 --> 00:44:39,666
+Yeah, that it gives you, sorry.
+
+482
+00:44:41,433 --> 00:44:41,833
+Just for fun.
+
+483
+00:44:43,250 --> 00:44:53,150
+Here it's again ambiguous because one of the perverted obsessions is that you do something for fun but mask it as your duty.
+
+484
+00:44:53,666 --> 00:44:55,900
+That's what usually sadistic teachers do.
+
+485
+00:44:56,300 --> 00:45:02,850
+They beat you and then they tell you if you are a poor pupil, oh it's horrible for me to do it, it's just unfortunate.
+
+486
+00:45:03,100 --> 00:45:03,983
+But let me go on.
+
+487
+00:45:04,416 --> 00:45:05,700
+Moral relativism.
+
+488
+00:45:06,400 --> 00:45:12,866
+It is, the problem we are getting today, I hope we will all agree is that, how should I call it?
+
+489
+00:45:13,400 --> 00:45:21,033
+Local moral absolutism is getting combined with global relativism.
+
+490
+00:45:21,566 --> 00:45:27,916
+One of the things which made me infinitely sad is, you remember when Taliban won over in Afghanistan?
+
+491
+00:45:28,566 --> 00:45:32,650
+They immediately made a pact with China.
+
+492
+00:45:33,416 --> 00:45:35,083
+The deal was very brutal, man.
+
+493
+00:45:35,216 --> 00:45:38,150
+They called it respect for each other's culture.
+
+494
+00:45:38,550 --> 00:45:48,916
+But the deal was, we do here what we want, Muslim fundamentalism, but you do what you want with Uyghurs, with Muslims there.
+
+495
+00:45:49,750 --> 00:46:00,216
+So nonetheless, I'm here more open to what you were saying, and I would say like this, it's very human, it's naive, nobody would expect this
+
+496
+00:46:00,616 --> 00:46:08,300
+maybe from me, but I will just tell you a fact which I learned and then tested it, not with both, with one of the guys.
+
+497
+00:46:08,900 --> 00:46:15,683
+You remember General Jaruzelski, his coup d'etat in 1980, blah, blah.
+
+498
+00:46:18,350 --> 00:46:29,583
+Then they had at the end negotiations and one of the top negotiations on the other side was Adam Michnik, now a big journalist there and so on.
+
+499
+00:46:30,650 --> 00:46:37,550
+And do you know, first I thought it's a crazy rumor, then I met at a round table, Adam Michnik, I asked him, he confirmed.
+
+500
+00:46:38,066 --> 00:46:42,116
+Already at that round table, they simply,
+
+501
+00:46:42,416 --> 00:46:44,333
+how do you put it in this New Age term?
+
+502
+00:46:44,466 --> 00:46:46,116
+There was a vibe between them.
+
+503
+00:46:47,416 --> 00:46:55,750
+They became close friends, met regularly in spite of differences and I find this so civilized.
+
+504
+00:46:56,016 --> 00:46:59,066
+Now Kaczynski brothers are mad they are ruining it.
+
+505
+00:46:59,466 --> 00:47:10,016
+But this basic civilization, the big, Do you know when Jaruzelski was then dying in the hospital, Valensa visited him there.
+
+506
+00:47:10,466 --> 00:47:20,583
+Isn't it nice to have a certain level of civility which even when you have the fiercest debates, it goes on.
+
+507
+00:47:21,416 --> 00:47:29,050
+So the thing with Putin when it was mentioned is that be careful of Putin.
+
+508
+00:47:29,916 --> 00:47:38,150
+He may appear to be, and that's the most dangerous thing about Russia today, they may appear to be pluralist.
+
+509
+00:47:38,500 --> 00:47:41,883
+American imperialism, liberalism will not control us.
+
+510
+00:47:42,433 --> 00:47:52,283
+But if you look at it closely, they propose a new, very religiously fundamentalist, openly fascist.
+
+511
+00:47:52,516 --> 00:47:59,300
+I'm not using the term fascism with regard to Putin due to some leftist interpretations.
+
+512
+00:47:59,633 --> 00:48:08,533
+His state philosopher is Ivan Ilyin from the 1920s who openly proposed the idea of Russian fascism and so on.
+
+513
+00:48:09,033 --> 00:48:13,216
+Let me stop with this and just one question, maybe more for him than for you.
+
+514
+00:48:14,033 --> 00:48:15,800
+What about this argument?
+
+515
+00:48:16,716 --> 00:48:19,300
+I don't quite buy it, but it's intriguing.
+
+516
+00:48:19,416 --> 00:48:31,783
+You must know it from people like Jurgen Habermas and some others, not my favorite philosopher, but who claim that we cannot simply distinguish
+
+517
+00:48:32,150 --> 00:48:44,716
+scientific exploration of facts and normative activity because science itself is in some sense a normative activity.
+
+518
+00:48:45,066 --> 00:48:52,583
+You follow a certain goal with a certain methodology, with all freedom of argumentation.
+
+519
+00:48:53,033 --> 00:49:04,666
+In this sense, they would say science cannot be simply opposed to, I wouldn't say morality, but normative activity, it has a normativity of its own.
+
+520
+00:49:05,633 --> 00:49:12,850
+That's also their argument against scientific naturalism, that there is always a normative dimension in it.
+
+521
+00:49:14,650 --> 00:49:15,100
+Go ahead, Simon.
+
+522
+00:49:15,500 --> 00:49:16,766
+I think the premise is true.
+
+523
+00:49:16,833 --> 00:49:20,216
+There is always a normative dimension in any inquiry.
+
+524
+00:49:21,166 --> 00:49:27,916
+If you're inquiring and you're being careful, then there'll be a way to do it and a way not to do it.
+
+525
+00:49:28,100 --> 00:49:32,383
+There'll be norms governing whether the inquiry is being well pursued.
+
+526
+00:49:33,050 --> 00:49:34,750
+So in that sense, I think they're absolutely right.
+
+527
+00:49:35,850 --> 00:49:40,150
+But of course, those norms may have nothing to do with morality in a wider sense.
+
+528
+00:49:41,166 --> 00:49:48,616
+You can have an immoral scientist who pursues his experiments with exemplary care and exemplary objectivity.
+
+529
+00:49:50,600 --> 00:49:53,700
+I think Newton was an extremely unpleasant man.
+
+530
+00:49:54,800 --> 00:49:55,666
+I'm allowed to say that.
+
+531
+00:49:55,766 --> 00:49:59,733
+He was a member of my college, but he was.
+
+532
+00:50:00,550 --> 00:50:06,066
+And yet, of course, he was one of the greatest, probably the greatest scientists that Britain's ever had.
+
+533
+00:50:06,650 --> 00:50:12,833
+So, you know, it's not moral norms that dictates how you pursue your science.
+
+534
+00:50:13,650 --> 00:50:15,466
+It's basically what you're trying to find out.
+
+535
+00:50:15,766 --> 00:50:16,633
+That pursues.
+
+536
+00:50:17,233 --> 00:50:20,400
+That's what dictates how you pursue the finding out of it.
+
+537
+00:50:22,233 --> 00:50:31,983
+So I'm pretty sure, yes, that Slavoj thinks that there's more than just norms inside of an activity.
+
+538
+00:50:32,100 --> 00:50:34,033
+Like how do you put the beaker like this?
+
+539
+00:50:34,166 --> 00:50:39,016
+And that he thinks that everything is political all the way down, but we're not gonna go there.
+
+540
+00:50:39,066 --> 00:50:39,850
+We're not gonna go there.
+
+541
+00:50:40,366 --> 00:50:42,616
+We're going to give Joanna the last word.
+
+542
+00:50:42,716 --> 00:50:43,400
+Any comments?
+
+543
+00:50:43,550 --> 00:50:45,400
+Like it's just really briefly on science.
+
+544
+00:50:45,516 --> 00:50:48,216
+And I, yeah, I think it's really interesting about the norms, absolutely.
+
+545
+00:50:48,233 --> 00:50:52,983
+And this question, there's an interesting book writer as well, Martin Gurri.
+
+546
+00:50:53,466 --> 00:50:57,200
+So the book actually isn't where he makes this point but his book's called The Revolt of the Public.
+
+547
+00:50:57,700 --> 00:51:08,583
+But he also makes a point about the pandemic really and it's this question, maybe just leave it as a question that say in the 14th century, the prevailing order is the religious order and when the plague comes,
+
+548
+00:51:09,266 --> 00:51:14,083
+people have this terrible crisis because they think God is angry and this is vengeance.
+
+549
+00:51:14,616 --> 00:51:19,750
+And so they have this metaphysical crisis because they think, why has this order condemned us so much?
+
+550
+00:51:19,833 --> 00:51:27,250
+And now we have, we're not governed by the clergy, but we have governments taking their cues and advice from scientists.
+
+551
+00:51:27,433 --> 00:51:30,866
+And that's obviously really brilliant, works really well in many, many cases.
+
+552
+00:51:31,233 --> 00:51:39,100
+But there is a question then, if that fails, does it precipitate a kind of metaphysical crisis in that order?
+
+553
+00:51:39,633 --> 00:51:40,916
+And I guess that's just a question.
+
+554
+00:51:40,950 --> 00:51:44,533
+It's not my question, it's the sort of guru question which I leave you with.
+
+555
+00:51:45,016 --> 00:51:46,200
+Thank you all for coming.
+
+556
+00:51:46,416 --> 00:51:49,550
+Please thank our speakers for a very interesting discussion.
+
+557
+00:00:01,750 --> 00:00:02,550
+非常感谢你们 
+
+558
+00:00:04,166 --> 00:00:07,900
+感谢大家的到来 希望这里不会太热 
+
+559
+00:00:09,316 --> 00:00:12,250
+今天我们将讨论道德事实与道德幻想 
+
+560
+00:00:13,500 --> 00:00:15,633
+在后现代时代 它曾是流行的（话题） 
+
+561
+00:00:16,533 --> 00:00:26,916
+道德相对主义一直有其批评者 不仅是主流分析哲学家 尤其是那些带有宗教倾向的人 
+
+562
+00:00:27,516 --> 00:00:36,450
+但现在出现了新一代的名人思想家 这次是带有无神论倾向的 从萨姆·哈里斯到已故的德里克·帕菲特到彼得·辛格 
+
+563
+00:00:37,150 --> 00:00:41,916
+他们声称存在一套绝对的道德真理
+
+564
+00:00:42,783 --> 00:00:47,033
+即使他们会嘲笑像维多利亚人那样严格的道德准则 
+
+565
+00:00:48,233 --> 00:00:52,266
+批评者认为 像过去的威权道德主义者一样 
+
+566
+00:00:53,566 --> 00:01:00,366
+他们使用所谓的客观道德来支持自己的偏见并压制异议 
+
+567
+00:01:02,133 --> 00:01:09,700
+我们应该欢迎客观道德的回归 作为当前伦理混乱和困惑的解药吗 
+
+568
+00:01:11,400 --> 00:01:17,966
+或者它是一种威权幻想 需要在获得进一步的支持之前予以消除 
+
+569
+00:01:19,150 --> 00:01:28,600
+或者我们应该放弃道德主张 转而静心评估我们的社会利益以及任何特定行动的威胁 
+
+570
+00:01:29,950 --> 00:01:32,433
+我很高兴介绍我们的发言人 
+
+571
+00:01:33,750 --> 00:01:35,183
+首先我们有斯拉沃热·齐泽克 
+
+572
+00:01:37,000 --> 00:01:41,133
+他可以说是我们这个时代最知名的名人哲学家 
+
+573
+00:01:41,466 --> 00:01:44,233
+《外交政策》将他命名为全球百大思想者 
+
+574
+00:01:45,450 --> 00:01:45,566
+只有100位 
+
+575
+00:01:46,466 --> 00:01:46,950
+只有前100位 
+
+576
+00:01:47,950 --> 00:01:49,366
+非常低的评价
+
+577
+00:01:49,400 --> 00:01:56,200
+为一个荒谬的空中时代而发声
+
+578
+00:01:56,216 --> 00:02:09,516
+我右边的西蒙·布莱克本 是一位学术哲学家 以其在元伦理学方面的工作而闻名 他出版了十几本关于各种哲学问题的书籍 面向公众和学术听众 
+
+579
+00:02:09,533 --> 00:02:20,200
+我远左边的乔安娜·卡瓦纳 是许多小说和非小说作品的作者 包括《冰博物馆》、《现实指南》和《ZED》 
+
+580
+00:02:21,516 --> 00:02:28,450
+她因其写作赢得了许多奖项 包括橙色新作家奖和《格兰塔》英国最佳作家奖 
+
+581
+00:02:29,300 --> 00:02:37,983
+好的 言归正传 我现在想向我们的各位小组成员提出一个问题 他们每人有三分钟时间 
+
+582
+00:02:38,616 --> 00:02:40,700
+三分钟 斯拉沃热 三分钟 
+
+583
+00:02:40,916 --> 00:02:42,600
+抱歉 我听得不太清楚 
+
+584
+00:02:43,333 --> 00:02:45,016
+我听到30分钟 但好吧 
+
+585
+00:02:46,000 --> 00:02:48,233
+来给我们对这个问题的反应 
+
+586
+00:02:48,266 --> 00:02:48,900
+这是问题 
+
+587
+00:02:50,116 --> 00:02:57,783
+我们应该欢迎道德客体的回归 还是它只是一种威权幻想 
+
+588
+00:02:58,133 --> 00:02:59,383
+我将从斯拉沃热开始 
+
+589
+00:03:01,116 --> 00:03:04,716
+非常简短 我希望稍后有机会继续 
+
+590
+00:03:06,000 --> 00:03:12,483
+首先 这完全取决于你如何定义客观道德和道德相对主义 
+
+591
+00:03:14,533 --> 00:03:17,050
+我认为这里有第三个术语 
+
+592
+00:03:17,616 --> 00:03:22,566
+如果我可以简要提到一个我不太同意的哲学家 卡尔·波普 
+
+593
+00:03:22,633 --> 00:03:25,900
+你知道 他引入了第三世界的概念
+
+594
+00:03:26,266 --> 00:03:44,500
+像象征秩序的客观事实 在某种意义上不属于外部现实 但称它们为主观的、感性的 也是错误的 
+
+595
+00:03:45,116 --> 00:03:54,183
+在这个意义上 我认为道德若想要作为道德而运行 必须在最低限度上是客观的 
+
+596
+00:03:54,800 --> 00:04:08,033
+你不能有一种道德 声称它直接就表达了你的态度 你的什么 但只是给出两三个方向的暗示 我想要走向哪里 
+
+597
+00:04:08,600 --> 00:04:10,950
+现在已发生了巨大的历史变革 
+
+598
+00:04:11,566 --> 00:04:19,000
+但我认为 尽管有许多规则在某种程度上是不同时代共有的 
+
+599
+00:04:19,450 --> 00:04:29,816
+我始终被每一个客观系统所吸引 不仅仅是道德 还包括习俗等 
+
+600
+00:04:30,550 --> 00:04:38,216
+总是依赖于隐含的非书面的规则 这些是绝对关键的 
+
+601
+00:04:38,600 --> 00:04:48,000
+我将以仅两个我最喜欢的例子作结 一个是 你有没有注意到很多事情被禁止 
+
+602
+00:04:49,166 --> 00:04:56,150
+但是系统本身 在字里行间 它促使你去违反禁令 
+
+603
+00:04:56,533 --> 00:05:01,900
+比如我有一个非常粗俗的经历 抱歉说得这么低俗 关于我年轻时与父亲的经历 
+
+604
+00:05:02,333 --> 00:05:07,016
+他警告我不要过早与女性接触等等
+
+605
+00:05:07,733 --> 00:05:10,500
+然后他询问 但你已经做了吗 
+
+606
+00:05:10,566 --> 00:05:12,483
+你表现得怎么样
+
+607
+00:05:13,016 --> 00:05:29,550
+因此 在这种模糊性和更有趣的结论之后 那就是我们甚至被要求去做某事的相反版本 在你不去做这件事的条件下 你可以去做它
+
+608
+00:05:30,150 --> 00:05:32,483
+例如 我的最爱 好吧 
+
+609
+00:05:32,916 --> 00:05:35,000
+我举一个普通和一个极端的例子 然后我就不说了 
+
+610
+00:05:35,333 --> 00:05:39,900
+普通的例子 你有没有 我不是在说英格兰的那些“叛徒” 
+
+611
+00:05:40,316 --> 00:05:48,166
+这里在威尔士 你们也有这种习惯吗 我请你吃晚餐 很明显我会付钱 
+
+612
+00:05:48,616 --> 00:05:53,083
+但是当账单来的时候 如果我请你 
+
+613
+00:05:53,600 --> 00:05:57,700
+你必须坚持一段时间 不不 让我们分担一下 等等 
+
+614
+00:05:58,166 --> 00:06:01,516
+我们俩都知道最后我会付钱 
+
+615
+00:06:02,333 --> 00:06:08,166
+但那个人必须提出一个我们知道会被拒绝的提议 
+
+616
+00:06:08,750 --> 00:06:12,266
+我最喜欢的例子 这确实发生了 
+
+617
+00:06:12,950 --> 00:06:15,533
+抱歉 老式的斯大林主义苏联 
+
+618
+00:06:16,266 --> 00:06:22,833
+在苏联 不仅仅是批评斯大林被禁止 
+
+619
+00:06:23,566 --> 00:06:29,850
+公开宣布这种禁令甚至更加被禁止 
+
+620
+00:06:31,250 --> 00:06:35,516
+有一次会议上 一个人举手说 斯大林同志这里错了 
+
+621
+00:06:35,950 --> 00:06:39,350
+然后另一个人举手说 你疯了吗 
+
+622
+00:06:39,600 --> 00:06:40,983
+我们这里不这么说话 
+
+623
+00:06:41,033 --> 00:06:42,366
+你不能批评斯大林 
+
+624
+00:06:42,900 --> 00:06:47,866
+第二个人消失得比第一个人快多了 
+
+625
+00:06:48,266 --> 00:06:50,100
+你知道 这是非常优雅的事情 
+
+626
+00:06:50,466 --> 00:06:53,583
+禁令本身被禁止了 
+
+627
+00:06:53,916 --> 00:06:56,983
+所有这些只是为了让事情复杂化 谢谢 
+
+628
+00:06:58,400 --> 00:06:59,800
+精彩 这确实让事情变得复杂 
+
+629
+00:07:00,800 --> 00:07:13,900
+我现在要把话题转给西蒙 因为你说 哦 我们不应该把道德 道德主张 道德真理看作是我们持有的态度的表达 
+
+630
+00:07:14,650 --> 00:07:15,516
+西蒙 你怎么看 
+
+631
+00:07:16,516 --> 00:07:18,400
+嗯 那正是我对他们的看法 
+
+632
+00:07:20,200 --> 00:07:20,983
+对不起 什么 
+
+633
+00:07:20,983 --> 00:07:22,983
+这是一个表达还是说你同意我 
+
+634
+00:07:23,650 --> 00:07:27,200
+我认为说“道德是态度的表达”没什么不对 
+
+635
+00:07:28,366 --> 00:07:37,233
+它通常不仅仅是你的个人态度 至少是你试图让其他人同意的态度 
+
+636
+00:07:37,233 --> 00:07:44,433
+所以 如果我说鲍里斯·约翰逊是坏事 我认为如果我是真诚的 我会这么做 
+
+637
+00:07:44,433 --> 00:07:54,000
+那将是我对他行为方式的态度表达 但在表达它时 我不仅仅是情绪化或者发泄 
+
+638
+00:07:54,016 --> 00:07:57,200
+普遍的原因中 一部分是试图征求同意 
+
+639
+00:07:57,233 --> 00:08:12,566
+如果你不同意我 我希望你能说出原因 然后我会说为什么我认为他是坏事 我们来来回回讨论 这种艺术 这一点取决于要达成某种社会共识 
+
+640
+00:08:13,333 --> 00:08:16,100
+现在我们可能知道我们无法获得社会共识 
+
+641
+00:08:16,833 --> 00:08:21,466
+我知道保守党里有的人
+
+642
+00:08:21,900 --> 00:08:26,000
+保守党后座议员不会同意我说鲍里斯·约翰逊是坏事
+
+643
+00:08:27,133 --> 00:08:29,900
+至少在他失去首相职位之前不会 
+
+644
+00:08:31,333 --> 00:08:32,483
+（换首相之后）他们可能会开始同意 
+
+645
+00:08:33,766 --> 00:08:38,500
+但重点是表达一种态度并为这种态度征求同意 
+
+646
+00:08:39,533 --> 00:08:42,116
+现在 人们说 啊 但那里有什么客观性呢 
+
+647
+00:08:42,966 --> 00:08:46,300
+嗯 客观性是一个非常有趣的词 
+
+648
+00:08:46,366 --> 00:08:49,166
+人们认为道德要么是客观的 要么是主观的 
+
+649
+00:08:50,216 --> 00:08:51,200
+我不这么认为 
+
+650
+00:08:51,366 --> 00:08:55,866
+我认为通过客观地追求 一个观点才变得客观 
+
+651
+00:08:56,800 --> 00:09:07,900
+这意味着看证据 对可能有影响的事情保持好奇 甚至如卡尔·波普尔曾强调 
+
+652
+00:09:08,933 --> 00:09:16,866
+乐于找到反驳它的证据 乐于找到那些不完全支持它的东西 这迫使你重新思考 
+
+653
+00:09:17,566 --> 00:09:32,016
+换句话说 就好像我们内置了一个批评家 它本身对我们自己的观点感到担忧 并且有改进这些观点的愿望 而我们并尽可能地支持它们 这就算作客观性 
+
+654
+00:09:32,816 --> 00:09:34,016
+你们都知道这是可以的 
+
+655
+00:09:34,833 --> 00:09:35,816
+如果你们中的某个人被传唤了 
+
+656
+00:09:37,016 --> 00:09:40,233
+假设你因为一项你没犯的罪行被逮捕 
+
+657
+00:09:41,050 --> 00:09:44,916
+你会祈祷警方对此的调查是客观的 
+
+658
+00:09:45,566 --> 00:09:56,933
+所以重点是寻找证据、好奇心、愿意保持开放心态 这是客观性的标志 
+
+659
+00:09:57,400 --> 00:10:00,600
+从这个意义上说 有些观点比其他观点更具客观性 
+
+660
+00:10:01,550 --> 00:10:04,766
+认为鲍里斯·约翰逊是坏事的观点完全是客观的 
+
+661
+00:10:04,816 --> 00:10:12,166
+除了我已经提到的人 没有任何可想见的异议 
+
+662
+00:10:12,516 --> 00:10:13,666
+我已经说了三分钟了吗 
+
+663
+00:10:14,416 --> 00:10:14,716
+好的 
+
+664
+00:10:14,716 --> 00:10:14,833
+很好 
+
+665
+00:10:15,516 --> 00:10:15,933
+太棒了 
+
+666
+00:10:15,950 --> 00:10:16,283
+好的 
+
+667
+00:10:16,450 --> 00:10:19,000
+现在让我们的小说家发表意见 
+
+668
+00:10:20,366 --> 00:10:20,700
+乔安娜 
+
+669
+00:10:21,166 --> 00:10:21,483
+谢谢 
+
+670
+00:10:22,000 --> 00:10:23,666
+我想起了一个老笑话 
+
+671
+00:10:24,500 --> 00:10:26,750
+当然存在客观的道德标准 只要是我说的就行 
+
+672
+00:10:26,816 --> 00:10:32,633
+我的意思是 这种内在的前提下 这里有一种不可思议的合理共识 
+
+673
+00:10:32,666 --> 00:10:33,083
+这太棒了 
+
+674
+00:10:33,733 --> 00:10:36,500
+你提到的另一个词 威权幻想 
+
+675
+00:10:36,966 --> 00:10:42,233
+所以我想如果我们考虑一下 为什么在辩论中会提到威权幻想 
+
+676
+00:10:43,133 --> 00:10:44,816
+以及这种想法 “坚定不移”
+
+677
+00:10:45,533 --> 00:10:49,783
+当我想到道德时 我经常想起威廉·巴特勒·叶芝在1919年写的那首诗
+
+678
+00:10:51,216 --> 00:10:58,350
+《第二次来临》 它是在第一次世界大战的彻底屠杀和大屠杀之后写的 这是一次绝对的末日 
+
+679
+00:10:58,900 --> 00:11:04,233
+他谈到了万物分崩离析 中心无法维系 纯粹的无政府状态在世界上肆虐 
+
+680
+00:11:04,733 --> 00:11:06,750
+但他还写了这些奇怪的诗行 
+
+681
+00:11:07,033 --> 00:11:18,483
+如果你读它们 我记得为GCSE读它时 我是这种充满激情的青少年 他们说 最好的人毫无信念 最坏的人充满了强烈的激情 
+
+682
+00:11:19,100 --> 00:11:22,033
+你会想 当然 充满强烈的激情是非常好的 
+
+683
+00:11:22,516 --> 00:11:26,550
+那么 感受强烈的激情难道不是一件好事吗 
+
+684
+00:11:26,633 --> 00:11:27,866
+为什么那会是最坏的 
+
+685
+00:11:28,400 --> 00:11:30,050
+为什么最好的人会缺乏信念 
+
+686
+00:11:30,600 --> 00:11:38,116
+我认为叶芝的意思是 真正的狂热者掌权 并说 我们已经搞定了绝对的道德秩序 
+
+687
+00:11:38,650 --> 00:11:45,833
+没有人可以反对 每个人都必须按照我们的说法行事 因为我们与某种更高的事业或力量保持联系 
+
+688
+00:11:46,600 --> 00:11:50,533
+他们以一种矛盾的方式将一切推向这种无政府状态 
+
+689
+00:11:51,316 --> 00:12:02,083
+所以正如我的同事们所说 有另一种非常古老的传统 关于我们如何过上好生活 怎样生活得美好 
+
+690
+00:12:02,450 --> 00:12:09,516
+这种讨论追溯到最早的哲学文学文本之一 我们所知道的最早的之一 《吉尔伽美什史诗》 大概在公元前2000年 
+
+691
+00:12:10,066 --> 00:12:11,750
+所以这是一场永无止境的辩论 
+
+692
+00:12:12,266 --> 00:12:22,400
+另一方面 你有这种狂热的热情 这种强烈的激情转变为强烈的病态狂热 这影响了讨论 
+
+693
+00:12:23,016 --> 00:12:31,533
+当然 小说家只是在中间某处游走 试图写出表达一切、表达各种观点的小说 
+
+694
+00:12:32,116 --> 00:12:34,450
+我认为艾丽丝·默多克对此有一个很好的看法 
+
+695
+00:12:34,533 --> 00:12:41,700
+她谈到你需要表达一个道德立场 否则你就会陷入叶芝所说的境地 
+
+696
+00:12:41,766 --> 00:12:43,016
+你会失去所有的信念 
+
+697
+00:12:43,716 --> 00:12:44,533
+你会失去勇气 
+
+698
+00:12:44,616 --> 00:12:45,650
+你什么都做不了 
+
+699
+00:12:45,800 --> 00:12:48,666
+你无法对抗这些充满狂热的人 
+
+700
+00:12:49,350 --> 00:12:55,733
+所以她主张你应该尝试一种开放性 她的观点是一种多孔的道德立场 
+
+701
+00:12:56,433 --> 00:13:03,966
+阿德里安·里奇也有相同的看法 不要让他人代替你去讨论和命名一切 这是一个道德责任
+
+702
+00:13:04,550 --> 00:13:09,416
+你要试着自己去表达和命名 但你也尝试让其他人这样做 
+
+703
+00:13:09,950 --> 00:13:20,900
+所以我认为 更少的世界末日 更少的疯狂者 相当多的小说 如果可以的话 是的 一种多孔的道德视角 
+
+704
+00:13:21,433 --> 00:13:21,666
+谢谢 
+
+705
+00:13:22,266 --> 00:13:23,333
+这是三分钟还是更多 
+
+706
+00:13:23,533 --> 00:13:23,866
+远远超过了 
+
+707
+00:13:24,350 --> 00:13:25,166
+是的 没问题 没问题 
+
+708
+00:13:25,166 --> 00:13:25,933
+是的 抱歉 可能更多 
+
+709
+00:13:26,033 --> 00:13:34,250
+我不想在这里扮演时间上的纳粹 但好吧 让我们更深入一点 看看是否能进一步明确所说的内容 
+
+710
+00:13:35,733 --> 00:13:37,150
+让我为你们提出另一个问题 
+
+711
+00:13:38,350 --> 00:13:41,100
+客观的道德真的可能吗 
+
+712
+00:13:42,200 --> 00:13:43,283
+我想从乔安娜开始 
+
+713
+00:13:44,333 --> 00:13:53,833
+好吧 所以我认为西蒙在定义 他在说 这个我们可能定义为波普尔的想法 斯拉沃热也提到了 这种象征秩序 
+
+714
+00:13:54,316 --> 00:14:02,950
+因为 否则 你就会陷入这种坚硬如石的词典定义 这将是某种超越感觉和判断的存在 
+
+715
+00:14:03,866 --> 00:14:09,783
+实际上 在道德问题中 我们的感受、经历和判断是非常基础的 
+
+716
+00:14:09,916 --> 00:14:16,466
+所以我认为这个问题 你如何将你的道德秩序从所有感觉判断中剥离 
+
+717
+00:14:16,533 --> 00:14:19,716
+我的意思是 当你遇见某人时 你会感觉 我信任他们吗 
+
+718
+00:14:20,716 --> 00:14:22,133
+这是我想要交谈的事情吗 
+
+719
+00:14:24,116 --> 00:14:25,033
+你可能会错 
+
+720
+00:14:25,233 --> 00:14:35,450
+所以如果你考虑像《傲慢与偏见》这样的道德文本 1813年 奥斯汀的作品 全部关于你如何遇见某人而你的判断是错误的 
+
+721
+00:14:35,666 --> 00:14:43,450
+你知道 莉兹·班纳特一开始对达西的判断是错误的 因为他很粗鲁 不愿与她跳舞 并且搅乱了她妹妹的爱情生活 
+
+722
+00:14:43,966 --> 00:14:47,600
+所以最初她认为他是坏人 但后来她获得了更多信息 
+
+723
+00:14:47,666 --> 00:14:54,416
+她做出了不同的判断 但仍然保持了对人的本质构成的某种感觉 
+
+724
+00:14:55,316 --> 00:14:58,866
+斯拉沃谈到的我们对他人的期望值 
+
+725
+00:14:59,550 --> 00:15:03,733
+所以我认为如果你的意思是 这场辩论的事情是 
+
+726
+00:15:04,016 --> 00:15:14,483
+我的哲学同事真应该谈谈这个 但有一种 就像威廉·詹姆斯说的 一方是绝对主义者 他们在粉碎经验世界
+
+727
+00:15:14,950 --> 00:15:22,650
+另一方 是相对主义者 我只知道我所知道的 粉碎绝对 
+
+728
+00:15:22,666 --> 00:15:24,583
+每个人都在不断地粉碎 
+
+729
+00:15:24,733 --> 00:15:32,766
+这有点像黎明时分的决斗 像《地狱咆哮的日子》里黎明时分的决斗 你每天都必须起床并向你的对手开火 然后再次停下 
+
+730
+00:15:32,866 --> 00:15:37,100
+但必须有另一种讨论 接受可能性 
+
+731
+00:15:37,450 --> 00:15:47,100
+我认为你们两位都提供了这样做的方法 其中你接受语言中有一个秩序 我们使用的术语 我们接受的社会条件 
+
+732
+00:15:47,800 --> 00:15:52,700
+在那里我们必须干预和行动 我们可以犯错 所以我们也必须具备可塑性 
+
+733
+00:15:53,466 --> 00:15:58,266
+在这些空间中 你认为存在你乐于称之为客观性的东西吗 
+
+734
+00:16:00,666 --> 00:16:15,150
+让我给你举个例子 珍·班纳特对达西有一个看法 伊丽莎白·班纳特对达西也有一个看法 你说珍错了 伊丽莎白一开始就错了 
+
+735
+00:16:16,800 --> 00:16:21,250
+嗯 你必须说 他们在用社会中的术语进行语言辩论 
+
+736
+00:16:21,333 --> 00:16:24,016
+他们在讨论风俗、习惯、礼仪 
+
+737
+00:16:24,033 --> 00:16:26,333
+他们是生活在这个人类领域的人类 
+
+738
+00:16:26,333 --> 00:16:30,600
+真正的问题将是 他们的辩论是否参照了某种绝对领域 
+
+739
+00:16:30,616 --> 00:16:33,866
+我认为在这场辩论中 这真的是我的问题 是给哲学家的 
+
+740
+00:16:34,133 --> 00:16:35,266
+我们是这么说的吗 
+
+741
+00:16:35,283 --> 00:16:41,483
+如果我们想要客观道德 那是否代表着它将从我们身上被拿走 放在一个超越众人的地方
+
+742
+00:16:41,966 --> 00:16:48,216
+它在众神或绝对科学事实的领域中 那里完全没有与人类相关的事物 
+
+743
+00:16:48,700 --> 00:16:53,983
+或者我们可以说 有一套社会风俗我们接受 然后我们辩论 
+
+744
+00:16:54,750 --> 00:17:04,250
+它们确实会改变 我们会做出错误的决定 但它们存在 也存在于我们非常古老的语言中 我们都用这些充满古老判断和价值观的语言交流 
+
+745
+00:17:04,733 --> 00:17:05,716
+好的 这非常有帮助 
+
+746
+00:17:06,416 --> 00:17:21,983
+我确实认为 如果我没理解错 西蒙和斯拉沃可以纠正我 如果你看现在的道德哲学辩论 大多数人不认为道德客观主义需要某种柏拉图式的天堂 道德事实在其中存在 
+
+747
+00:17:22,816 --> 00:17:30,766
+他们认为我们有某些实践 根据这些实践我们可以提出真或假的道德主张 
+
+748
+00:17:31,450 --> 00:17:33,683
+所以我认为这应该是这里的共同基础 
+
+749
+00:17:33,733 --> 00:17:36,650
+只是一个小小的更正 说如果我错了请纠正我 
+
+750
+00:17:36,650 --> 00:17:39,216
+即使你是对的 确保我也会纠正你 好吗 
+
+751
+00:17:42,950 --> 00:17:46,816
+所以西蒙 客观道德可能吗 
+
+752
+00:17:46,833 --> 00:17:52,883
+是的 我认为你必须接受我提到的那种客观性的概念 
+
+753
+00:17:52,883 --> 00:18:03,000
+客观性属于自我批评的过程 属于证据的收集 好奇心 关怀 在形成你的观点的这个过程中 
+
+754
+00:18:04,233 --> 00:18:22,683
+我认为关于当代世界的一个更令人担忧的事情是 人们会上社交媒体 上推特等 发表观点 有时是非常恶劣的观点 非常直接的观点 而没有去验证过它 
+
+755
+00:18:23,500 --> 00:18:31,450
+所以你得到阴谋论 得到错误的观点等等 它们以和任何真理一样的热情被传播 
+
+756
+00:18:32,166 --> 00:18:39,116
+这不仅仅关于道德 这关于几乎是这类媒体风暴下的所有主题 
+
+757
+00:18:40,500 --> 00:18:51,600
+我认为 关于第三世界或波普尔世界的观点已经得到很好的理解 我没有兴趣捍卫它 而且我不知道有谁会真的这样做
+
+758
+00:18:53,600 --> 00:18:55,933
+也就是说 它并不在我们之外 
+
+759
+00:18:56,566 --> 00:19:04,083
+著名哲学家查尔斯·桑德斯·皮尔斯 19世纪末的美国哲学家 
+
+760
+00:19:05,650 --> 00:19:11,200
+说试图定义真理是一个错误 但你可以定义对真理的追求 
+
+761
+00:19:11,916 --> 00:19:20,600
+这是寻找一个问题得到解决的点 一个超过这个点之后就不会产生疑问的点 
+
+762
+00:19:21,466 --> 00:19:26,466
+现在在伦理学的情况下 我认为有很多点不再产生疑问 
+
+763
+00:19:27,616 --> 00:19:36,866
+如果我请求大家举手 有多少人认为出于乐趣践踏盲婴是错误的 
+
+764
+00:19:39,950 --> 00:19:44,333
+有多少人认为出于乐趣践踏盲婴是可以的 
+
+765
+00:19:45,900 --> 00:19:47,366
+大约只有三个人举手 
+
+766
+00:19:47,733 --> 00:19:48,016
+是的 
+
+767
+00:19:50,883 --> 00:19:53,450
+好的 所以有些事情已经定论 
+
+768
+00:19:53,466 --> 00:19:57,050
+它 它是不容讨论的 
+
+769
+00:19:57,066 --> 00:19:59,550
+使用哲学家伊丽莎白·安斯科姆的著名短语 
+
+770
+00:20:00,116 --> 00:20:06,916
+如果有人选择对此表示异议 他显示出了一个腐败的心智 我对与他争论没有兴趣 
+
+771
+00:20:06,916 --> 00:20:11,150
+换句话说 这是某种在当下 立场坚定的事情 
+
+772
+00:20:11,150 --> 00:20:12,700
+我们就是在这里 
+
+773
+00:20:12,716 --> 00:20:19,650
+然后你可以继续看看我们是否可以使事物形式化 关于道德做出更抽象的命题等等 
+
+774
+00:20:19,666 --> 00:20:29,883
+这总是非常困难的 但我们开始的基本判断 你必须从事物的中间开始 
+
+775
+00:20:30,500 --> 00:20:35,183
+我们开始的那些基本判断 就像我提到的那个 那些是坚定的 
+
+776
+00:20:35,500 --> 00:20:37,333
+那些已经定论 
+
+777
+00:20:37,400 --> 00:20:40,633
+在我们愿意的情况下 它们是我们可谈论的知识的一部分
+
+778
+00:20:41,250 --> 00:20:44,466
+在我们谈论知识时 我们可以谈论客观知识 同样的事情 
+
+779
+00:20:45,850 --> 00:20:52,850
+所以我认为乔安娜谈到的两极化辩论 
+
+780
+00:20:53,716 --> 00:21:05,966
+一方是相对主义者 另一方是疯子 狂热者和极权主义者 这可以抛在我们身后 
+
+781
+00:21:06,066 --> 00:21:16,833
+我们必须寻找更微妙的问题 这些问题位于我们已知的事物和我们相当确定的事情的一般领域内 
+
+782
+00:21:17,733 --> 00:21:19,600
+然后我们或许可以取得进步 
+
+783
+00:21:20,550 --> 00:21:25,166
+如果你从客观性和主观性的抽象观念开始 你将无处可去 
+
+784
+00:21:27,183 --> 00:21:27,633
+好极了 
+
+785
+00:21:27,666 --> 00:21:28,350
+那非常有帮助 
+
+786
+00:21:28,750 --> 00:21:33,933
+所以我听到西蒙说我们有坚实的立足点 
+
+787
+00:21:34,600 --> 00:21:36,733
+不要因为乐趣而踩踏盲婴 
+
+788
+00:21:37,933 --> 00:21:41,450
+但如果有人向你施压并说 好吧 是的 好的 
+
+789
+00:21:42,316 --> 00:21:43,983
+但堕胎呢 
+
+790
+00:21:44,666 --> 00:21:46,666
+避孕呢 
+
+791
+00:21:47,750 --> 00:21:57,283
+事实上 我们并没有通过你所支持的那种讨论取得多少道德进步 这又如何呢 
+
+792
+00:21:58,116 --> 00:21:59,533
+这是某种迹象吗 
+
+793
+00:22:00,666 --> 00:22:02,650
+是的 这表明这个问题非常困难 
+
+794
+00:22:03,050 --> 00:22:08,316
+双方都有很多值得说的事情 
+
+795
+00:22:09,133 --> 00:22:13,733
+我的意思是 我们都知道像堕胎辩论这样的基本论点 
+
+796
+00:22:15,050 --> 00:22:18,200
+支持堕胎的人不支持杀婴 
+
+797
+00:22:19,100 --> 00:22:26,900
+然而 确定划界线的确有些困难 因为生命成长的过程是连续的 
+
+798
+00:22:28,350 --> 00:22:30,366
+所以那里有一个困难的领域 
+
+799
+00:22:32,016 --> 00:22:37,400
+当然 在冲突之间也有一个非常困难的领域 比如说 
+
+800
+00:22:37,766 --> 00:22:49,733
+女性控制自己身体的权利 以及胎儿发展成为一个人的所谓权利 如果它能够做到的话 
+
+801
+00:22:49,750 --> 00:22:57,216
+所以我认为 你知道 这将是一个困难的辩论 因为双方都有值得讨论的事情 
+
+802
+00:22:57,216 --> 00:23:02,400
+斯拉沃 你能告诉我们客观道德是否可能吗 不是在第三世界的意义上 
+
+803
+00:23:02,400 --> 00:23:07,400
+我仍然会喜欢 我不知道我怎么了 通常我只是到处乱来 
+
+804
+00:23:07,433 --> 00:23:16,833
+现在我心情更好 我试图找到共同语言 我仍然认为我们两个之间没有太大的区别 
+
+805
+00:23:16,900 --> 00:23:21,850
+是的 我在某种意义上同意你 
+
+806
+00:23:22,533 --> 00:23:36,683
+当然道德表达了我们的立场 但我想说 如果你允许我使用我以前的一个例子 这里必须有最低限度的 我在这里非常反马克思主义 
+
+807
+00:23:37,566 --> 00:23:40,133
+马克思主义者通常攻击异化 
+
+808
+00:23:41,766 --> 00:23:50,850
+我认为这里应该有最低限度的异化 即我不仅仅将其呈现为我的表达 
+
+809
+00:23:51,216 --> 00:23:54,700
+这就是为什么 这里有我以前的一个例子 
+
+810
+00:23:55,200 --> 00:24:02,216
+一直让我感兴趣的现象是这些现象 第一个已知的例子是 
+
+811
+00:24:02,916 --> 00:24:06,916
+我在希腊南部访问过的所谓的哭丧女 
+
+812
+00:24:07,850 --> 00:24:13,200
+你付钱给女人 让她们为你哭泣 为你哀悼 
+
+813
+00:24:14,133 --> 00:24:16,350
+人们会说多么虚伪等等 
+
+814
+00:24:16,850 --> 00:24:20,500
+不 我认为这是一个积极的现象 
+
+815
+00:24:20,900 --> 00:24:23,583
+它给你一定的距离 
+
+816
+00:24:23,733 --> 00:24:27,916
+你在最小程度上客观化了你的立场 
+
+817
+00:24:28,333 --> 00:24:38,250
+同样的 我会说这适用于 现在你会说 但这适用于原始文化 就像你知道的 在古代东印度 在西藏 那些祈祷 
+
+818
+00:24:38,366 --> 00:24:39,416
+我喜欢这个想法 
+
+819
+00:24:39,766 --> 00:24:47,983
+你把你的祷告写在纸上 把纸放在祈祷轮上 转动它 用斯大林主义的话来说 
+
+820
+00:24:48,450 --> 00:24:53,300
+客观上你在祈祷 即使你的心思在性或其他事情上 
+
+821
+00:24:53,766 --> 00:24:56,900
+但现在你会说这适用于原始文化 
+
+822
+00:24:57,233 --> 00:25:02,483
+看看对我来说20世纪美国文化的最大贡献 
+
+823
+00:25:03,650 --> 00:25:06,783
+那就是所谓的笑声带 你还记得 
+
+824
+00:25:07,216 --> 00:25:10,533
+笑声是屏幕的一部分 
+
+825
+00:25:11,050 --> 00:25:12,183
+它对我有效 
+
+826
+00:25:12,666 --> 00:25:16,983
+我经常晚上累得跟狗一样回家 
+
+827
+00:25:17,316 --> 00:25:28,233
+我放上一些愚蠢的连续剧 比如《欢乐时光》《老友记》 我并没有真的笑 但最后我感觉像笑过一样感到释放 
+
+828
+00:25:29,266 --> 00:25:38,400
+我认为我不想将这简单地视为 我知道我们的马克思主义朋友会说 这是极端的商品化、实物化 
+
+829
+00:25:38,866 --> 00:25:43,350
+不 必须有这种最低限度的仪式性异化 
+
+830
+00:25:47,100 --> 00:25:48,516
+你进行一个仪式 
+
+831
+00:25:48,866 --> 00:25:52,433
+我认为已经展示了 我不会占用太多时间 非常简短地 
+
+832
+00:25:53,416 --> 00:25:55,383
+我们对大流行的反应 如何 
+
+833
+00:25:56,000 --> 00:26:12,866
+这种适当层面的最小程度客观化的哀悼没有起作用 而且主要局限于这种歇斯底里的爆发 当然 是在Twitter、Facebook等等上 
+
+834
+00:26:13,400 --> 00:26:17,200
+顺便说一下 《傲慢与偏见》中的简·奥斯汀 
+
+835
+00:26:17,850 --> 00:26:19,966
+你知道 那里有一个很好的模糊性 
+
+836
+00:26:20,616 --> 00:26:31,350
+通常被理解为 纠正我如果我错了 简对达西有偏见 而达西过于骄傲 
+
+837
+00:26:31,750 --> 00:26:35,033
+但你知道 我读到了一个很好的解读 将其颠倒了 
+
+838
+00:26:35,800 --> 00:26:36,116
+但好吧 
+
+839
+00:26:36,983 --> 00:26:38,066
+这是你的解读还是什么 
+
+840
+00:26:38,433 --> 00:26:38,666
+抱歉 
+
+841
+00:26:39,800 --> 00:26:40,600
+是的 非常好 
+
+842
+00:26:40,816 --> 00:26:42,883
+好的 快点 快点 快点 
+
+843
+00:26:45,400 --> 00:26:53,933
+你知道当我们反对相对主义、道德历史主义、相对主义和这种根本主义的客观道德时 
+
+844
+00:26:57,366 --> 00:27:07,100
+你注意到了吗 如果你绝对地、教条地接受客观主义道德 比如一些宗教根本主义者 
+
+845
+00:27:07,716 --> 00:27:21,233
+实际上你引入了最具破坏性的相对主义进入社会生活 因为任何论证都不重要 这只是纯粹的冲突 
+
+846
+00:27:21,666 --> 00:27:34,833
+那么在某种程度上 你同意或不同意 （它只局限于）非常有限的程度 但我认为在某种程度上 一点点道德教条主义 可能会有帮助 这是什么意思 
+
+847
+00:27:35,216 --> 00:27:36,450
+一些非常简单的事情 
+
+848
+00:27:36,833 --> 00:27:42,816
+比如 可能在这个事实上有一些有条件的进步 
+
+849
+00:27:43,016 --> 00:27:49,833
+我在某处读到一个非常好的女性主义观点 以今天的标准 女权主义等 
+
+850
+00:27:52,816 --> 00:28:01,100
+直到20世纪 80%到90%的性行为按照今天的标准被视为强奸 
+
+851
+00:28:01,716 --> 00:28:10,833
+那么 当某些事情在良好意义上被教条式地接受时 难道不是还是有进步吗 
+
+852
+00:28:11,433 --> 00:28:17,416
+像 我想生活在这样一个社会 你不必争论 
+
+853
+00:28:17,700 --> 00:28:21,266
+不应该折磨人 女性不应该被强奸 
+
+854
+00:28:21,750 --> 00:28:23,516
+如果你需要为此争论 
+
+855
+00:28:24,166 --> 00:28:28,450
+那就已经 你已经失去了一些东西 
+
+856
+00:28:28,733 --> 00:28:35,366
+这就是为什么让我感到恐怖的是 虽然 是谁做的 迪克·切尼还是谁然后是特朗普 
+
+857
+00:28:36,533 --> 00:28:42,750
+你记得大约10、15年前当折磨突然成为辩论话题时吗 
+
+858
+00:28:43,200 --> 00:28:47,050
+也许如果我们用柔和的方式做 用水 等等 
+
+859
+00:28:48,066 --> 00:28:55,200
+即使大多数人反对它 这更加可怕 它变成了一个辩论话题 
+
+860
+00:28:55,716 --> 00:28:59,966
+更不用说强奸了 是谁 我总是忘记他的名字 她不是我最好的朋友 
+
+861
+00:29:00,416 --> 00:29:06,266
+一些美国参议员声称没有强奸 因为强奸必须有插入 
+
+862
+00:29:06,600 --> 00:29:11,866
+而如果女性没有变湿 那就无法插入 （能够插入）这意味着她同意了 
+
+863
+00:29:12,400 --> 00:29:14,866
+我们一旦为此辩论 我们就输了 
+
+864
+00:29:18,600 --> 00:29:23,150
+最后一点 当我们谈论客观研究时 
+
+865
+00:29:27,800 --> 00:29:34,566
+我仍然认为这里 这是哲学上的问题 也许对你和你来说 
+
+866
+00:29:35,166 --> 00:29:56,316
+我们最恐惧的是 当关于外面真实存在的事实的真相 明显地作为我们不同意的东西的工具时 比如种族主义等 
+
+867
+00:29:56,716 --> 00:29:58,133
+比如一个例子 
+
+868
+00:29:58,566 --> 00:30:02,033
+如果我是一个亲纳粹的德国人 
+
+869
+00:30:02,516 --> 00:30:11,750
+我保证我能写一本充满事实的书 只有事实 我说 等一下 事情没那么简单 
+
+870
+00:30:12,016 --> 00:30:20,566
+看看统计 30年代初60%的记者是犹太人等等 
+
+871
+00:30:21,166 --> 00:30:29,800
+所以这里当我们反对反犹太主义时 问题不是客观性 
+
+872
+00:30:30,033 --> 00:30:32,483
+事实真的是那样吗 
+
+873
+00:30:32,900 --> 00:30:35,133
+反犹太主义者描述它们的方式 
+
+874
+00:30:35,616 --> 00:30:42,700
+我的观点是 你一旦接受这作为辩论的话题 你就把灵魂卖给了魔鬼 
+
+875
+00:30:43,166 --> 00:30:50,516
+因为问题不是犹太人或今天的巴勒斯坦人 无论是谁 他们真的是那样的吗 
+
+876
+00:30:51,100 --> 00:31:01,916
+真正的问题是 为什么纳粹需要犹太人的形象 反犹太主义的形象来维持他们的世界观 
+
+877
+00:31:03,600 --> 00:31:07,350
+所以这是某种 对我来说是悲剧 
+
+878
+00:31:07,416 --> 00:31:23,100
+最危险的宣传对于一些明显在伦理上应受谴责的事情是 在事实层面上大部分是真实的宣传 
+
+879
+00:31:24,116 --> 00:31:27,950
+但那是另一个话题 只是如果你想让我结束 然后你可以稍后再打断我 
+
+880
+00:31:28,433 --> 00:31:30,983
+最后一点 当你 这个 
+
+881
+00:31:31,733 --> 00:31:33,233
+当你提到叶芝 对吗 
+
+882
+00:31:33,733 --> 00:31:35,383
+好的 我对叶芝有一些问题 
+
+883
+00:31:35,650 --> 00:31:38,733
+你知道他同意了1934年的种族法律 
+
+884
+00:31:39,150 --> 00:31:40,800
+不 不 叶芝有很大的问题 
+
+885
+00:31:41,033 --> 00:31:42,800
+是的 我只是把他作为这种观点的一个例子 
+
+886
+00:31:43,166 --> 00:31:45,400
+是的 因为如果我是他的话 当时我也会这么做 
+
+887
+00:31:45,533 --> 00:31:48,450
+但你会因为艺术家的问题而谴责他们吗 
+
+888
+00:31:48,566 --> 00:31:51,133
+那是另一个道德问题 因为我知道我不应该问问题 但是 
+
+889
+00:31:51,433 --> 00:31:53,183
+是的 是的 是的 是的 是的 是的 是的 是的 
+
+890
+00:31:53,216 --> 00:31:57,133
+我有点 不要引诱我走那个方向 
+
+891
+00:31:57,233 --> 00:31:58,050
+哦 继续 继续 
+
+892
+00:31:58,050 --> 00:32:04,883
+如果叶芝去了古拉格 我唯一能向你保证的是 他会在那里经营一个图书馆 一个相对的图书馆 
+
+893
+00:32:05,533 --> 00:32:19,383
+不 不 现在更认真地说 你知道我对激情的担忧是什么 就是今天我们见证了 这太可怕了 很多虚假的激情 
+
+894
+00:32:20,266 --> 00:32:20,766
+我的意思是
+
+895
+00:32:21,066 --> 00:32:29,000
+你还记得一年前或者什么时候的格拉斯哥会议关于全球变暖污染吗 
+
+896
+00:32:29,633 --> 00:32:39,916
+他们说的大部分都是正确的 但我认为这在结论层面上毫无意义 
+
+897
+00:32:40,033 --> 00:32:48,866
+所以今天 意识形态 我仍然称之为意识形态 不再以那种旧的方式发挥作用 传播谎言等等 
+
+898
+00:32:49,400 --> 00:32:55,683
+我们有一种说真话的方式 使真相变得无效 
+
+899
+00:32:56,200 --> 00:33:03,916
+这就是为什么 例如 我讨厌这种现代的 分析 你知道 威尼斯城堡 
+
+900
+00:33:04,450 --> 00:33:12,666
+官方总是反资本主义 就像艺术家被市场奴役 我们都被剥削 欧洲中心主义 
+
+901
+00:33:13,316 --> 00:33:21,083
+但尽管如此 他们完美地适应了今天资本主义市场的运作方式 
+
+902
+00:33:21,216 --> 00:33:37,983
+所以要小心 特别是在做出道德判断时 部分真相 最危险的宣传是使用部分真相来支持我们都应该同意的全球谎言 
+
+903
+00:33:38,066 --> 00:33:38,866
+抱歉我说得太长了 
+
+904
+00:33:38,916 --> 00:33:40,083
+好的 没有 很有趣 
+
+905
+00:33:40,550 --> 00:33:40,750
+是的 
+
+906
+00:33:43,450 --> 00:33:48,216
+你看到人们自发地表达他们的欣赏 所以很好 
+
+907
+00:33:49,116 --> 00:33:56,500
+好的 所以到目前为止 我们有斯拉沃说 把某个话题放到桌面上真的很可怕 
+
+908
+00:33:57,366 --> 00:33:59,383
+我认为我们有西蒙说 等一下 
+
+909
+00:33:59,650 --> 00:34:02,000
+让我们保持开放和宽容 
+
+910
+00:34:02,133 --> 00:34:03,816
+人们对事物有不同的看法 
+
+911
+00:34:04,466 --> 00:34:08,166
+让他们表达他们的激情并就此进行辩论 
+
+912
+00:34:09,816 --> 00:34:14,383
+为什么我们认为这里存在 抱歉 最后一次 为什么你认为这里存在对立 
+
+913
+00:34:14,466 --> 00:34:20,916
+我以为你说把某些话题放到桌面上是非常糟糕的事情 
+
+914
+00:34:22,600 --> 00:34:25,066
+这就是客观性的所在 至少在这一点上是客观性能发挥作用的 
+
+915
+00:34:25,200 --> 00:34:26,150
+但我说了同样的事情 
+
+916
+00:34:26,466 --> 00:34:36,250
+我说如果有人认为处于乐趣而踩踏盲婴——尤其是盲婴——是可以的 那我就不想和他们争论了 
+
+917
+00:34:36,400 --> 00:34:41,566
+这不是应该争论的事情 基本上是一样的 
+
+918
+00:34:41,650 --> 00:34:48,466
+好的 所以分歧在于可以适当地将哪些话题放到桌面上 
+
+919
+00:34:48,466 --> 00:34:50,000
+好的 
+
+920
+00:34:50,016 --> 00:34:56,883
+所以道德相对主义是一种允许你将话题放到桌面上的观点 
+
+921
+00:34:56,900 --> 00:35:01,700
+那么乔安娜 你会告诉我们你对下一部小说的看法吗 
+
+922
+00:35:02,016 --> 00:35:05,800
+我喜欢踩踏盲婴 
+
+923
+00:35:05,800 --> 00:35:07,683
+我会说是你叫我写的 
+
+924
+00:35:07,683 --> 00:35:08,766
+绝对 
+
+925
+00:35:08,766 --> 00:35:08,983
+你
+
+926
+00:35:11,316 --> 00:35:18,150
+你认为道德相对主义是否对当前伦理的混乱和困惑负有责任 
+
+927
+00:35:19,600 --> 00:35:20,900
+你想要是或否 还是想要 
+
+928
+00:35:21,866 --> 00:35:22,383
+多一点 
+
+929
+00:35:23,033 --> 00:35:33,266
+所以我认为 我的意思是 当我谈论狡猾的叶芝时 我认为如果你在一个相当绝对的道德秩序中遇到这些巨大的危机 
+
+930
+00:35:34,216 --> 00:35:36,466
+那么你会有这种钟摆式的摆动 这是不可避免的 
+
+931
+00:35:37,866 --> 00:35:42,950
+所以你有像叶芝这样的人 劳伦斯 他在1922年 正好一个世纪前 说 
+
+932
+00:35:44,666 --> 00:35:50,450
+他说 我真的很想感谢爱因斯坦给了我们相对主义 因为我们过去真的被完全限制住了 
+
+933
+00:35:50,716 --> 00:35:51,966
+我们都被完全固定住了 
+
+934
+00:35:52,750 --> 00:35:56,483
+而现在我们可以各自发言 我们都知道我们都是不同的 
+
+935
+00:35:57,116 --> 00:36:06,066
+问题在于 你对叶芝的看法是对的 他像劳伦斯一样陷入了这种理想化的个人主义 这有点像 
+
+936
+00:36:06,400 --> 00:36:09,083
+个体必须成为绝对的焦点 
+
+937
+00:36:09,666 --> 00:36:13,850
+然后你得到这种原子化和绝望 因为每个人都在...
+
+938
+00:36:14,716 --> 00:36:21,066
+劳伦斯有这样的比喻 我们都在嗡嗡飞来飞去 但是每个人都可能离别人数英里远 
+
+939
+00:36:21,833 --> 00:36:28,983
+所以这些巨大的摆动 我们又一次得到这些极端 你总是以这些两极对立结束 
+
+940
+00:36:29,433 --> 00:36:35,983
+我总是在这里想到布莱克 布莱克相当有趣 因为他在1790年代 他讨厌道德秩序 
+
+941
+00:36:36,916 --> 00:36:45,166
+因为它与童工——所有我们会说是明显不好的东西——如奴隶贸易等 站在一起 
+
+942
+00:36:45,533 --> 00:36:49,883
+再次 我不认为我们必须讨论这显然是可怕的事实 
+
+943
+00:36:50,400 --> 00:36:55,200
+所以他只是说 无论什么 你们将其视为上帝 我会将其视为魔鬼 
+
+944
+00:36:55,833 --> 00:36:58,400
+无论什么 你们将其视为魔鬼 我都会支持这个魔鬼 
+
+945
+00:36:58,633 --> 00:37:01,766
+我要真正追求那些你们认为是邪恶的东西 
+
+946
+00:37:01,933 --> 00:37:08,150
+所以他就像你说的关于教条主义 某种程度上他只是颠倒了整个事物并说 我有自己的系统 只是不是你们的 
+
+947
+00:37:08,866 --> 00:37:10,916
+我怀疑他是否真的是认真的 
+
+948
+00:37:11,233 --> 00:37:16,950
+通常当人们做出这些虚假的激进概括时 他们某种程度上在欺骗 
+
+949
+00:37:17,033 --> 00:37:18,950
+哦 你认为人们总是颠倒吗 
+
+950
+00:37:19,066 --> 00:37:19,216
+是的 
+
+951
+00:37:19,916 --> 00:37:20,650
+但你不能 我的意思是 正确
+
+952
+00:37:20,800 --> 00:37:26,066
+如果有另一个人来并且残忍地强奸他的妻子并殴打他 他会说 是的 是的 好的 那是我的新工作 
+
+953
+00:37:26,150 --> 00:37:27,816
+不 不 他不是这个意思 
+
+954
+00:37:28,000 --> 00:37:28,633
+那他是什么意思呢 
+
+955
+00:37:28,833 --> 00:37:34,650
+所以他不是指旧的好与恶 我现在持布莱克的观点 但他不是指你们的旧的好与恶 
+
+956
+00:37:34,716 --> 00:37:37,866
+他实际上是说好就是反抗道德秩序 
+
+957
+00:37:38,100 --> 00:37:45,166
+他说因为道德秩序如此疯狂和可怕 好就是反叛 坏就是温顺地坐在那里 
+
+958
+00:37:45,300 --> 00:37:47,983
+所以这有点像当你谈到踩踏婴儿的人 
+
+959
+00:37:48,600 --> 00:37:53,783
+布莱克会说 不说任何话并只是坐在那里温顺地就显然是不好的 
+
+960
+00:37:54,050 --> 00:37:57,000
+但当时的道德秩序却赞扬人们温顺 
+
+961
+00:37:57,466 --> 00:38:00,583
+所以他试图说 如果人们做了坏事 不要温顺 
+
+962
+00:38:01,250 --> 00:38:05,150
+但我接受你的观点 只是简单地说 我会将其倒置 
+
+963
+00:38:05,666 --> 00:38:11,616
+但是 就相对主义而言 我认为我们现在面临的问题是 成为相对主义者已成为一种陈词滥调 
+
+964
+00:38:11,700 --> 00:38:14,833
+每个人都说 我游乐于废墟之中 没有意义 
+
+965
+00:38:15,450 --> 00:38:25,166
+然后你得到像苏尔科夫这样为普京服务的人 利用这种相对主义说 你知道 没有谎言 所以没有真相 所以政治家不能被评判 
+
+966
+00:38:25,600 --> 00:38:28,683
+我认为这种情况下不可避免地会有巨大的反应 
+
+967
+00:38:29,700 --> 00:38:31,250
+这是极其重要的 
+
+968
+00:38:31,450 --> 00:38:33,450
+不过 这关于钟摆的摆动 
+
+969
+00:38:33,500 --> 00:38:36,933
+所以我认为问题的一部分是这些巨大的钟摆摆动 
+
+970
+00:38:36,966 --> 00:38:42,033
+也许我们可以考虑欧文·巴菲尔德所谈论的 西蒙和我已经讨论过的 
+
+971
+00:38:42,133 --> 00:38:49,400
+你有这样的想法 通过这些对立面来阐明立场 但你总是试图找到介于两者之间或超越两者的东西 
+
+972
+00:38:50,133 --> 00:38:51,900
+所以那可能是我的 我认为我的 
+
+973
+00:38:52,633 --> 00:38:53,783
+那真的很棒 谢谢你 
+
+974
+00:38:55,466 --> 00:38:57,750
+这有点符合 我认为 你的观点 
+
+975
+00:38:57,850 --> 00:38:59,416
+所以西蒙 你能给我们一个反应吗 
+
+976
+00:39:01,133 --> 00:39:06,566
+是的 我能提一个你在前言中提到的东西吗 鲁斯 
+
+977
+00:39:06,566 --> 00:39:17,416
+你提到绝对主义以某种方式在像萨姆·哈里斯和彼得·辛格这样的人口中复兴 我认为你提到的是这两个人 
+
+978
+00:39:17,450 --> 00:39:19,333
+还有已故的德里克·帕尔菲特 
+
+979
+00:39:20,066 --> 00:39:21,450
+还有德里克·帕尔菲特 
+
+980
+00:39:21,466 --> 00:39:25,100
+嗯 德里克是个有点不同的问题 但我认为辛格
+
+981
+00:39:25,466 --> 00:39:42,950
+和萨姆·哈里斯对于全面道德应该包含什么有非常简单化的观点 因为他们两个基本上都是功利主义者 这是一个古典立场 
+
+982
+00:39:42,966 --> 00:39:43,400
+它只是说 
+
+983
+00:39:44,100 --> 00:39:49,116
+你知道 价值的唯一衡量标准是最大多数的最大幸福 
+
+984
+00:39:49,116 --> 00:39:52,500
+所以总体幸福 这就是我们关心的一切 
+
+985
+00:39:52,500 --> 00:40:00,216
+哈里斯认为科学告诉了我们这一点 而这让情况变得更糟 
+
+986
+00:40:00,216 --> 00:40:01,683
+（因为）科学没有告诉我们这样的事情 
+
+987
+00:40:01,683 --> 00:40:05,750
+科学不决定你对任何事物的态度 
+
+988
+00:40:05,766 --> 00:40:16,500
+它可能需要对世界保持惊奇的态度 对证据和经验保持开放 但它不告诉你所有价值的来源是人类幸福 或类似的任何东西 
+
+989
+00:40:20,250 --> 00:40:26,800
+他认为科学提供了我们所有人都可以依靠的权威 我认为这是一个危险的幻想 
+
+990
+00:40:27,833 --> 00:40:30,716
+这源于我的另一个理由 
+
+991
+00:40:31,233 --> 00:40:33,483
+这是一个关于你对事物持有什么态度的问题 
+
+992
+00:40:34,250 --> 00:40:36,666
+科学告诉你应该如何看待某些事物
+
+993
+00:40:37,133 --> 00:40:39,433
+并且做得非常好 具有很大的权威性 
+
+994
+00:40:40,250 --> 00:40:43,700
+但它并没有告诉你应该对你发现的事物持有什么态度 
+
+995
+00:40:44,500 --> 00:40:50,983
+科学家可能会对研究响尾蛇和对研究兔子感到同样的快乐 
+
+996
+00:40:51,350 --> 00:40:57,500
+但这并不意味着你应该对响尾蛇和兔子持有相同的态度 
+
+997
+00:40:58,316 --> 00:41:04,966
+实际上 如果你有孩子 我希望他们对响尾蛇和兔子的态度不同 
+
+998
+00:41:05,600 --> 00:41:08,650
+所以我认为他（Sam Harris）只是一厢情愿 
+
+999
+00:41:09,566 --> 00:41:24,633
+辛格（Peter Singer）并不像那样天真 但他似乎对功利主义作为一种单一学说多年来遭受的大量批评视而不见 
+
+1000
+00:41:24,650 --> 00:41:33,966
+一个显而易见的问题是 功利主义者必须努力解释像感激和正义这样的事物 
+
+1001
+00:41:33,966 --> 00:41:46,300
+这些事物在功利主义的计算中很难适应 因为通常可能有一些不公正的案例实际上有助于总体的好处 
+
+1002
+00:41:46,316 --> 00:42:03,316
+典型的案例是 如果你能通过处决一个无罪的人从而避免社会动荡、暴动、屠杀等 那么你就应该这么做 
+
+1003
+00:42:03,333 --> 00:42:12,533
+很多人发现这种做法令人反感 并认为不应该这样做 你永远不应该为了司法上的执行而处决一个无罪的人 
+
+1004
+00:42:12,550 --> 00:42:25,166
+所以这些都是功利主义面临的经典困难案例 而忽视这些案例的存在并不是真正客观地对待事物 
+
+1005
+00:42:27,583 --> 00:42:27,683
+好的 
+
+1006
+00:42:27,850 --> 00:42:31,166
+我非常同意 作为另一位专业哲学家 
+
+1007
+00:42:31,650 --> 00:42:43,733
+我认为这里的人们应该知道 尽管这场辩论被描述为道德相对主义不再流行 但在许多圈子里 道德相对主义从未流行过 
+
+1008
+00:42:44,816 --> 00:42:48,283
+专业哲学家给出了反对它的非常有力的论证 
+
+1009
+00:42:48,833 --> 00:42:50,783
+所以我们提到了德里克·帕菲特 德里克·帕菲特的观点 
+
+1010
+00:42:51,666 --> 00:42:55,616
+如果你接受他的观点 这里有一种方式可以让你成为一名道德客观主义者而不是疯狂的 
+
+1011
+00:42:56,316 --> 00:43:02,883
+你可以认为 二加二等于四
+
+1012
+00:43:03,266 --> 00:43:05,033
+那是一个绝对真理 
+
+1013
+00:43:05,050 --> 00:43:12,150
+它是数学中的一个必然真理 而出于乐趣踩踏盲婴是错误的 
+
+1014
+00:43:12,150 --> 00:43:18,150
+那也是一个必然的道德真理 我们取基础真理 
+
+1015
+00:43:18,416 --> 00:43:25,866
+然后混合我们的所有的偶然环境、语言、我们的思考方式、我们的文化等等 我们尽我们所能地朝着最好的道德真理努力 
+
+1016
+00:43:26,000 --> 00:43:28,233
+这是成为一名道德客观主义者的方式 
+
+1017
+00:43:28,916 --> 00:43:32,400
+好的 我们不会转向第三个问题 
+
+1018
+00:43:34,316 --> 00:43:36,666
+这是我们今天的最后一个主题 
+
+1019
+00:43:36,966 --> 00:43:40,500
+向客观道德的趋势会继续吗 
+
+1020
+00:43:40,700 --> 00:43:43,716
+如果是 它会产生什么影响 
+
+1021
+00:43:44,200 --> 00:43:45,233
+斯拉沃伊 你先来 
+
+1022
+00:43:45,366 --> 00:43:48,400
+我真的会努力做到 这对我来说非常困难 
+
+1023
+00:43:49,666 --> 00:43:56,150
+你知道 我在这里是一个悲观主义者 不是相对主义的悲观主义者 而是一个悲观主义者 
+
+1024
+00:43:56,550 --> 00:44:01,683
+我们显然都会回到这个例子 踩踏一个盲眼孩子 
+
+1025
+00:44:02,350 --> 00:44:07,266
+我可以想象 不仅仅是想象 根据我所知道的 有一个文明 
+
+1026
+00:44:07,666 --> 00:44:15,650
+当时这不是字面上的这个 但类似这样的事情被体验为你的社会职责的一部分 
+
+1027
+00:44:16,166 --> 00:44:22,700
+古代斯巴达 如果孩子残疾 就必须被处理掉 
+
+1028
+00:44:22,716 --> 00:44:26,500
+所以快速地更正一下 它仅仅是为了乐趣 
+
+1029
+00:44:26,866 --> 00:44:28,250
+你只是为了乐趣而做 
+
+1030
+00:44:29,516 --> 00:44:35,116
+不是因为你在履行社会义务或扮演角色 它只是给你带来快乐 
+
+1031
+00:44:35,516 --> 00:44:36,516
+我谨慎地说这件事 
+
+1032
+00:44:36,900 --> 00:44:37,033
+是的 
+
+1033
+00:44:37,950 --> 00:44:41,833
+是的 它给你带来 对不起 仅仅是为了乐趣 
+
+1034
+00:44:43,250 --> 00:44:53,150
+这里它又是模棱两可的 因为一种变态的痴迷是 你为了好玩而做某事 但却把它伪装成你的责任 
+
+1035
+00:44:53,666 --> 00:44:55,900
+这是通常施虐的教师会做的事情 
+
+1036
+00:44:56,300 --> 00:45:02,850
+他们打你 然后告诉你——如果你是一个成绩差的学生——哦对我来说做这件事很可怕 这只是不幸的 
+
+1037
+00:45:03,100 --> 00:45:03,983
+但让我继续 
+
+1038
+00:45:04,416 --> 00:45:05,700
+道德相对主义 
+
+1039
+00:45:06,400 --> 00:45:12,866
+我们今天遇到的问题 我希望我们都能同意 我该怎么称呼它 
+
+1040
+00:45:13,400 --> 00:45:21,033
+局部道德绝对主义正在与全球相对主义结合起来 
+
+1041
+00:45:21,566 --> 00:45:27,916
+让我无限悲伤的一件事是 你记得塔利班在阿富汗取得胜利吗 
+
+1042
+00:45:28,566 --> 00:45:32,650
+他们立即与东印度达成了协议 
+
+1043
+00:45:33,416 --> 00:45:35,083
+交易非常残酷 伙计 
+
+1044
+00:45:35,216 --> 00:45:38,150
+他们称之为彼此尊重对方的文化 
+
+1045
+00:45:38,550 --> 00:45:48,916
+但交易是 我们在这里做我们想做的 穆斯林原教旨主义 但你们可以对待维吾尔人 随意对待你们那里的穆斯林 
+
+1046
+00:45:49,750 --> 00:46:00,216
+所以尽管如此 我在这里对你所说的更加开放 我会这样说 这很人性化 很天真 没有人会期望我会这样做 
+
+1047
+00:46:00,616 --> 00:46:08,300
+但我只会告诉你一个我学到然后测试过的事实 不是两个人 而是其中一个人 
+
+1048
+00:46:08,900 --> 00:46:15,683
+你还记得雅鲁泽尔斯基将军 1980年的政变
+
+1049
+00:46:18,350 --> 00:46:29,583
+然后他们最后进行了谈判 另一方的高层之一是亚当·米奇尼克 现在那里是一位大记者等等 
+
+1050
+00:46:30,650 --> 00:46:37,550
+你知道 起初我以为这是一个疯狂的谣言 然后我在一个圆桌会议上遇到了亚当·米奇尼克 我问了他 他证实了 
+
+1051
+00:46:38,066 --> 00:46:42,116
+在那个圆桌会议上 他们简单地...
+
+1052
+00:46:42,416 --> 00:46:44,333
+你怎么用这个新时代术语表达呢 
+
+1053
+00:46:44,466 --> 00:46:46,116
+他们之间有一种氛围 
+
+1054
+00:46:47,416 --> 00:46:55,750
+他们成为了亲密的朋友 尽管有分歧 但仍然定期见面 我觉得这非常文明 
+
+1055
+00:46:56,016 --> 00:46:59,066
+现在卡钦斯基兄弟疯了 他们在毁掉这一切 
+
+1056
+00:46:59,466 --> 00:47:10,016
+但这种基本的文明 大的 你知道当雅鲁泽尔斯基后来在医院垂死时 瓦文萨去看望了他 
+
+1057
+00:47:10,466 --> 00:47:20,583
+即使当你有最激烈的辩论时 还能保持一定水平的文明 这难道不是很好吗 
+
+1058
+00:47:21,416 --> 00:47:29,050
+所以关于普京的事情 当它被提及时 要小心普京 
+
+1059
+00:47:29,916 --> 00:47:38,150
+他可能表面上看起来 这是今天俄罗斯最危险的事情 他们可能表面上看起来是多元化的 
+
+1060
+00:47:38,500 --> 00:47:41,883
+美国帝国主义 自由主义不会控制我们 
+
+1061
+00:47:42,433 --> 00:47:52,283
+但如果你仔细观察 他们提出了一种新的 非常宗教原教旨主义 公开的法西斯主义 
+
+1062
+00:47:52,516 --> 00:47:59,300
+我使用法西斯主义一词来形容普京 并不是因为一些左翼的解释 
+
+1063
+00:47:59,633 --> 00:48:08,533
+他的国家哲学家是20世纪20年代的伊万·伊林 他公开提出了俄罗斯法西斯主义的想法等等 
+
+1064
+00:48:09,033 --> 00:48:13,216
+让我就此打住 只问一个问题 也许更多是问他而不是你 
+
+1065
+00:48:14,033 --> 00:48:15,800
+这个论点怎么样 
+
+1066
+00:48:16,716 --> 00:48:19,300
+我不太买账 但这很有趣 
+
+1067
+00:48:19,416 --> 00:48:31,783
+你一定知道尤尔根·哈贝马斯和其他一些人的观点 虽然他不是我最喜欢的哲学家 但他们声称
+
+1068
+00:48:32,150 --> 00:48:44,716
+我们不能简单地区分对科学事实的探索和规范性活动 因为科学本身在某种意义上是一种规范性活动 
+
+1069
+00:48:45,066 --> 00:48:52,583
+你遵循着某个目标 采用着某种方法 拥有所有论证的自由 
+
+1070
+00:48:53,033 --> 00:49:04,666
+在这个意义上 他们会说科学不能简单地与道德或规范性活动对立 它自有其规范性 
+
+1071
+00:49:05,633 --> 00:49:12,850
+这也是他们反对科学自然主义的论点 即其中总是有一个规范性维度 
+
+1072
+00:49:14,650 --> 00:49:15,100
+继续 西蒙 
+
+1073
+00:49:15,500 --> 00:49:16,766
+我认为前提是正确的 
+
+1074
+00:49:16,833 --> 00:49:20,216
+任何探究中总是存在规范性维度 
+
+1075
+00:49:21,166 --> 00:49:27,916
+如果你在进行探究并且很小心 那么就会有正确的做法和不正确的做法 
+
+1076
+00:49:28,100 --> 00:49:32,383
+将会有规范来规范调查是否得到妥善进行 
+
+1077
+00:49:33,050 --> 00:49:34,750
+所以在这个意义上 我认为他们绝对正确 
+
+1078
+00:49:35,850 --> 00:49:40,150
+但当然 那些规范可能与更广泛意义上的道德无关 
+
+1079
+00:49:41,166 --> 00:49:48,616
+你可以有一个不道德的科学家 但他以规范的小心和规范的客观性进行他的实验 
+
+1080
+00:49:50,600 --> 00:49:53,700
+我认为牛顿是一个非常不讨人喜欢的人 
+
+1081
+00:49:54,800 --> 00:49:55,666
+我可以这么说 
+
+1082
+00:49:55,766 --> 00:49:59,733
+他是我的学院成员 但他确实是...
+
+1083
+00:50:00,550 --> 00:50:06,066
+而且 当然 他是英国有史以来最伟大的科学家之一 可能是最伟大的 
+
+1084
+00:50:06,650 --> 00:50:12,833
+所以 你知道 不是道德规范决定了你如何进行科学研究 
+
+1085
+00:50:13,650 --> 00:50:15,466
+而是基于你试图找到什么 
+
+1086
+00:50:15,766 --> 00:50:16,633
+那个追求 
+
+1087
+00:50:17,233 --> 00:50:20,400
+那决定了你如何去发现它 
+
+1088
+00:50:22,233 --> 00:50:31,983
+所以我很确定 是的 斯拉沃伊认为在一项活动中不仅仅有规范 
+
+1089
+00:50:32,100 --> 00:50:34,033
+比如你怎么放试管这样 
+
+1090
+00:50:34,166 --> 00:50:39,016
+而且他认为一切都是政治的 一直到底 但我们不会去那里 
+
+1091
+00:50:39,066 --> 00:50:39,850
+我们不会去那里 
+
+1092
+00:50:40,366 --> 00:50:42,616
+我们将给乔安娜最后一个发言机会 
+
+1093
+00:50:42,716 --> 00:50:43,400
+有什么评论吗 
+
+1094
+00:50:43,550 --> 00:50:45,400
+关于科学 我想说的很简短 
+
+1095
+00:50:45,516 --> 00:50:48,216
+是的 我认为关于规范的讨论非常有趣
+
+1096
+00:50:48,233 --> 00:50:52,983
+而且这个问题 有一位有趣的书作者 马丁·古里 
+
+1097
+00:50:53,466 --> 00:50:57,200
+所以这本书实际上不是他提出这一点的地方 但他的书名为《公众的反抗》 
+
+1098
+00:50:57,700 --> 00:51:08,583
+但他也提出了一个关于疫情的问题 也许只是把它作为一个问题 在14世纪 占主导地位的秩序是宗教秩序 当瘟疫来临时 
+
+1099
+00:51:09,266 --> 00:51:14,083
+人们经历了一场可怕的危机 因为他们认为上帝生气了 这是复仇 
+
+1100
+00:51:14,616 --> 00:51:19,750
+所以他们经历了一场形而上学的危机 因为他们认为 为什么这个秩序如此强烈地谴责我们 
+
+1101
+00:51:19,833 --> 00:51:27,250
+而现在我们不是由神职人员统治 但我们有政府从科学家那里获得提示和建议 
+
+1102
+00:51:27,433 --> 00:51:30,866
+这显然非常出色 在很多情况下工作得很好 
+
+1103
+00:51:31,233 --> 00:51:39,100
+但如果那失败了 是否会引发那个秩序中的一种形而上学危机 
+
+1104
+00:51:39,633 --> 00:51:40,916
+我想这只是一个问题 
+
+1105
+00:51:40,950 --> 00:51:44,533
+这不是我的问题 这是古里提出的问题 我留给你们 
+
+1106
+00:51:45,016 --> 00:51:46,200
+感谢大家的到来 
+
+1107
+00:51:46,416 --> 00:51:49,550
+请感谢我们的发言人进行了一次非常有趣的讨论 
+
