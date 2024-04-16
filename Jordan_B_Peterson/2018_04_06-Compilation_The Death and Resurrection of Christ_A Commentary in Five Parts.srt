@@ -1,0 +1,4539 @@
+1
+00:00:14,533 --> 00:00:18,833
+Today, I want to present to you some of the things I've been thinking and writing about as Easter approached.
+
+2
+00:00:19,766 --> 00:00:24,500
+I'm going to do this in five separate parts, which hopefully will make up a coherent whole.
+
+3
+00:00:25,233 --> 00:00:28,266
+I'm going to read all of this, because it's complicated.
+
+4
+00:00:28,833 --> 00:00:30,066
+Part 1.
+
+5
+00:00:30,066 --> 00:00:31,233
+The Nature of Experience
+
+6
+00:00:32,533 --> 00:00:34,800
+There are two ways of looking at the world.
+
+7
+00:00:36,533 --> 00:00:40,566
+As a place of things, and as a forum for action.
+
+8
+00:00:42,433 --> 00:00:51,266
+Because we are living beings and must make our way pragmatically in the world, the second way of looking has to take precedence.
+
+9
+00:00:52,700 --> 00:00:59,333
+This means that the world as a place of things is nested inside the world as a forum for action.
+
+10
+00:01:00,866 --> 00:01:04,300
+This means that our conceptualization of the world as objective
+
+11
+00:01:05,133 --> 00:01:10,500
+Must remain subordinate to our conceptualization of the world as a place of being
+
+12
+00:01:13,500 --> 00:01:17,333
+This is from the first part of my book, Maps of Meaning
+
+13
+00:01:18,600 --> 00:01:26,400
+Quote, the world can be validly construed as form for action or place of things
+
+14
+00:01:28,366 --> 00:01:33,533
+The former manner of interpretation, more primordial and less clearly understood,
+
+15
+00:01:34,733 --> 00:01:42,366
+finds its expression in the arts or humanities, in ritual, drama, literature, and mythology.
+
+16
+00:01:43,666 --> 00:01:49,433
+The world as forum for action is a place of value, a place where all things have meaning.
+
+17
+00:01:50,933 --> 00:02:06,500
+This meaning, which is shaped as a consequence of social interaction, is implication for action or, at a higher level of analysis, implication for the configuration of the interpretive schema that produces or guides action.
+
+18
+00:02:08,700 --> 00:02:17,300
+The latter manner of interpretation, the world as place of things, finds its formal expression in the methods and theories of science.
+
+19
+00:02:18,933 --> 00:02:32,066
+Science allows for increasingly precise determination of the consensually validatable properties of things, and for efficient utilization of precisely determined things as tools,
+
+20
+00:02:32,366 --> 00:02:38,733
+once the direction such use is to take has been determined through application of more fundamental narrative processes.
+
+21
+00:02:40,000 --> 00:02:45,633
+No complete world picture can be generated without use of both modes of construal.
+
+22
+00:02:46,633 --> 00:02:55,300
+The fact that one mode is generally set at odds with the other means only that the nature of their respective domains remains insufficiently discriminated.
+
+23
+00:02:56,533 --> 00:03:01,833
+Adherents of the mythological worldview tend to regard the statements of their creeds as
+
+24
+00:03:02,033 --> 00:03:11,133
+indistinguishable from empirical fact, even though such statements were generally formulated long before the notion of objective reality emerged.
+
+25
+00:03:13,066 --> 00:03:20,333
+Those who, by contrast, accept the scientific perspective, who assume that it is or might become complete,
+
+26
+00:03:21,333 --> 00:03:26,733
+forget that an impassable gulf currently divides what is from what should be.
+
+27
+00:03:29,300 --> 00:03:31,266
+I wrote this a little later.
+
+28
+00:03:31,266 --> 00:03:35,433
+It's also relevant as introduction to what we're going to discuss in a bit.
+
+29
+00:03:37,600 --> 00:03:42,366
+The world can be validly construed as a form for action, as well as a place of things.
+
+30
+00:03:43,966 --> 00:03:47,633
+We describe the world as a place of things using the formal methods of science.
+
+31
+00:03:49,133 --> 00:03:56,833
+The techniques of narrative, however, myth, literature, and drama portray the world as a form for action.
+
+32
+00:03:56,866 --> 00:04:02,000
+The two forms of representation have been unnecessarily set at odds because we
+
+33
+00:04:02,000 --> 00:04:05,400
+We have not yet formed a clear picture of their respective domains.
+
+34
+00:04:07,633 --> 00:04:17,133
+The domain of the former, scientific domain, is the objective world, what is from the perspective of intersubjective perception.
+
+35
+00:04:18,400 --> 00:04:28,866
+The domain of the latter, drama and narrative, is the world of value, what is and what should be from the perspective of emotion and action.
+
+36
+00:04:30,633 --> 00:04:35,766
+The world as a forum for action presents itself in two stories.
+
+37
+00:04:37,233 --> 00:04:42,400
+The normal story, I was at point A and I was going to point B.
+
+38
+00:04:44,133 --> 00:04:54,800
+And the revolutionary story, I was at point A and while going to point B, something entirely unexpected and earth-shattering happened.
+
+39
+00:04:56,366 --> 00:05:05,233
+This meant I had to abandon my story, question my assumptions, allow my old beliefs to die, and be reborn anew.
+
+40
+00:05:07,966 --> 00:05:12,700
+The second story, which is deeper, is essentially religious.
+
+41
+00:05:14,200 --> 00:05:14,666
+Part 2.
+
+42
+00:05:15,466 --> 00:05:18,133
+Some axioms of the Christian revolutionary story.
+
+43
+00:05:20,333 --> 00:05:20,733
+Number 1.
+
+44
+00:05:21,766 --> 00:05:30,266
+To decide that, and then enact the proposition, that being is good despite its tragedy and malevolence.
+
+45
+00:05:30,300 --> 00:05:41,300
+Number two, to work in consequence for the continual and eternal improvement of that being and to know that as love.
+
+46
+00:05:41,333 --> 00:05:47,766
+Number three, to do such work in truth.
+
+47
+00:05:47,766 --> 00:05:58,033
+Number four, to let everything inadequate burn off in that pursuit and to welcome its replacement by what is better.
+
+48
+00:05:58,033 --> 00:06:04,200
+Number five, to know that as the sacred imitation of Christ.
+
+49
+00:06:04,200 --> 00:06:12,500
+Number six, to understand that although Christ's sacrifice redeemed us all, the work still has to be done.
+
+50
+00:06:14,533 --> 00:06:22,166
+Number seven, to accept that work as the sacred meaning of life.
+
+51
+00:06:22,166 --> 00:06:30,166
+Number eight, to Strive toward the heavenly city on the hill in that manner
+
+52
+00:06:30,233 --> 00:06:35,133
+part three narratives and sacrifice
+
+53
+00:06:35,200 --> 00:06:37,200
+From my new book 12 rules for life
+
+54
+00:06:38,466 --> 00:06:43,100
+Rule 7 pursue what is meaningful not what is expedient?
+
+55
+00:06:45,633 --> 00:06:50,900
+Every man for himself and the devil take the hindmost as the old proverb has it
+
+56
+00:06:52,266 --> 00:06:57,200
+Why not simply take everything you can get whenever the opportunity arises?
+
+57
+00:06:58,266 --> 00:07:00,466
+Why not determine to live in that manner?
+
+58
+00:07:02,400 --> 00:07:05,833
+Or is there an alternative and if so,
+
+59
+00:07:07,033 --> 00:07:08,233
+Why should we bother with it?
+
+60
+00:07:10,666 --> 00:07:16,500
+Our ancestors worked out very sophisticated answers to such questions, but we still don't understand them very well
+
+61
+00:07:18,466 --> 00:07:29,166
+This is because they are in large part still implicit, manifest primarily in ritual and myth, and as of yet, incompletely articulated.
+
+62
+00:07:29,166 --> 00:07:36,166
+We act them out and represent them in stories, but we're not yet wise enough to formulate them explicitly.
+
+63
+00:07:36,200 --> 00:07:39,900
+We're still chimps in a troop, or wolves in a pack.
+
+64
+00:07:39,933 --> 00:07:41,500
+We know how to behave.
+
+65
+00:07:41,500 --> 00:07:44,200
+We know who's who and why.
+
+66
+00:07:44,200 --> 00:07:45,800
+We've learned that through experience.
+
+67
+00:07:45,833 --> 00:07:50,200
+Our knowledge has been shaped by the interaction with others.
+
+68
+00:07:50,233 --> 00:07:57,866
+We've established predictable routines and patterns of behavior, but we don't really understand them or know where they originated.
+
+69
+00:07:57,866 --> 00:08:01,633
+They've evolved over great expanses of time.
+
+70
+00:08:01,633 --> 00:08:04,533
+But we didn't and still don't understand what it all meant.
+
+71
+00:08:06,100 --> 00:08:13,900
+The biblical narrative of Paradise and the Fall is one such story, fabricated by our collective imagination working over the centuries.
+
+72
+00:08:15,000 --> 00:08:23,933
+It provides a profound account of the nature of being, and points the way to a mode of conceptualization and action well matched to that nature.
+
+73
+00:08:25,300 --> 00:08:37,166
+In the Garden of Eden, prior to the dawn of self-consciousness, so goes the story, human beings were sinless. primordial parents, Adam and Eve, walked with God.
+
+74
+00:08:37,166 --> 00:08:47,900
+Then, tempted by the snake, the first couple ate from the tree of the knowledge of good and evil, discovered death and vulnerability, and turned away from God.
+
+75
+00:08:47,933 --> 00:08:54,900
+Mankind was exiled from paradise and began its effortful mortal existence.
+
+76
+00:08:54,933 --> 00:09:02,900
+The idea of sacrifice enters soon afterward, beginning with the account of Cain and Abel and developing through the Abrahamic adventures and the Exodus.
+
+77
+00:09:04,666 --> 00:09:09,433
+After much contemplation, struggling humanity learns that God's favor could be gained and
+
+78
+00:09:09,500 --> 00:09:19,666
+his wrath averted through proper sacrifice, and also that bloody murder might be motivated among those unwilling or unable to succeed in this manner.
+
+79
+00:09:20,700 --> 00:09:22,366
+The Delay of Gratification
+
+80
+00:09:23,333 --> 00:09:29,233
+When engaging in sacrifice, our forefathers began to act out what would be considered a proposition,
+
+81
+00:09:29,300 --> 00:09:38,400
+if it were stated in words, that something better might be attained in the future by giving up something of value in the present.
+
+82
+00:09:38,400 --> 00:09:47,333
+Recall, if you will, that the necessity for work is one of the curses placed by God upon Adam and his descendants in consequence of original sin.
+
+83
+00:09:49,266 --> 00:09:58,500
+Adam's waking to the fundamental constraints of his being – his vulnerability, his eventual death, is equivalent to his discovery of the future.
+
+84
+00:09:59,833 --> 00:10:00,366
+The future.
+
+85
+00:10:01,233 --> 00:10:02,666
+That's where you go to die.
+
+86
+00:10:03,833 --> 00:10:05,000
+Hopefully not too soon.
+
+87
+00:10:06,000 --> 00:10:12,566
+Your demise might be staved off through work, through the sacrifice of the now to gain benefit later.
+
+88
+00:10:13,700 --> 00:10:23,266
+It is for this reason, among others no doubt, that the concept of sacrifice is introduced in the biblical chapter immediately following the drama of the fall.
+
+89
+00:10:25,766 --> 00:10:27,866
+There's little difference between sacrifice and work.
+
+90
+00:10:29,633 --> 00:10:31,433
+They're also both uniquely human.
+
+91
+00:10:32,666 --> 00:10:37,800
+Sometimes animals act as if they're working, but they're really only following the dictates of their nature.
+
+92
+00:10:38,833 --> 00:10:39,833
+Beavers build dams.
+
+93
+00:10:41,300 --> 00:10:42,933
+They do so because they are beavers.
+
+94
+00:10:43,700 --> 00:10:44,533
+Beavers build dams.
+
+95
+00:10:45,400 --> 00:10:50,666
+They don't think, yeah, but I'd rather be on a beach in Mexico with my girlfriend while they're doing it.
+
+96
+00:10:53,033 --> 00:11:02,800
+Proseically such sacrifice, work, is delay of gratification, but that's a very mundane phrase to describe something of soul-shattering significance.
+
+97
+00:11:03,733 --> 00:11:15,466
+The discovery that gratification could be delayed was, simultaneously, the discovery of time and with it causality, at least the causal force of voluntary human action.
+
+98
+00:11:17,000 --> 00:11:23,733
+Long ago, in the dim mists of time, we began to realize that reality was structured as if it could be bargained with.
+
+99
+00:11:25,000 --> 00:11:39,000
+We learned that behaving properly now in the present, regulating our impulses, considering the plight of others, could bring rewards in the future in a time and place that did not yet exist.
+
+100
+00:11:39,033 --> 00:11:50,266
+We began to inhibit, control, and organize our immediate impulses so that we could stop interfering with other people and our future selves.
+
+101
+00:11:50,266 --> 00:11:54,400
+Doing so was indistinguishable from organizing society.
+
+102
+00:11:54,433 --> 00:12:03,300
+The discovery of the causal relationship between our efforts today and the quality of tomorrow motivated the social contract, the organization that
+
+103
+00:12:03,500 --> 00:12:10,133
+enables today's work to be stored reliably, mostly in the form of promises from others.
+
+104
+00:12:13,933 --> 00:12:17,666
+Understanding is often acted out before it can be articulated,
+
+105
+00:12:18,300 --> 00:12:24,966
+just as a child acts out what it means to be mother or father before being able to give a spoken account of what those roles mean.
+
+106
+00:12:26,666 --> 00:12:35,500
+The act of making a ritual sacrifice to God was an early and and sophisticated enactment of the idea of the usefulness of delay.
+
+107
+00:12:37,466 --> 00:12:49,066
+There is a long conceptual journey between merely feasting hungrily and learning to set aside some extra meat smoked by the fire for the end of the day or for someone who isn't present.
+
+108
+00:12:50,766 --> 00:13:03,133
+It takes a long time to learn to keep anything later for yourself or to share it with someone else and those are very much the same thing as in the former case you are sharing with your future self.
+
+109
+00:13:04,566 --> 00:13:10,266
+It is much easier and far more likely to selfishly and immediately wolf down everything in sight.
+
+110
+00:13:11,900 --> 00:13:19,033
+There are similar long journeys between every leap in sophistication with regards to delay and its conceptualization.
+
+111
+00:13:19,866 --> 00:13:22,900
+Short-term sharing, storing away for the future,
+
+112
+00:13:23,900 --> 00:13:29,166
+representation of that storage in the form of records and later in the form of currency,
+
+113
+00:13:30,033 --> 00:13:34,466
+and, ultimately, the saving of money in a bank or other social institution.
+
+114
+00:13:36,033 --> 00:13:46,933
+Some conceptualizations had to serve as intermediaries, or the full range of our practices and ideas surrounding sacrifice and work and their representation could have never emerged.
+
+115
+00:13:49,133 --> 00:13:52,366
+Our ancestors acted out a drama, a fiction.
+
+116
+00:13:53,400 --> 00:14:01,333
+They personified the force that governs fate as a spirit that can be bargained with, traded with, as if it were another human being
+
+117
+00:14:03,066 --> 00:14:05,033
+And the amazing thing is that it worked
+
+118
+00:14:06,700 --> 00:14:10,433
+This was in part because the future is largely composed of other human beings
+
+119
+00:14:11,400 --> 00:14:18,066
+Often precisely those who have watched and evaluated and appraised the tiniest details of your past behavior
+
+120
+00:14:19,466 --> 00:14:28,666
+It's not very far from that to God sitting above on high Tracking your every move and writing it down for further reference in a big book
+
+121
+00:14:30,366 --> 00:14:32,400
+Here's a productive symbolic idea
+
+122
+00:14:33,866 --> 00:14:36,033
+The future is a judgmental father
+
+123
+00:14:37,766 --> 00:14:41,000
+That's a good start, but two additional archetypal
+
+124
+00:14:41,566 --> 00:14:46,433
+Foundational questions arose because of the discovery of sacrifice of work
+
+125
+00:14:47,800 --> 00:14:57,100
+Both have to do with the ultimate extension of the logic of work, which is sacrifice now to gain later first question
+
+126
+00:14:58,866 --> 00:15:00,333
+What must be sacrificed?
+
+127
+00:15:02,133 --> 00:15:06,966
+Small sacrifices may be sufficient to solve small, singular problems.
+
+128
+00:15:08,266 --> 00:15:18,133
+But it is possible that larger, more comprehensive sacrifices might solve an array of large and complex problems all at the same time.
+
+129
+00:15:19,966 --> 00:15:22,066
+That's harder, but it might be better.
+
+130
+00:15:24,200 --> 00:15:34,400
+Adapting to the necessary discipline of medical school will, for example, fatally interfere with the licentious lifestyle of a hardcore undergraduate party animal.
+
+131
+00:15:35,600 --> 00:15:38,400
+Giving that up is a sacrifice.
+
+132
+00:15:38,400 --> 00:15:44,000
+But a physician can, to quote George W., really put food on his family.
+
+133
+00:15:45,766 --> 00:15:49,800
+That's a lot of trouble dispensed with over a very long period of time.
+
+134
+00:15:51,166 --> 00:15:57,666
+So, sacrifices are necessary to improve the future, and larger sacrifices can be better.
+
+135
+00:15:59,966 --> 00:16:01,766
+Second question.
+
+136
+00:16:01,800 --> 00:16:03,300
+Set of related questions, really.
+
+137
+00:16:04,166 --> 00:16:07,233
+We've already established the basic principle.
+
+138
+00:16:07,266 --> 00:16:09,400
+Sacrifice will improve the future.
+
+139
+00:16:11,033 --> 00:16:14,800
+But a principle, once established, has to be fleshed out.
+
+140
+00:16:16,000 --> 00:16:19,366
+Its full extension or significance has to be understood.
+
+141
+00:16:21,266 --> 00:16:28,033
+What is implied by the idea that sacrifice will improve the future in the most extreme and final of cases?
+
+142
+00:16:28,733 --> 00:16:31,633
+Where does that basic principle find its limits?
+
+143
+00:16:33,233 --> 00:16:41,800
+We must ask, to begin, what would be the largest, most effective, most pleasing of all possible sacrifices?
+
+144
+00:16:42,433 --> 00:16:50,033
+And then, how good might the best possible future be, if the most effective sacrifice could be made?
+
+145
+00:16:52,900 --> 00:17:01,366
+The biblical story of Cain and Abel, Adam and Eve's sons, immediately follows the story of the expulsion from Paradise, as mentioned previously.
+
+146
+00:17:02,400 --> 00:17:09,566
+Cain and Abel are really the first humans, since their parents were made directly by God, and not born in the standard manner.
+
+147
+00:17:11,033 --> 00:17:15,033
+Cain and Abel live in history, not in Eden.
+
+148
+00:17:15,066 --> 00:17:16,566
+They must work.
+
+149
+00:17:16,566 --> 00:17:22,566
+They must make sacrifices to please God, and they do so with altar and proper ritual.
+
+150
+00:17:24,533 --> 00:17:26,366
+But things get complicated.
+
+151
+00:17:26,366 --> 00:17:30,433
+Abel's offerings please God, but Cain's do not.
+
+152
+00:17:30,433 --> 00:17:34,733
+Abel is rewarded many times over, but Cain is not.
+
+153
+00:17:35,766 --> 00:17:41,900
+It's not precisely clear why, although the text strongly hints that Cain's heart is just not in it.
+
+154
+00:17:43,600 --> 00:17:48,666
+Maybe the quality of what Cain put forward was low, maybe his spirit was begrudging,
+
+155
+00:17:49,566 --> 00:17:52,933
+or maybe God was vexed for some secret reasons of his own.
+
+156
+00:17:53,900 --> 00:17:58,966
+And all of this is realistic, including the text's vagueness of explanation.
+
+157
+00:18:00,000 --> 00:18:02,133
+Not all sacrifices are of equal quality.
+
+158
+00:18:03,266 --> 00:18:09,600
+Furthermore, it often appears that sacrifices of apparently high quality are not rewarded with a better future
+
+159
+00:18:10,633 --> 00:18:14,433
+And it's not clear why Why isn't God happy?
+
+160
+00:18:15,700 --> 00:18:18,266
+What would have to change to make him so?
+
+161
+00:18:19,766 --> 00:18:21,233
+Those are difficult questions
+
+162
+00:18:22,433 --> 00:18:24,700
+And everyone asks them all the time
+
+163
+00:18:26,133 --> 00:18:27,200
+Even if they don't notice
+
+164
+00:18:28,266 --> 00:18:31,366
+Asking such questions is indistinguishable from thinking
+
+165
+00:18:34,000 --> 00:18:39,633
+The realization that pleasure could be usefully forestalled dawned on us with great difficulty.
+
+166
+00:18:40,100 --> 00:18:46,933
+It runs absolutely contrary to our ancient fundamental animal instincts, which demand immediate satisfaction,
+
+167
+00:18:47,800 --> 00:18:52,566
+particularly under conditions of deprivation, which are both inevitable and commonplace.
+
+168
+00:18:53,800 --> 00:19:04,566
+And, to complicate the matter, such delay only becomes useful when civilization has stabilized itself enough guarantee the existence of the delayed reward in the future.
+
+169
+00:19:06,300 --> 00:19:11,733
+If everything you save will be destroyed, or worse, stolen, there's no point in saving.
+
+170
+00:19:13,133 --> 00:19:18,066
+It is for this reason that a wolf will down 20 pounds of raw meat in a single meal.
+
+171
+00:19:19,266 --> 00:19:24,366
+He isn't thinking, man, I hate it when I binge, I should save some of this for next week.
+
+172
+00:19:25,200 --> 00:19:30,833
+So how was it that those two impossible and necessarily simultaneous accomplishments—delay
+
+173
+00:19:31,166 --> 00:19:36,500
+and the stabilization of society into the future—could possibly have manifested themselves?
+
+174
+00:19:38,300 --> 00:19:41,466
+Here is a developmental progression, from animal to human.
+
+175
+00:19:42,066 --> 00:19:44,600
+It's wrong, no doubt, in the details.
+
+176
+00:19:45,600 --> 00:19:48,566
+But it's sufficiently correct for our purposes in theme.
+
+177
+00:19:50,400 --> 00:19:52,633
+First, there's excess food.
+
+178
+00:19:52,666 --> 00:19:56,966
+Large carcasses, mammoths, or other massive herbivores might provide that.
+
+179
+00:19:58,133 --> 00:19:59,933
+We ate a lot of mammoths.
+
+180
+00:19:59,933 --> 00:20:00,766
+Maybe all of them.
+
+181
+00:20:02,033 --> 00:20:05,733
+With a large animal, there's some left for later after a kill.
+
+182
+00:20:06,633 --> 00:20:09,366
+That's accidental at first.
+
+183
+00:20:09,366 --> 00:20:13,933
+But eventually, the utility of for later starts to be appreciated.
+
+184
+00:20:15,433 --> 00:20:18,933
+Some provisional notion of sacrifice develops at the same time.
+
+185
+00:20:20,266 --> 00:20:25,533
+If I leave some, even if I want it now, I won't have to be hungry later.
+
+186
+00:20:27,266 --> 00:20:29,933
+That provisional notion develops to the next level.
+
+187
+00:20:31,466 --> 00:20:36,966
+If I leave some for later, I won't have to go hungry, and neither will those I care for.
+
+188
+00:20:36,966 --> 00:20:44,833
+And then to the next I can't possibly eat all of this mammoth, but I can't store the rest for too long either
+
+189
+00:20:46,166 --> 00:20:47,800
+Maybe I should feed some to other people
+
+190
+00:20:49,533 --> 00:20:55,166
+Maybe they'll remember and feed me some of their mammoth when they have some and I have none
+
+191
+00:20:56,333 --> 00:21:02,533
+then I'll get some mammoth now and some mammoth later that's a good deal and
+
+192
+00:21:03,866 --> 00:21:07,800
+Maybe those I'm sharing with will come to trust me more generally.
+
+193
+00:21:09,100 --> 00:21:10,866
+Maybe then we could trade forever.
+
+194
+00:21:12,566 --> 00:21:16,066
+In such a manner, mammoth becomes future mammoth,
+
+195
+00:21:17,033 --> 00:21:19,766
+and future mammoth becomes personal reputation.
+
+196
+00:21:20,633 --> 00:21:23,500
+That's the emergence of the social contract.
+
+197
+00:21:25,200 --> 00:21:29,333
+To share does not mean to give away something you value and get nothing back.
+
+198
+00:21:30,400 --> 00:21:35,633
+That is instead only what every child who refuses to share fears it means.
+
+199
+00:21:37,200 --> 00:21:41,666
+To share means, properly, to initiate the process of trade.
+
+200
+00:21:43,666 --> 00:21:49,900
+A child who can't share, who can't trade, can't have any friends, because having friends is a form of trade.
+
+201
+00:21:51,133 --> 00:22:00,266
+Benjamin Franklin once suggested that a newcomer to a neighborhood ask a new neighbor to do him or her a favor, citing this old maxim
+
+202
+00:22:02,000 --> 00:22:09,266
+He that has once done you a kindness, will be more ready to do you another than he whom you yourself have obliged.
+
+203
+00:22:11,066 --> 00:22:21,233
+In Franklin's opinion, asking someone for something, not too extreme, obviously, was the most useful and immediate invitation to social interaction and trade.
+
+204
+00:22:23,600 --> 00:22:32,433
+Such asking on the part of the newcomer provided the neighbour with an opportunity to show him or herself as a good person at first encounter.
+
+205
+00:22:33,533 --> 00:22:42,900
+It also meant that the latter could now ask the former for a favor in return because of the debt incurred, increasing their mutual familiarity and trust.
+
+206
+00:22:44,566 --> 00:22:50,733
+In that manner, both parties could overcome their natural hesitancy and mutual fear of the stranger.
+
+207
+00:22:53,133 --> 00:22:55,100
+It is better to have something than nothing.
+
+208
+00:22:56,133 --> 00:22:59,866
+It's better yet to share generously the something you have.
+
+209
+00:23:01,800 --> 00:23:06,366
+It's even better than that, however, to become widely known for generous sharing.
+
+210
+00:23:07,900 --> 00:23:09,233
+That's something that lasts.
+
+211
+00:23:10,333 --> 00:23:12,233
+That's something that's reliable.
+
+212
+00:23:13,766 --> 00:23:22,766
+And at this point of abstraction, we can observe how the groundwork for the conceptions reliable, honest, and generous have been laid.
+
+213
+00:23:24,066 --> 00:23:27,366
+The basis for an articulated morality has been put in place.
+
+214
+00:23:28,933 --> 00:23:34,966
+The productive truthful sharer is the prototype for the good citizen and the good man.
+
+215
+00:23:37,166 --> 00:23:45,366
+We can see in this manner how from the simple notion that leftovers are a good idea, the highest moral principles might emerge.
+
+216
+00:23:47,700 --> 00:23:51,466
+It's as if something like the following happened as humanity developed.
+
+217
+00:23:52,900 --> 00:23:59,933
+First were the endless tens or hundreds of thousands of years prior to the emergence of written history and drama
+
+218
+00:24:01,600 --> 00:24:08,866
+During this time the twin practices of delay and exchange begin to emerge slowly and painfully
+
+219
+00:24:10,833 --> 00:24:16,800
+Then they become represented in metaphorical abstraction as rituals and tales of sacrifice
+
+220
+00:24:17,600 --> 00:24:20,233
+Told in a manner such as this
+
+221
+00:24:21,866 --> 00:24:27,366
+It's as if there's a powerful figure in the sky who sees all and is judging you
+
+222
+00:24:28,800 --> 00:24:33,433
+Giving up something you value seems to make him happy and you want to make him happy
+
+223
+00:24:34,233 --> 00:24:36,300
+Because all hell breaks loose if you don't
+
+224
+00:24:37,666 --> 00:24:45,733
+so practice sacrificing and sharing until you become expert at it and things will go well for you
+
+225
+00:24:47,766 --> 00:24:55,766
+No one said any of this, at least not so plainly and directly, but it was implicit in the practice and then in the stories.
+
+226
+00:24:57,500 --> 00:25:03,666
+Action came first, as it had to, as the animals we once were could act but could not think.
+
+227
+00:25:05,000 --> 00:25:14,733
+Implicit, unrecognized value came first, as the actions that preceded thought embodied value but did not make that value explicit.
+
+228
+00:25:16,700 --> 00:25:22,666
+People watched the successful succeed and the unsuccessful fail for thousands and thousands of years.
+
+229
+00:25:23,866 --> 00:25:26,733
+We thought it over and drew a conclusion.
+
+230
+00:25:28,066 --> 00:25:30,733
+The successful among us delay gratification.
+
+231
+00:25:32,133 --> 00:25:34,733
+The successful among us bargain with the future.
+
+232
+00:25:35,066 --> 00:25:44,433
+A great idea begins to emerge, taking ever more clearly articulated form in ever more clearly articulated stories. stories.
+
+233
+00:25:46,100 --> 00:25:49,033
+What's the difference between the successful and the unsuccessful?
+
+234
+00:25:50,100 --> 00:25:51,733
+The successful sacrifice.
+
+235
+00:25:52,966 --> 00:25:56,733
+Things get better as the successful practice their sacrifices.
+
+236
+00:25:58,133 --> 00:26:02,900
+The questions become increasingly precise and simultaneously broader.
+
+237
+00:26:04,333 --> 00:26:06,433
+What is the greatest possible sacrifice?
+
+238
+00:26:07,800 --> 00:26:09,266
+For the greatest possible good?
+
+239
+00:26:11,166 --> 00:26:14,666
+And the answers become increasingly deeper and profound.
+
+240
+00:26:16,633 --> 00:26:21,100
+The god of Western tradition, like so many gods, requires sacrifice.
+
+241
+00:26:23,066 --> 00:26:24,500
+We have already examined why.
+
+242
+00:26:25,333 --> 00:26:27,766
+But sometimes, he goes even further.
+
+243
+00:26:29,033 --> 00:26:34,500
+He demands not only sacrifice, but the sacrifice of precisely what is loved best.
+
+244
+00:26:36,466 --> 00:26:42,333
+This is most starkly portrayed and most confusingly evident in the story of Abraham and Isaac.
+
+245
+00:26:43,800 --> 00:26:47,133
+Abraham, beloved of God, long wanted a son.
+
+246
+00:26:48,433 --> 00:26:57,300
+And God promised him exactly that after many delays and under the apparently impossible conditions of old age and a long, barren wife.
+
+247
+00:26:59,266 --> 00:27:04,866
+But not so long afterward, when the miraculously born Isaac is still a child, God turns around
+
+248
+00:27:05,233 --> 00:27:13,033
+and in unreasonable and apparently barbaric fashion demands that his faithful servant offer his son as a sacrifice.
+
+249
+00:27:14,500 --> 00:27:16,033
+The story ends happily.
+
+250
+00:27:16,066 --> 00:27:22,666
+God sends an angel to stay Abraham's obedient hand and accepts a ram in Isaac's stead.
+
+251
+00:27:24,633 --> 00:27:28,200
+That's a good thing, but it doesn't really address the issue at hand.
+
+252
+00:27:29,566 --> 00:27:32,333
+Why is God's going further necessary?
+
+253
+00:27:33,666 --> 00:27:38,233
+Why does he, why does life, impose such demands?
+
+254
+00:27:41,533 --> 00:27:47,633
+We'll start our analysis with a truism, stark, self-evident, and understated.
+
+255
+00:27:49,933 --> 00:27:52,300
+Sometimes, things do not go well.
+
+256
+00:27:53,633 --> 00:27:56,666
+That seems to have much to do with the terrible nature of the world,
+
+257
+00:27:57,066 --> 00:28:00,533
+with its plagues and famines and tyrannies and betrayals.
+
+258
+00:28:02,133 --> 00:28:02,633
+But here's the rub.
+
+259
+00:28:03,500 --> 00:28:07,233
+Sometimes, when things are not going well, it's not the world that's the cause.
+
+260
+00:28:08,400 --> 00:28:15,033
+The cause is, instead, that which is currently most valued subjectively and personally.
+
+261
+00:28:16,700 --> 00:28:16,933
+Why?
+
+262
+00:28:18,700 --> 00:28:25,566
+Because the world is revealed to an indeterminate degree through the template of your values.
+
+263
+00:28:27,300 --> 00:28:33,966
+Thus, if the world you are seeing is not the world you want, it's time to examine your values.
+
+264
+00:28:34,933 --> 00:28:37,933
+It's time to rid yourself of your current presuppositions.
+
+265
+00:28:39,633 --> 00:28:41,333
+It's time to let go.
+
+266
+00:28:42,600 --> 00:28:50,500
+It might even be time to sacrifice what you love best, so that you can become who you might become, instead of staying who you are.
+
+267
+00:28:52,900 --> 00:28:59,166
+There's an old and possibly apocryphal story about how to catch a monkey that illustrates this set of ideas very well.
+
+268
+00:29:00,666 --> 00:29:09,100
+First, you must find a large, narrow-necked jar, just barely wide enough in diameter at the top for a monkey to put its hand inside.
+
+269
+00:29:11,633 --> 00:29:16,300
+Then you must fill the jar partway with rocks, so it is too heavy for a monkey to carry.
+
+270
+00:29:17,333 --> 00:29:23,500
+Then you must scatter some treats attractive to monkeys near the jar to attract one and put some more inside the jar.
+
+271
+00:29:25,166 --> 00:29:30,633
+A monkey will come along reach into the narrow opening and grab while the grabbing is good
+
+272
+00:29:31,966 --> 00:29:36,200
+But now he won't be able to extract his fist now full of treats from the jar
+
+273
+00:29:37,566 --> 00:29:39,200
+Not without unclenching his hand
+
+274
+00:29:40,300 --> 00:29:42,933
+not without relinquishing what he already has
+
+275
+00:29:44,733 --> 00:29:46,000
+And that's just what he won't do
+
+276
+00:29:47,133 --> 00:29:50,500
+The monkey catcher can then walk over to the jar and pick up the monkey
+
+277
+00:29:51,966 --> 00:29:55,533
+The animal will not sacrifice the part to preserve the whole
+
+278
+00:29:58,466 --> 00:30:07,600
+Something valuable given up ensures future prosperity something valuable sacrificed pleases the Lord
+
+279
+00:30:09,666 --> 00:30:24,433
+What is most valuable and best sacrificed or what is at least emblematic of that a choice cut of meat, the best animal in a flock, a most valued possession.
+
+280
+00:30:24,433 --> 00:30:27,133
+What's above even that?
+
+281
+00:30:27,166 --> 00:30:30,633
+Something intensely personal and painful to give up.
+
+282
+00:30:30,633 --> 00:30:37,033
+That's symbolized perhaps in God's insistence on circumcision as part of Abraham's
+
+283
+00:30:37,300 --> 00:30:43,066
+sacrificial routine where the part is offered symbolically to redeem the whole.
+
+284
+00:30:45,300 --> 00:30:46,800
+What's beyond that?
+
+285
+00:30:46,833 --> 00:30:52,566
+What pertains more closely to the whole person rather than to the part?
+
+286
+00:30:52,600 --> 00:30:59,233
+What constitutes the ultimate sacrifice for the gain of the ultimate prize?
+
+287
+00:30:59,233 --> 00:31:02,966
+It's a close race between child and self.
+
+288
+00:31:02,966 --> 00:31:12,200
+The sacrifice of the mother offering her child to the world is exemplified profoundly by Michelangelo's great sculpture, the Paeda.
+
+289
+00:31:12,200 --> 00:31:20,100
+Michelangelo crafted Mary cradling the nearly naked body of her adult son, crucified and ruined.
+
+290
+00:31:20,133 --> 00:31:21,066
+It's her fault.
+
+291
+00:31:21,066 --> 00:31:26,000
+It was through her that he entered the world and its great drama of being.
+
+292
+00:31:26,000 --> 00:31:32,800
+Is it right to bring a baby into this terrible world?
+
+293
+00:31:32,800 --> 00:31:35,066
+Every woman asks herself that question
+
+294
+00:31:36,166 --> 00:31:38,433
+Some say no and they have the reasons
+
+295
+00:31:39,233 --> 00:31:40,766
+Mary answers. Yes
+
+296
+00:31:41,400 --> 00:31:48,033
+Voluntarily knowing full well what's to come as do all mothers if they allow themselves to see
+
+297
+00:31:49,066 --> 00:31:53,133
+It's an act of supreme courage when it's undertaken voluntarily
+
+298
+00:31:55,233 --> 00:32:11,233
+In turn Mary's son Christ offers himself to God and the world to betrayal torture, and death, to the very point of despair on the cross where he cries out those terrible words from Matthew 27-46
+
+299
+00:32:13,033 --> 00:32:17,900
+My God, my God, why hast thou forsaken me?
+
+300
+00:32:20,066 --> 00:32:25,233
+That is the archetypal story of the man who gives his all for the sake of the better
+
+301
+00:32:26,133 --> 00:32:28,766
+Who offers up his life for the advancement of being?
+
+302
+00:32:28,933 --> 00:32:37,033
+who allows God's will to become manifest fully within the confines of a single, mortal life.
+
+303
+00:32:38,900 --> 00:32:41,366
+That is the model for the honorable man.
+
+304
+00:32:42,966 --> 00:32:51,600
+In Christ's case, however, as he sacrifices himself, God, his Father, is simultaneously sacrificing his Son.
+
+305
+00:32:53,300 --> 00:32:59,666
+It is for this reason that the Christian sacrificial drama of sun and self is archetypal.
+
+306
+00:33:00,933 --> 00:33:06,766
+It's a story at the limit where nothing more extreme, nothing greater, can be imagined.
+
+307
+00:33:08,066 --> 00:33:14,500
+That's the very definition of archetypal, and that's the core of what constitutes religious.
+
+308
+00:33:16,400 --> 00:33:18,533
+Pain and suffering define the world.
+
+309
+00:33:19,766 --> 00:33:21,333
+Of that, there can be no doubt.
+
+310
+00:33:23,366 --> 00:33:28,633
+can hold pain and suffering in abeyance to a greater or lesser degree.
+
+311
+00:33:28,666 --> 00:33:33,633
+And greater sacrifices can do that more effectively than lesser.
+
+312
+00:33:33,666 --> 00:33:36,433
+Of that, there can be no doubt.
+
+313
+00:33:36,433 --> 00:33:40,266
+Everyone holds this knowledge in their souls.
+
+314
+00:33:40,266 --> 00:33:50,233
+Thus, the person who wishes to alleviate suffering, who wishes to rectify the flaws in being, who wants to bring about the best of all possible futures,
+
+315
+00:33:50,933 --> 00:34:01,866
+Who wants to create heaven on earth will make the greatest of sacrifices of self and of child, of everything that is loved, to live a life aimed at the good.
+
+316
+00:34:02,933 --> 00:34:15,000
+He will forego expediency, he will pursue the path of ultimate meaning, and he will, in that manner, bring salvation to the ever-desperate world.
+
+317
+00:34:16,833 --> 00:34:29,233
+Part 4, from my blog, On the Ark of the Covenant, the Cathedral, and the Cross, Easter Message 1 Abridged, from Wikipedia.
+
+318
+00:34:31,233 --> 00:34:38,600
+The Ark of the Covenant was a lidded, gold-leafed wooden chest containing the two stone tablets of the Ten Commandments.
+
+319
+00:34:39,900 --> 00:34:46,700
+According to various texts within the Hebrew Bible, it also contained Aaron's rod and a pot of manna.
+
+320
+00:34:48,300 --> 00:34:53,533
+God was said to have spoken with Moses from between the two cherubim on the ark's cover.
+
+321
+00:34:55,600 --> 00:35:06,566
+The biblical account states that the ark was created a year after the Israelite exodus from Egypt, according to a pattern given to Moses by God at the foot of Mount Sinai.
+
+322
+00:35:08,300 --> 00:35:14,633
+Thereafter, the gold-plated acacia chest was carried by its staves while en route by the
+
+323
+00:35:14,800 --> 00:35:21,900
+Levites in advance of the people when on the march towards the Promised Land or at the head of the Israelite army
+
+324
+00:35:23,533 --> 00:35:28,800
+In transport the ark was concealed under a large veil made of skins and blue cloth
+
+325
+00:35:29,900 --> 00:35:33,866
+Carefully hidden even from the eyes of the priests and the Levites who carried it
+
+326
+00:35:34,900 --> 00:35:42,600
+When at rest a portable building the tabernacle meaning residence or dwelling place was set up to house the ark
+
+327
+00:35:43,833 --> 00:35:52,166
+It was built of woven layers of curtains along with 48 boards clad with polished gold standing like vertical blinds.
+
+328
+00:35:53,000 --> 00:36:00,066
+Solomon's temple in Jerusalem superseded it as the dwelling place of God some 300 years later.
+
+329
+00:36:01,700 --> 00:36:02,266
+Commentary
+
+330
+00:36:04,166 --> 00:36:06,800
+There has to be a bridge between the finite and the infinite.
+
+331
+00:36:08,800 --> 00:36:12,066
+There has to be a place where the ephemeral meets the eternal.
+
+332
+00:36:13,733 --> 00:36:17,866
+There has to be a bridge between the knowable and the unknowable.
+
+333
+00:36:19,700 --> 00:36:21,833
+And there has to be bedrock at the foundation.
+
+334
+00:36:24,233 --> 00:36:30,066
+The ark, which is the portal to God, is to be carried on the shoulders of those who are holy.
+
+335
+00:36:31,266 --> 00:36:33,433
+It is not to be touched.
+
+336
+00:36:33,466 --> 00:36:35,233
+To touch the ark is to risk death.
+
+337
+00:36:36,700 --> 00:36:40,666
+There are holy things that cannot be touched except at mortal risk.
+
+338
+00:36:42,066 --> 00:36:46,433
+Those things that cannot be touched are at the very foundation of the community
+
+339
+00:36:48,566 --> 00:36:51,166
+The ark must be placed at the center of the temple
+
+340
+00:36:52,600 --> 00:36:55,933
+The temple must be placed at the center of the community
+
+341
+00:36:57,633 --> 00:37:01,766
+The community must be arranged around what is untouchable and unshakable
+
+342
+00:37:03,500 --> 00:37:06,766
+The untouchable and unshakable is what is axiomatic
+
+343
+00:37:08,633 --> 00:37:14,766
+The people following the Ark have determined to journey together toward the eternal Promised Land.
+
+344
+00:37:16,766 --> 00:37:21,800
+The city arranged properly around the Ark of the Covenant is eternal Jerusalem.
+
+345
+00:37:23,933 --> 00:37:27,633
+Something must be axiomatic, or everything shakes and falls.
+
+346
+00:37:29,066 --> 00:37:32,100
+The axiomatic cannot be expressed fully in words.
+
+347
+00:37:33,133 --> 00:37:40,366
+Instead, the axiomatic, untouchable and unshakable, is what makes communication in words possible.
+
+348
+00:37:42,333 --> 00:37:46,333
+The axiomatic is a spirit, a process, a living force.
+
+349
+00:37:47,500 --> 00:37:50,966
+Its manifestations, however, are concrete.
+
+350
+00:37:51,000 --> 00:37:53,900
+That is the transformation of the spirit into matter.
+
+351
+00:37:55,200 --> 00:37:58,100
+That is the generation of the tablets of stone.
+
+352
+00:38:00,600 --> 00:38:06,633
+The Ark of the Covenant contains the rules that are derived in the first order from the axiomatic principle
+
+353
+00:38:08,266 --> 00:38:12,000
+That principle is the spirit that made the rules manifest
+
+354
+00:38:12,433 --> 00:38:18,000
+That spirit is the ultimate inhabitant of the ark and the rules the result of its action
+
+355
+00:38:19,333 --> 00:38:21,200
+That spirit is the creative logos
+
+356
+00:38:22,466 --> 00:38:28,266
+The Ark of the Covenant and the temple are replaced by the Cathedral at the center of the community
+
+357
+00:38:29,666 --> 00:38:32,233
+The cathedral is the cross in architectural form.
+
+358
+00:38:33,500 --> 00:38:35,900
+The cross is where the transformation takes place.
+
+359
+00:38:37,100 --> 00:38:40,166
+The transformation is the incorporation of the body of Christ.
+
+360
+00:38:41,733 --> 00:38:44,100
+That incorporation is a dramatic ritual,
+
+361
+00:38:44,966 --> 00:38:48,233
+is the embodiment of the decision not to believe in Christ
+
+362
+00:38:49,433 --> 00:38:55,633
+but to act him out, which is to believe in a much deeper manner than to merely believe.
+
+363
+00:38:57,500 --> 00:39:02,200
+Christ is he who transcends death by voluntarily accepting death.
+
+364
+00:39:03,333 --> 00:39:08,066
+Christ is he who rejects the kingdoms of this world for the kingdom of God.
+
+365
+00:39:08,866 --> 00:39:20,100
+Christ is he who speaks the truth that creates the habitable order that is good from the chaos of potential that exists prior to the materialization of reality.
+
+366
+00:39:21,700 --> 00:39:26,266
+Christ is he who wields potential as the sword that cleaves death.
+
+367
+00:39:27,866 --> 00:39:40,166
+Christ is he whose radical acceptance of the conditions of life defeats the hatred, bitterness and vengefulness that the tragedy and malevolence that taints being otherwise produces.
+
+368
+00:39:42,133 --> 00:39:47,033
+Without the acceptance of death, bitterness rules and hell triumphs.
+
+369
+00:39:49,533 --> 00:40:02,566
+It is said that man and woman alike are made in the image of God, and that God is he who uses the eternal logos to generate habitable order from the chaos of potential.
+
+370
+00:40:03,533 --> 00:40:04,533
+This is the axiom.
+
+371
+00:40:05,366 --> 00:40:07,533
+This is the diamond at the center of the world.
+
+372
+00:40:08,366 --> 00:40:11,166
+This is the spirit in the ark that is untouchable.
+
+373
+00:40:12,466 --> 00:40:20,100
+This is the bedrock of the culture that brings peace and prosperity and that respects the dignity of man, this is the great truth.
+
+374
+00:40:21,266 --> 00:40:28,733
+This is the responsibility whose acceptance allows each of us to live despite the catastrophic fragility of our limited being.
+
+375
+00:40:30,066 --> 00:40:34,700
+Our likeness to God gives each of us a value that transcends the finite.
+
+376
+00:40:36,366 --> 00:40:40,700
+Individual and society alike are charged with the ethical demand to respect that value.
+
+377
+00:40:41,933 --> 00:40:45,600
+This is not only the presumption that grounds the idea of the rights of man.
+
+378
+00:40:46,700 --> 00:40:54,533
+It is the presumption that lays upon each of us the ultimate responsibility that is the inevitable corollary of those rights.
+
+379
+00:40:56,100 --> 00:40:57,866
+Face the chaos of the future.
+
+380
+00:40:59,233 --> 00:41:06,200
+Employ the logos of which you are a part to transform that chaos into the habitable order that is good.
+
+381
+00:41:07,466 --> 00:41:08,100
+Speak the truth.
+
+382
+00:41:09,166 --> 00:41:09,766
+Embody the truth.
+
+383
+00:41:11,400 --> 00:41:16,033
+Accept impossibly the limitations that make being possible.
+
+384
+00:41:16,966 --> 00:41:26,100
+Dispense in that manner with resentment, hatred, and the desire for infinite and unbounded vengeance and all the cruelty and evil that accompanies it.
+
+385
+00:41:27,433 --> 00:41:30,366
+Pick up the cross of your tragedy and betrayal.
+
+386
+00:41:30,966 --> 00:41:40,533
+Accept its terrible weight, hoist it onto your shoulders, and struggle impossibly upward toward the kingdom of God on the hill.
+
+387
+00:41:42,100 --> 00:41:44,866
+The alternative is death and hell.
+
+388
+00:41:46,166 --> 00:41:53,733
+Part Five The Psychological Meaning of the Death and Resurrection of Christ Easter Message Two
+
+389
+00:41:55,700 --> 00:42:02,133
+This is a somewhat extended and altered version of a commentary that I wrote for the London Sunday Times magazine.
+
+390
+00:42:06,200 --> 00:42:08,800
+In the beginning, only the king was sovereign.
+
+391
+00:42:10,400 --> 00:42:12,033
+Then the nobles became sovereign.
+
+392
+00:42:13,566 --> 00:42:16,466
+Then with the Greeks, all men became sovereign.
+
+393
+00:42:18,300 --> 00:42:31,200
+Then came the Christian Revolution, and every individual – male, female, beggarman, tax collector, prostitute and thief – became so impossibly equally sovereign.
+
+394
+00:42:32,566 --> 00:42:42,900
+Then our cultural and legal systems wrapped themselves tightly around that ultimately unlikely narrative of individual sovereignty and made it their central, unshakable pillar.
+
+395
+00:42:44,533 --> 00:42:48,133
+Now we all give each other the respect of individual citizens
+
+396
+00:42:48,200 --> 00:42:54,700
+who are sovereign without remembering or noticing that we are simultaneously accepting the proposition that
+
+397
+00:42:54,733 --> 00:43:04,166
+every singular one of us is a divine centre of logos, a divine centre of the eternal word that brings habitable order into being
+
+398
+00:43:04,166 --> 00:43:09,700
+through the voluntary, truthful confrontation with chaos and the unknown.
+
+399
+00:43:10,500 --> 00:43:17,100
+And if any one of us is not treated in this manner, if anyone, no matter how powerful reacts to any of us,
+
+400
+00:43:17,200 --> 00:43:30,366
+no matter how downtrodden, as if our free will is illusory or our role in choosing the outcomes of our lives non-existent, then we get offended and angry and agitated and insulted, and rightly so.
+
+401
+00:43:31,466 --> 00:43:40,000
+Our spectacularly and miraculously functional Western legal systems are predicated on the acceptance of the intrinsic value of the individual,
+
+402
+00:43:40,066 --> 00:43:49,433
+predicated on the idea that each person can step forward, voluntarily accept the burden of being, transform positively in consequence,
+
+403
+00:43:49,500 --> 00:43:52,600
+and share the results of that transformation with everyone else.
+
+404
+00:43:53,800 --> 00:43:59,500
+It is in that manner that each of us pushes everything away from the abyss and a bit more heavenward.
+
+405
+00:44:01,066 --> 00:44:05,233
+Is the apparent necessity for such insanely high regard an illusion?
+
+406
+00:44:07,333 --> 00:44:12,666
+It is certain that it is at least functional and therefore not so obviously illusory.
+
+407
+00:44:13,400 --> 00:44:19,333
+It is also equally certain that we have not outlined any more viable materialistic alternative.
+
+408
+00:44:21,066 --> 00:44:26,066
+You might well ask, is the hypothesis of intrinsic human value justified?
+
+409
+00:44:27,200 --> 00:44:36,066
+Is our apparent ability to face the as-of-yet unmanifest future and decide on the nature of its realization in the present genuine and real?
+
+410
+00:44:37,100 --> 00:44:46,366
+Is it true, despite its incomprehensibility, that we are free, conscious beings, and that our conscious freedom plays a role in constructing the cosmos?
+
+411
+00:44:47,866 --> 00:44:57,600
+It could merely be, as the cynics and reductionists hold, that consciousness is an epiphenomenon of materialistic processes, that there is no free will,
+
+412
+00:44:57,666 --> 00:45:06,366
+or at least none of any genuine import, that there is no accompanying moral responsibility or freely chosen destiny.
+
+413
+00:45:06,466 --> 00:45:15,400
+There are, however, valid and not-so-simply dispensed with reasons to avoid too premature and casual acceptance of such conclusions.
+
+414
+00:45:16,666 --> 00:45:23,800
+Even the greatest of us do not understand consciousness, not a bit, much less comprehend the role it plays in being.
+
+415
+00:45:24,766 --> 00:45:28,500
+We have no idea currently, seriously no idea,
+
+416
+00:45:29,100 --> 00:45:34,733
+how the material substrate of the brain produces the awareness and more the self-awareness
+
+417
+00:45:35,266 --> 00:45:37,900
+that seems so vital to the existence of the cosmos.
+
+418
+00:45:39,200 --> 00:45:43,466
+If there is no center of experience to experience something, anything,
+
+419
+00:45:44,166 --> 00:45:49,100
+then it is very difficult to say in what manner that something or anything exists.
+
+420
+00:45:50,366 --> 00:46:01,900
+Reality requires an observer and as far as we can tell that observer is consciousness even more so self-consciousness our awareness
+
+421
+00:46:02,600 --> 00:46:09,866
+Our self-awareness appears to confront the unformed potential of the future and to cast it into the concrete reality of the present
+
+422
+00:46:10,866 --> 00:46:18,500
+Our consciousness acts on possibility like the logos of the father acted on the pre-cosmogonic Chaos at the beginning of time
+
+423
+00:46:19,733 --> 00:46:26,633
+it is in that manner that we are made in the image of God and we all demand to be treated as if that were true and
+
+424
+00:46:27,966 --> 00:46:33,700
+Who would dare to deny that such a demand is made for valid and perhaps even ultimately valid reasons?
+
+425
+00:46:35,500 --> 00:46:37,333
+Consider the evidence from our actions
+
+426
+00:46:38,600 --> 00:46:41,766
+When you treat yourself as if you matter then you thrive
+
+427
+00:46:42,733 --> 00:46:51,266
+When you treat those around you as if they are inhabited by a spark of divinity, then your relationships stabilize and grow simultaneously.
+
+428
+00:46:52,700 --> 00:46:58,766
+When we produce societies predicated on the great idea of the inherent value of each individual,
+
+429
+00:46:59,266 --> 00:47:10,433
+from saint to criminal, then men become free and productive and capable of living the meaningful lives that lend dignity to the tragedy of their limited existences.
+
+430
+00:47:11,666 --> 00:47:22,800
+And when we fail to do so, then our societies degenerate into the tyrannical and murderous tribal structures that seem to exist as the only certainly manifest alternative.
+
+431
+00:47:23,933 --> 00:47:27,700
+Is this not all indicative of the existence of some profound truth?
+
+432
+00:47:29,133 --> 00:47:35,133
+Obviously, we are constrained, and severely so, by the manner of our corporeal being.
+
+433
+00:47:37,033 --> 00:47:40,800
+We are subject to deterministic rules in a seriously profound manner.
+
+434
+00:47:42,200 --> 00:47:47,933
+We do not have the power to shape things in any old way whatsoever at any time or place,
+
+435
+00:47:48,600 --> 00:47:57,766
+but we can certainly and demonstrably and apparently willfully advance in the direction of our imagination and in quite a staggering and compelling manner.
+
+436
+00:47:59,000 --> 00:48:01,833
+Is this not indicative of who we genuinely are?
+
+437
+00:48:03,166 --> 00:48:07,866
+Is this not perhaps the primal existential truth?
+
+438
+00:48:09,966 --> 00:48:14,666
+We are in danger in the West of abandoning our culture, of leaving our great foundational
+
+439
+00:48:14,866 --> 00:48:21,633
+stories to die on the altar of our inquisitiveness, cynicism and carelessness, of degenerating
+
+440
+00:48:21,766 --> 00:48:29,500
+into nihilism or returning in a reactionary manner to an archaic and destructive tribalism of the right or the left.
+
+441
+00:48:29,866 --> 00:48:30,766
+It matters not.
+
+442
+00:48:31,866 --> 00:48:38,366
+These twin dread paths will not lead us to where we would want to be if we decided to be conscious and careful.
+
+443
+00:48:40,366 --> 00:48:43,600
+Such abandonment will weaken us fatally as individuals.
+
+444
+00:48:44,266 --> 00:48:48,900
+It will lay us open to possession by all manner of demonic conceptual alternatives.
+
+445
+00:48:49,900 --> 00:48:53,100
+It will make us vulnerable to our enemies within and without.
+
+446
+00:48:54,366 --> 00:48:59,133
+It is psychologically true that each of us should open ourselves up to the tragedy of being.
+
+447
+00:49:00,300 --> 00:49:09,033
+It is psychologically true that we should pick up our tragic burdens and crosses, die continually, and renew our souls continually.
+
+448
+00:49:10,233 --> 00:49:12,766
+It may be more than psychologically true as well.
+
+449
+00:49:13,466 --> 00:49:15,733
+It may be a truth of cosmic significance.
+
+450
+00:49:17,466 --> 00:49:20,233
+That is the death and resurrection celebrated by Easter.
+
+451
+00:49:21,200 --> 00:49:25,366
+And it is time for us to wake up, become conscious, and recognize it as such.
+
+452
+00:49:26,500 --> 00:49:34,366
+It is not possible to encapsulate within any finite written account the total import of the idea of Christ's death and rebirth.
+
+453
+00:49:35,366 --> 00:49:40,233
+The impossible claim of the bodily resurrection of one man, conjoined with the notion that
+
+454
+00:49:40,266 --> 00:49:49,500
+this event was both of world-redeeming and cosmic significance, simply cannot be understood once and for all within any singular frame of interpretation.
+
+455
+00:49:51,200 --> 00:49:58,633
+Even for die-hard atheists of the scientific type – think Richard Dawkins and Sam Harris – a great mystery remains.
+
+456
+00:49:59,633 --> 00:50:05,133
+Why has this strange and thoroughly implausible story exercised such immense impact?
+
+457
+00:50:06,066 --> 00:50:09,600
+It is because each life is a tragedy, tainted by malevolence.
+
+458
+00:50:09,900 --> 00:50:15,533
+It is because life is suffering, as we all are, each of us vulnerable and ignorant, made
+
+459
+00:50:15,800 --> 00:50:23,633
+All too frequently bitter resentful and angry because of just that and more than willing to make things worse in that anger
+
+460
+00:50:24,966 --> 00:50:32,266
+But we all admire courage and the accompanying willingness to abide by the truth no matter how terrible in the face of that suffering
+
+461
+00:50:33,100 --> 00:50:39,600
+We all recognize in such courage and truth at least by our admiration of it an antidote to the catastrophe of life
+
+462
+00:50:40,900 --> 00:50:48,433
+We all know that in the absence of such courage and truth mere catastrophe degenerates all too frequently into hell.
+
+463
+00:50:49,566 --> 00:50:53,900
+Imagine that acceptance of vulnerability and ignorance is the precondition for growth.
+
+464
+00:50:55,166 --> 00:51:05,533
+Imagine that confrontation with the terrible unknown, with its paralyzing manifestations of tragedy and malevolence, is necessary to catalyze both wisdom and maturity.
+
+465
+00:51:07,266 --> 00:51:18,433
+Imagine, finally, that human consciousness plays some central and as of yet poorly understood role in the reality of the cosmos as least as necessary observer.
+
+466
+00:51:18,433 --> 00:51:20,900
+Imagine all of that.
+
+467
+00:51:20,933 --> 00:51:28,166
+Then ask yourself, what is the absolute hypothetical limit of human attainment when vulnerability and
+
+468
+00:51:28,300 --> 00:51:38,366
+ignorance are fully and completely accepted, when the unknown is squarely confronted, and when consciousness is given its due as the very center of the world?
+
+469
+00:51:38,366 --> 00:51:41,933
+That's Christ's acceptance of the crucifix.
+
+470
+00:51:41,966 --> 00:51:50,266
+That's his willingness to be betrayed, subject to the evil of his closest companions and the state, and his embrace of brokenness and death.
+
+471
+00:51:51,700 --> 00:51:58,633
+It is pure truth that even a small leaven of humility and courage engenders resilience, progress, and growth.
+
+472
+00:51:59,900 --> 00:52:08,066
+It is pure truth that resentful rejection of the price of finite being multiplies suffering endlessly and unnecessarily.
+
+473
+00:52:09,966 --> 00:52:13,900
+What is the ultimate expression of those truths taken to their final conclusion?
+
+474
+00:52:14,800 --> 00:52:24,600
+Who is to say who we are and what we might be capable of achieving if we develop the courage to accept our terrible fates live in truth and stumble uphill
+
+475
+00:52:25,833 --> 00:52:29,566
+This is the question posed by Christianity in its very essence
+
+476
+00:52:30,800 --> 00:52:37,733
+Would you put everything you have and everything you are on the line so that you could learn to conduct yourself in the best possible manner?
+
+477
+00:52:38,766 --> 00:52:46,100
+Would you be willing to allow who you might be to continually and painfully triumph over who you currently are?
+
+478
+00:52:46,266 --> 00:52:49,100
+In the most ancient religious language
+
+479
+00:52:50,300 --> 00:52:56,066
+Would you sacrifice what you love most to God to find out who and what you are?
+
+480
+00:52:58,466 --> 00:53:01,566
+We are, in the final analysis, neither structure nor chaos
+
+481
+00:53:02,933 --> 00:53:08,400
+Each of us is instead best understood as a process, as a living dynamic process
+
+482
+00:53:09,000 --> 00:53:16,233
+As the very process by which what we know, what we know so insufficiently, is transformed into what could yet be.
+
+483
+00:53:18,100 --> 00:53:24,866
+That is the process by which our continued forward movement through life is constantly and inevitably dependent.
+
+484
+00:53:26,166 --> 00:53:33,533
+To understand that, and to welcome it, that is voluntary acceptance of the necessity of eternal transformation
+
+485
+00:53:34,033 --> 00:53:40,300
+as an alternative to nihilistic despair or desperate and fatal identification with the state.
+
+486
+00:53:41,933 --> 00:53:45,633
+This is the idea enacted during the ceremony of the Christian Eucharist.
+
+487
+00:53:46,866 --> 00:53:57,033
+Incorporation of the body of Christ is the symbolic transformation of the participant, not into a believer of a set of facts, religious though those facts may appear,
+
+488
+00:53:57,066 --> 00:53:59,966
+but into the active imitator of Christ,
+
+489
+00:54:00,000 --> 00:54:05,933
+into the person willing to undergo whatever death is necessary to bring about the next and better state of being
+
+490
+00:54:06,866 --> 00:54:11,933
+into the person willing to embrace his or her confrontation with the tragedy and malevolence of life
+
+491
+00:54:12,700 --> 00:54:21,266
+to learn from that process of embrace and to move one step closer in consequence to the eternally receding city of God
+
+492
+00:54:22,233 --> 00:54:26,100
+The idea of the dying and resurrecting God is one of the oldest ideas of mankind
+
+493
+00:54:26,166 --> 00:54:29,800
+mankind, widespread and exceptionally variant in its forms.
+
+494
+00:54:30,833 --> 00:54:39,066
+It forms part of the set of presuppositions that underlie the most ancient shamanic rituals carried over, perhaps, from the Stone Age itself.
+
+495
+00:54:40,233 --> 00:54:45,066
+It is echoed in the foundational stories of ancient Mesopotamia, Egypt, and Greece.
+
+496
+00:54:45,800 --> 00:54:57,100
+It manifests itself in allegorical forms – in the figure of the phoenix, for example, which immolates itself, regains its youthful form, and rises in triumph from the ashes.
+
+497
+00:54:58,433 --> 00:55:06,700
+It recurs repeatedly in the tropes of popular culture as well, bringing even those entirely devoid of religious education under the spell.
+
+498
+00:55:07,800 --> 00:55:18,833
+Marvel's iconic Iron Man plummets like Icarus from sky to ground after saving the world from demonic, serpentine, other-world forces, and then arises from his death.
+
+499
+00:55:19,700 --> 00:55:27,500
+The child wizard Harry Potter must ultimately die and be reborn to defeat Voldemort, a very thinly disguised Satan.
+
+500
+00:55:28,800 --> 00:55:37,766
+All of that creative variation on a theme speaks of a deep, ineradicable, and eternally re-emergent psychological reality.
+
+501
+00:55:39,566 --> 00:55:43,900
+We all see this in our day-to-day lives, and we all know it because we see it.
+
+502
+00:55:44,933 --> 00:55:51,400
+A small failure, a small disappointment, frustration or disenchantment engenders within us a small death,
+
+503
+00:55:51,900 --> 00:55:56,300
+a small descent into the underworld, a small requirement for rebirth.
+
+504
+00:55:57,400 --> 00:56:02,433
+A large failure produces a proportionately large catastrophe and transformation.
+
+505
+00:56:04,100 --> 00:56:07,366
+When you are compelled to talk to someone because you face divorce,
+
+506
+00:56:07,800 --> 00:56:12,166
+or the failure of a treasured ambition, or the illness or death of someone close,
+
+507
+00:56:12,666 --> 00:56:21,666
+You are walking yourself through the eternal narrative stability crisis death transformation rebirth
+
+508
+00:56:22,733 --> 00:56:24,133
+That's the story of our lives
+
+509
+00:56:25,233 --> 00:56:27,566
+That's the fall and the re-establishment of paradise
+
+510
+00:56:29,200 --> 00:56:37,800
+the idea that the Savior is the figure who dies and resurrects is a representation in dramatic or narrative form of the brute fact that
+
+511
+00:56:38,466 --> 00:56:46,300
+psychological progress indeed learning itself requires continual death and rebirth of lesser and greater magnitude.
+
+512
+00:56:47,566 --> 00:56:53,400
+If you are engaged in a serious interpersonal conflict or argument or facing a true crisis in your life,
+
+513
+00:56:53,900 --> 00:57:01,400
+the new information confronting you cannot be incorporated without the oh-so-painful demise of your previous conceptions,
+
+514
+00:57:02,000 --> 00:57:07,033
+and all of the resistance comprehension of that pain necessarily entails.
+
+515
+00:57:08,500 --> 00:57:17,100
+That's part and parcel of the process so famously described as assimilation and accommodation by the great developmental psychologist Jean Piaget.
+
+516
+00:57:18,166 --> 00:57:30,033
+We each confront the world with a set of preconceptualizations whose function is simultaneously to delimit and render pragmatic our very perceptions, thoughts, and actions.
+
+517
+00:57:31,266 --> 00:57:35,000
+In the absence of this a priori, we simply cannot function.
+
+518
+00:57:36,300 --> 00:57:39,200
+Nonetheless, it is still insufficient.
+
+519
+00:57:39,200 --> 00:57:46,366
+No one ever knows enough, and what we each do not yet know will at some moment of crisis become of vital importance.
+
+520
+00:57:47,333 --> 00:57:56,000
+When something new and hydra-like confronts us and shakes us to our core, what is old and anachronistic within must therefore immolate itself and die.
+
+521
+00:57:57,133 --> 00:58:06,966
+It is very rare indeed to learn something profound without suffering the terrible pain of dashed dreams and the soul-shaking terror of uncertainty and doubt.
+
+522
+00:58:09,233 --> 00:58:15,100
+This means that none of us should identify in the most fundamental sense with what we currently know and presume.
+
+523
+00:58:16,133 --> 00:58:22,000
+It means as well that we should all come to understand that so that we do not remain confused about who we are.
+
+524
+00:58:23,333 --> 00:58:34,766
+This means that it is never sufficient to be conservative, or to identify with the past, or to become ideologically or dogmatically committed, or to remain stubbornly anachronistic and unchanged
+
+525
+00:58:35,900 --> 00:58:45,433
+The environment transforms headlong around us, and we all must run as fast as we can, as Ellis's Red Queen well knew, just to stay in the same place
+
+526
+00:58:46,866 --> 00:58:56,066
+It is not sufficient either to abandon tradition and structure entirely in a headlong and irresponsible rush towards the anomalous and revolutionary.
+
+527
+00:58:57,466 --> 00:59:05,300
+Structure is insufficient, but it is still necessary, and the ethical requirement for respecting and maintaining it is still of paramount import.
+
+528
+00:59:06,500 --> 00:59:11,833
+We each must as well similarly avoid falling prey to the temptation of identifying with
+
+529
+00:59:11,966 --> 00:59:21,633
+a chaotic, depressing, anxiety-ridden and nihilism-inducing state of affairs engendered by the terrible confrontation with the genuinely unknown.
+
+530
+00:59:22,400 --> 00:59:27,233
+Even when thrust into the underworld by the dread events of our life, we must not characterize
+
+531
+00:59:27,433 --> 00:59:34,833
+ourselves as permanent inhabitants of that dark and dread place, lest we lose hope, despair, and seek revenge.
+
+532
+00:59:36,166 --> 00:59:44,300
+To progress psychologically, you must let go, sacrifice, time and again in the face of successive obstacles.
+
+533
+00:59:44,666 --> 00:59:53,900
+You must abandon those things that, and often those people who, are impeding your progress despite the fact that you may have held them very close to your heart.
+
+534
+00:59:55,200 --> 01:00:03,900
+When you're wrong, when you've missed the mark, when you've sinned because that is the meaning of sin, you must let the part of you that is wrong and aiming improperly die.
+
+535
+01:00:05,600 --> 01:00:09,933
+You must allow the new spirit manifesting itself within to spring to life
+
+536
+01:00:10,966 --> 01:00:19,300
+That new spirit that's the terrible information contained in whatever error you committed in living conjunction with the now
+
+537
+01:00:19,800 --> 01:00:23,766
+Transformed structures you originally employed to frame the situation
+
+538
+01:00:24,866 --> 01:00:26,000
+That new spirit
+
+539
+01:00:26,633 --> 01:00:35,966
+It's a manifestation as well and in other words of the potential within you that had not yet been called forth by the previous travails of your life.
+
+540
+01:00:38,300 --> 01:00:45,533
+Christ is symbolically the way and the truth of life and no one comes to the Father except through him.
+
+541
+01:00:46,733 --> 01:00:56,500
+Embracing the process of voluntary death and rebirth that is identical with psychological development means determining to move forward and upward despite the horrors of life.
+
+542
+01:00:58,000 --> 01:01:07,433
+It means as well, symbolically speaking, speaking, rejuvenating the dead father or rescuing him from stagnation and deterioration in the eternal underworld.
+
+543
+01:01:08,900 --> 01:01:16,666
+Forthright individual confrontation with the unknown renews the individual but also catalyzes cultural revitalization.
+
+544
+01:01:17,966 --> 01:01:23,500
+This is the essence of Christian ritual and belief articulated as a psychological principle.
+
+545
+01:01:24,533 --> 01:01:29,666
+We must identify with that part of ourselves that is always stretching beyond what we currently know and
+
+546
+01:01:30,000 --> 01:01:35,500
+and has the faith to let go of old certainties, so that new patterns of being can be brought into place.
+
+547
+01:01:38,033 --> 01:01:45,266
+It is through identification with the process symbolized by Easter that we are each redeemed and our culture revivified and salvaged.
+
+548
+01:01:46,000 --> 01:01:52,933
+We are all the slaves of Pharisees and lawyers, of those who place dogma above spirit at the cost of spirit.
+
+549
+01:01:53,433 --> 01:01:57,933
+We are all subject to betrayal by ourselves and by all those who surround us.
+
+550
+01:01:58,700 --> 01:02:02,166
+We are all facing extinction in the most torturous of manners
+
+551
+01:02:03,433 --> 01:02:09,366
+But there is a spirit within us with sufficient courage to confront the true horrors of existence forthrightly
+
+552
+01:02:10,233 --> 01:02:18,200
+To allow the transformation even death that such confrontation catalyzes to occur and to leap forward renewed
+
+553
+01:02:19,766 --> 01:02:23,733
+How is it that life might prevail in the face of death and hell?
+
+554
+01:02:25,366 --> 01:02:27,666
+with arms open embracing its fate
+
+555
+01:02:29,100 --> 01:02:31,566
+We are all fallen creatures and we all know it
+
+556
+01:02:32,300 --> 01:02:37,000
+We are all separated from what should be and thrown into the world of death and despair
+
+557
+01:02:38,133 --> 01:02:40,400
+We are all brutally crucified on the cross.
+
+558
+01:02:40,433 --> 01:02:42,133
+That is the reality of life itself
+
+559
+01:02:43,533 --> 01:02:50,866
+To rebel against that fate merely worsens it transforming what could be mere tragedy into something indistinguishable from hell
+
+560
+01:02:52,133 --> 01:03:01,866
+To argue bitterly and despair around the deathbed of a loved one, to take a single example, is to turn all the pain of death and loss into something far worse.
+
+561
+01:03:02,966 --> 01:03:05,300
+To accept instead?
+
+562
+01:03:05,300 --> 01:03:07,466
+Is that simultaneously to transcend?
+
+563
+01:03:08,533 --> 01:03:13,866
+It's certainly courage and truth and perhaps even love, and these three forces are something to behold.
+
+564
+01:03:15,400 --> 01:03:18,733
+Are they more powerful than despair and the desire for vengeance?
+
+565
+01:03:19,866 --> 01:03:23,200
+That is the Christian suggestion and the Christian command
+
+566
+01:03:24,433 --> 01:03:33,100
+To act out the proposition that courage and truth and love are more powerful than death and despair and to accept what? transpires as a consequence
+
+567
+01:03:34,233 --> 01:03:37,233
+That is Easter and the death and resurrection of Christ
+
+568
+01:03:38,866 --> 01:03:42,966
+We forget or remain blind to such things at our great peril
+
+569
+00:00:14,533 --> 00:00:18,833
+今天，我想向大家介绍一些我在复活节前思考和写作的内容。
+
+570
+00:00:19,766 --> 00:00:24,500
+我将分五个部分进行，希望能构成一个连贯的整体。
+
+571
+00:00:25,233 --> 00:00:28,266
+我要把这些都读出来，因为它很复杂。
+
+572
+00:00:28,833 --> 00:00:30,066
+第一部分。
+
+573
+00:00:30,066 --> 00:00:31,233
+经验的本质
+
+574
+00:00:32,533 --> 00:00:34,800
+看待世界有两种方式。
+
+575
+00:00:36,533 --> 00:00:40,566
+作为一个事物发生的场所，以及作为行为的剧场。
+
+576
+00:00:42,433 --> 00:00:51,266
+因为我们是生命体，必须在世界中实际行动，所以第二种看法必须优先。
+
+577
+00:00:52,700 --> 00:00:59,333
+这意味着，作为事物发生的场所的世界被嵌套在作为行为的剧场的世界里。
+
+578
+00:01:00,866 --> 00:01:04,300
+这意味着我们对世界作为客观事实的概念化
+
+579
+00:01:05,133 --> 00:01:10,500
+必须从属于我们对世界作为存在场所的概念化
+
+580
+00:01:13,500 --> 00:01:17,333
+这是我书《意义的地图》第一部分的内容
+
+581
+00:01:18,600 --> 00:01:26,400
+引用，“世界可以有效地构建为行为的剧场或事物发生的场所”
+
+582
+00:01:28,366 --> 00:01:33,533
+前一种解释方式更原始，也不太清晰，
+
+583
+00:01:34,733 --> 00:01:42,366
+其表达形式在艺术或人文学科中，在仪式、戏剧、文学和神话中找到。
+
+584
+00:01:43,666 --> 00:01:49,433
+作为行为的剧场的世界是一个有价值的地方，是所有事物都有意义的地方。
+
+585
+00:01:50,933 --> 00:02:06,500
+这种意义，作为社会互动的结果形成，涉及着行动，或者在更高层次的分析中，涉及着产生或指导行动的解释框架的配置。
+
+586
+00:02:08,700 --> 00:02:17,300
+后一种解释方式，作为事物发生的场所的世界，其正式表达可以在科学的方法和理论中找到。
+
+587
+00:02:18,933 --> 00:02:32,066
+一旦通过应用更基本的叙事过程确定了这种使用的方向，科学就允许我们越来越精确地确定事物的共识有效属性，
+
+588
+00:02:32,366 --> 00:02:38,733
+并有效利用这些精确确定的事物作为工具
+
+589
+00:02:40,000 --> 00:02:45,633
+没有使用这两种构建模式，我们无法生成完整的世界图景。
+
+590
+00:02:46,633 --> 00:02:55,300
+一个模式通常与另一个模式相冲突，只意味着他们各自领域的性质尚未得到充分区分。
+
+591
+00:02:56,533 --> 00:03:01,833
+神话世界观的拥护者倾向于将其信条的声明视为与经验事实无异，
+
+592
+00:03:02,033 --> 00:03:11,133
+尽管这些声明通常在客观现实概念出现之前就已形成。
+
+593
+00:03:13,066 --> 00:03:20,333
+相比之下，接受科学观点的人，认为它是或可能成为完整的，
+
+594
+00:03:21,333 --> 00:03:26,733
+忘记了当前存在着无法逾越的鸿沟，将“是”与“应当”隔开。
+
+595
+00:03:29,300 --> 00:03:31,266
+我稍后写了这个。
+
+596
+00:03:31,266 --> 00:03:35,433
+这也是我们一会儿要讨论内容的相关引言。
+
+597
+00:03:37,600 --> 00:03:42,366
+世界可以有效地构建为行为的剧场，也可以是事物发生的场所。
+
+598
+00:03:43,966 --> 00:03:47,633
+我们用科学的正式方法，将世界描述成作为事物发生的场所。
+
+599
+00:03:49,133 --> 00:03:56,833
+而叙事技术，如神话、文学和戏剧，则将世界描述成作为行为的剧场。
+
+600
+00:03:56,866 --> 00:04:02,000
+这两种表现形式之间的对立并非必然的，
+
+601
+00:04:02,000 --> 00:04:05,400
+因为我们尚未对他们各自的领域形成清晰的认识。
+
+602
+00:04:07,633 --> 00:04:17,133
+前者，科学领域，是客观世界，从主观感知的角度看“是”。
+
+603
+00:04:18,400 --> 00:04:28,866
+后者，戏剧和叙事，是价值世界，从情感和行动的角度看“是”和“应当”。
+
+604
+00:04:30,633 --> 00:04:35,766
+行为的剧场的世界以两个故事呈现。
+
+605
+00:04:37,233 --> 00:04:42,400
+常规故事，我从A点出发，要去B点。
+
+606
+00:04:44,133 --> 00:04:54,800
+革命性故事，我从A点出发去B点，途中发生了完全出乎意料和翻天覆地的事。
+
+607
+00:04:56,366 --> 00:05:05,233
+这意味着我不得不放弃我的故事，质疑我的假设，让我的旧信仰死去，重生。
+
+608
+00:05:07,966 --> 00:05:12,700
+第二个故事，更深层的，本质上是宗教的。
+
+609
+00:05:14,200 --> 00:05:14,666
+第二部分。
+
+610
+00:05:15,466 --> 00:05:18,133
+基督教革命故事的一些公理。
+
+611
+00:05:20,333 --> 00:05:30,300
+第一条。决定并实践这样的命题，即尽管存在悲剧和恶，“存在”仍是美好的。
+
+612
+00:05:30,300 --> 00:05:41,300
+第二条，为“存在”的持续和永恒的改进而努力，并知道这就是爱。
+
+613
+00:05:41,333 --> 00:05:47,766
+第三条，以真理（实事求是）做这样的工作。
+
+614
+00:05:47,766 --> 00:05:58,033
+第四条，让一切不足的在那追求中燃烧殆尽，并欢迎更好的替代它。
+
+615
+00:05:58,033 --> 00:06:04,200
+第五条，知道这就是对基督的神圣模仿。
+
+616
+00:06:04,200 --> 00:06:12,500
+第六条，理解尽管基督的牺牲已经赎了我们所有人，但仍需继续努力。
+
+617
+00:06:14,533 --> 00:06:22,166
+第七条，接受这项工作为生命的神圣意义。
+
+618
+00:06:22,166 --> 00:06:30,166
+第八条，以那种方式努力迈向山上的天城，
+
+619
+00:06:30,233 --> 00:06:35,133
+第三部分 叙事与牺牲
+
+620
+00:06:35,200 --> 00:06:37,200
+来自我的新书《人生12法则》
+
+621
+00:06:38,466 --> 00:06:43,100
+规则七：追求意义，拒绝苟且
+
+622
+00:06:45,633 --> 00:06:50,900
+正如旧谚语所说，若人人为己，魔鬼将带走最后的一个。
+
+623
+00:06:52,266 --> 00:06:57,200
+为什么不在机会出现时尽可能地抓住一切？
+
+624
+00:06:58,266 --> 00:07:00,466
+为什么不决定以这种方式生活？
+
+625
+00:07:02,400 --> 00:07:05,833
+或者，还有其他选择吗？如果有，
+
+626
+00:07:07,033 --> 00:07:08,233
+我们为什么要为此烦恼呢？
+
+627
+00:07:10,666 --> 00:07:16,500
+我们的祖先为这类问题提出了非常复杂的答案，但我们仍理解得不甚透彻。
+
+628
+00:07:18,466 --> 00:07:29,166
+这是因为它们在很大程度上仍然是隐含的，主要通过仪式和神话表现出来，而且至今还没有完全阐述。
+
+629
+00:07:29,166 --> 00:07:36,166
+我们通过行为和故事来表达它们，但我们还没有足够的智慧来明确地阐述它们。
+
+630
+00:07:36,200 --> 00:07:39,900
+我们仍然像群居的黑猩猩或狼群。
+
+631
+00:07:39,933 --> 00:07:41,500
+我们知道如何行为。
+
+632
+00:07:41,500 --> 00:07:44,200
+我们知道谁是谁，为什么是这样。
+
+633
+00:07:44,200 --> 00:07:45,800
+我们通过经验学到这些。
+
+634
+00:07:45,833 --> 00:07:50,200
+我们的知识是通过与他人的互动形成的。
+
+635
+00:07:50,233 --> 00:07:57,866
+我们建立了可预测的日常和行为模式，但我们真的不理解它们，也不知道它们的起源。
+
+636
+00:07:57,866 --> 00:08:01,633
+它们在漫长的时间中演化而来。
+
+637
+00:08:01,633 --> 00:08:04,533
+但我们过去没有，现在仍然不理解它们的全部意义。
+
+638
+00:08:06,100 --> 00:08:13,900
+《圣经》中的伊甸园和堕落故事就是这样的一个故事，经过几个世纪我们的集体想象力编织而成。
+
+639
+00:08:15,000 --> 00:08:23,933
+它提供了一个关于存在本质的深刻描述，并指明了与该本质相匹配的概念化和行动方式。
+
+640
+00:08:25,300 --> 00:08:37,166
+在自我意识觉醒之前的伊甸园中，故事是这样的，人类是无罪的。原始的父母亚当和夏娃与上帝同行。
+
+641
+00:08:37,166 --> 00:08:47,900
+后来，被蛇引诱的第一对夫妇吃了知善恶树的果实，发现了死亡和脆弱，并背离了上帝。
+
+642
+00:08:47,933 --> 00:08:54,900
+人类从伊甸园被流放，开始了艰难的凡人生活。
+
+643
+00:08:54,933 --> 00:09:02,900
+随后不久，牺牲的概念出现，从该隐和亚伯的故事开始，通过亚伯拉罕的历险和出埃及记而展开。
+
+644
+00:09:04,666 --> 00:09:09,433
+经过深思熟虑，挣扎的人类学会了通过恰当的牺牲可以获得上帝的青睐，
+
+645
+00:09:09,500 --> 00:09:19,666
+并避免他的愤怒，同时也了解到，对于那些无法或不愿以这种方式成功的人，可能会发起血腥谋杀。
+
+646
+00:09:20,700 --> 00:09:22,366
+延迟满足
+
+647
+00:09:23,333 --> 00:09:29,233
+在进行牺牲时，我们的祖先开始实践这样一个命题，
+
+648
+00:09:29,300 --> 00:09:38,400
+如果用言语表达，那就是通过放弃当前的某些价值，可能在未来获得更好的东西。
+
+649
+00:09:38,400 --> 00:09:47,333
+回想一下，你会发现，“工作的必要性”是上帝因原罪而对亚当及其后裔施加的诅咒之一。
+
+650
+00:09:49,266 --> 00:09:58,500
+亚当觉醒到他存在的基本限制——他的脆弱性，他的最终死亡，相当于他发现了未来。
+
+651
+00:09:59,833 --> 00:10:00,366
+未来。
+
+652
+00:10:01,233 --> 00:10:02,666
+那是你去死的地方。
+
+653
+00:10:03,833 --> 00:10:05,000
+希望不会太快到来。
+
+654
+00:10:06,000 --> 00:10:12,566
+你的消亡可能通过工作得以推迟，通过现在的牺牲换取以后的利益。
+
+655
+00:10:13,700 --> 00:10:23,266
+这是引入牺牲概念的原因之一，无疑，这一概念在圣经中描述堕落事件之后立即出现。
+
+656
+00:10:25,766 --> 00:10:27,866
+牺牲与工作之间几乎没有什么区别。
+
+657
+00:10:29,633 --> 00:10:31,433
+它们也都是独特的人类行为。
+
+658
+00:10:32,666 --> 00:10:37,800
+有时候动物看起来好像在工作，但它们实际上只是在遵循自己本能的指示。
+
+659
+00:10:38,833 --> 00:10:39,833
+海狸筑坝。
+
+660
+00:10:41,300 --> 00:10:42,933
+它们这样做是因为它们是海狸。
+
+661
+00:10:43,700 --> 00:10:44,533
+海狸筑坝。
+
+662
+00:10:45,400 --> 00:10:50,666
+它们不会想，是的，但我宁愿和我的女朋友在墨西哥的海滩上。
+
+663
+00:10:53,033 --> 00:11:02,800
+从平凡的角度看，这种牺牲，工作，是延迟满足，但这是一个非常平常的词汇来描述一件震撼灵魂的重要事情。
+
+664
+00:11:03,733 --> 00:11:15,466
+发现满足可以被延迟，同时也是对时间的发现，以及与之相关的因果关系，至少是人类自愿行动的因果力。
+
+665
+00:11:17,000 --> 00:11:23,733
+很久以前，在遥远的迷雾时代，我们开始意识到现实仿佛可以被讨价还价。
+
+666
+00:11:25,000 --> 00:11:39,000
+我们学会了现在适当地行为，在当下抑制我们的冲动，考虑他人的困境，可能在未来的某个尚不存在的时间和地点带来回报。
+
+667
+00:11:39,033 --> 00:11:50,266
+我们开始抑制、控制并组织我们即时的冲动，以便我们能停止干扰他人和我们未来的自己。
+
+668
+00:11:50,266 --> 00:11:54,400
+这样做无异于组织社会。
+
+669
+00:11:54,433 --> 00:12:03,300
+发现我们今天的努力与明天的生活质量之间的因果关系，激励了社会契约，
+
+670
+00:12:03,500 --> 00:12:10,133
+这种组织使得今天的工作可以可靠地保存，它们中的大部分是以他人的承诺形式存在。
+
+671
+00:12:13,933 --> 00:12:17,666
+理解通常在能被言语表达之前就已经通过行动表现出来，
+
+672
+00:12:18,300 --> 00:12:24,966
+就像孩子在能够用言语描述父母角色意味着什么之前，就已经在扮演母亲或父亲的角色。
+
+673
+00:12:26,666 --> 00:12:35,500
+向上帝进行的仪式性牺牲是对延迟有用性这一概念的早期和复杂的表现。
+
+674
+00:12:37,466 --> 00:12:49,066
+从仅仅饥肠辘辘地享用美食到学会在一天结束时或为不在场的人留出一些额外的火熏肉之间 有一个漫长的概念之旅
+
+675
+00:12:50,766 --> 00:13:03,133
+学会为自己或他人保留一些东西需要很长时间，这和你在前一种情况下与未来的自己分享是非常相似的。
+
+676
+00:13:04,566 --> 00:13:10,266
+自私地并立即狼吞虎咽地吃光眼前的一切更容易也更有可能发生。
+
+677
+00:13:11,900 --> 00:13:19,033
+在延迟及其概念化方面，每一次在复杂性上的飞跃之间都有类似的漫长旅程。
+
+678
+00:13:19,866 --> 00:13:22,900
+短期共享，为未来储存，
+
+679
+00:13:23,900 --> 00:13:29,166
+一开始以记录形式，后来以货币形式表现这种储存，
+
+680
+00:13:30,033 --> 00:13:34,466
+最终，将金钱储蓄在银行或其他社会机构。
+
+681
+00:13:36,033 --> 00:13:46,933
+一些概念表达必须作为中介，否则我们围绕牺牲和工作及其表现的全部实践和理念可能永远不会出现。
+
+682
+00:13:49,133 --> 00:13:52,366
+我们的祖先表演了一场戏剧，一种虚构。
+
+683
+00:13:53,400 --> 00:14:01,333
+他们将统治命运的力量人格化为一个可以讨价还价的精神，就好像它是另一个人一样
+
+684
+00:14:03,066 --> 00:14:05,033
+而令人惊奇的是，这种做法奏效了
+
+685
+00:14:06,700 --> 00:14:10,433
+这部分是因为未来在很大程度上由其他人组成
+
+686
+00:14:11,400 --> 00:14:18,066
+通常正是那些观察并评估你过去行为细节的人
+
+687
+00:14:19,466 --> 00:14:28,666
+从这里到上帝在高处坐着，跟踪你的每一个动作，并将其记录在一本大书中供日后参考，这并不遥远
+
+688
+00:14:30,366 --> 00:14:32,400
+这里有一个富有成效的象征性想法
+
+689
+00:14:33,866 --> 00:14:36,033
+未来是一个评判性的父亲
+
+690
+00:14:37,766 --> 00:14:41,000
+这是一个好的开始，但还有两个额外的原型
+
+691
+00:14:41,566 --> 00:14:46,433
+由于牺牲工作的发现 而出现了一些基本问题
+
+692
+00:14:47,800 --> 00:14:57,100
+两者都与工作逻辑的最终延伸有关，即现在牺牲以换取以后的收益 第一个问题
+
+693
+00:14:58,866 --> 00:15:00,333
+必须牺牲什么？
+
+694
+00:15:02,133 --> 00:15:06,966
+小的牺牲可能足以解决小的、单一的问题。
+
+695
+00:15:08,266 --> 00:15:18,133
+但可能更大、更全面的牺牲能同时解决一系列大型和复杂的问题。
+
+696
+00:15:19,966 --> 00:15:22,066
+这更困难，但可能更好。
+
+697
+00:15:24,200 --> 00:15:34,400
+例如，适应医学院所需的纪律将彻底妨碍一个狂欢的本科生的放纵生活方式。
+
+698
+00:15:35,600 --> 00:15:38,400
+放弃这种生活方式是一种牺牲。
+
+699
+00:15:38,400 --> 00:15:44,000
+但是一位医生可以，用乔治·W的话说，真正地给家人带来食物。
+
+700
+00:15:45,766 --> 00:15:49,800
+这解决了很长一段时间的许多麻烦。
+
+701
+00:15:51,166 --> 00:15:57,666
+因此，牺牲是改善未来所必需的，而更大的牺牲可能更好。
+
+702
+00:15:59,966 --> 00:16:01,766
+第二个问题。
+
+703
+00:16:01,800 --> 00:16:03,300
+实际上是一系列相关的问题。
+
+704
+00:16:04,166 --> 00:16:07,233
+我们已经确立了基本原则。
+
+705
+00:16:07,266 --> 00:16:09,400
+牺牲将改善未来。
+
+706
+00:16:11,033 --> 00:16:14,800
+但一旦确立了原则，就必须具体化。
+
+707
+00:16:16,000 --> 00:16:19,366
+必须理解它的完整延伸或意义。
+
+708
+00:16:21,266 --> 00:16:28,033
+在最极端和最终的情况下，牺牲将改善未来这一想法意味着什么？
+
+709
+00:16:28,733 --> 00:16:31,633
+这一基本原则的极限在哪里？
+
+710
+00:16:33,233 --> 00:16:41,800
+我们首先必须问，什么是最大的、最有效的、最令人满意的所有可能牺牲？
+
+711
+00:16:42,433 --> 00:16:50,033
+然后，如果能做出最有效的牺牲，可能的最佳未来会有多好？
+
+712
+00:16:52,900 --> 00:17:01,366
+《圣经》中的该隐与亚伯的故事，亚当和夏娃的儿子，紧接着驱逐出伊甸园的故事，如前所述。
+
+713
+00:17:02,400 --> 00:17:09,566
+该隐和亚伯实际上是第一批人类，因为他们的父母是直接由上帝创造的，不是以常规方式出生的。
+
+714
+00:17:11,033 --> 00:17:15,033
+该隐和亚伯生活在历史中，而不是伊甸园。
+
+715
+00:17:15,066 --> 00:17:16,566
+他们必须工作。
+
+716
+00:17:16,566 --> 00:17:22,566
+他们必须进行牺牲以取悦上帝，他们这样做是通过祭坛和适当的仪式。
+
+717
+00:17:24,533 --> 00:17:26,366
+但事情变得复杂。
+
+718
+00:17:26,366 --> 00:17:30,433
+亚伯的供物取悦了上帝，但该隐的没有。
+
+719
+00:17:30,433 --> 00:17:34,733
+亚伯获得了多倍的回报，但该隐没有。
+
+720
+00:17:35,766 --> 00:17:41,900
+尽管经文强烈暗示该隐的心并不在其中，具体原因并不明确。
+
+721
+00:17:43,600 --> 00:17:48,666
+也许是该隐提供的质量低，也许他的精神是勉强的，
+
+722
+00:17:49,566 --> 00:17:52,933
+或者也许是上帝因为某些自己的秘密原因感到烦恼。
+
+723
+00:17:53,900 --> 00:17:58,966
+而这一切都是现实的，包括文本中模糊的解释。
+
+724
+00:18:00,000 --> 00:18:02,133
+并非所有的牺牲都具有相同的质量。
+
+725
+00:18:03,266 --> 00:18:09,600
+此外，常常看起来高质量的牺牲并未带来更好的未来
+
+726
+00:18:10,633 --> 00:18:14,433
+不清楚为什么，为什么上帝不高兴？
+
+727
+00:18:15,700 --> 00:18:18,266
+为了让他高兴，需要改变什么？
+
+728
+00:18:19,766 --> 00:18:21,233
+这些都是困难的问题
+
+729
+00:18:22,433 --> 00:18:24,700
+而每个人都一直在问这些问题
+
+730
+00:18:26,133 --> 00:18:27,200
+即使他们没有意识到
+
+731
+00:18:28,266 --> 00:18:31,366
+提出这样的问题与思考无异
+
+732
+00:18:34,000 --> 00:18:39,633
+我们费了很大劲才意识到，可以有效地推迟快乐。
+
+733
+00:18:40,100 --> 00:18:46,933
+这与我们古老的基本动物本能完全相反，这些本能要求立即满足，
+
+734
+00:18:47,800 --> 00:18:52,566
+特别是在贫困的情况下，这是不可避免的，也是司空见惯的。
+
+735
+00:18:53,800 --> 00:19:04,566
+而且，更复杂的是，这种延迟变得有用的前提是 文明足够稳定以能保证未来延迟奖励的存在
+
+736
+00:19:06,300 --> 00:19:11,733
+如果你所保存的一切都将被摧毁，或更糟，被盗，那么储蓄就没有意义。
+
+737
+00:19:13,133 --> 00:19:18,066
+这就是为什么一只狼会在一顿饭中吞下20磅的生肉。
+
+738
+00:19:19,266 --> 00:19:24,366
+它不会想，天哪，我讨厌暴饮暴食，我应该把一些留到下周。
+
+739
+00:19:25,200 --> 00:19:30,833
+那么，这两个不可能同时发生的成就——延迟和未来社会的稳定——是如何可能实现的呢？
+
+740
+00:19:31,166 --> 00:19:36,500
+这里是从动物到人的发展过程。
+
+741
+00:19:38,300 --> 00:19:41,466
+毫无疑问，这在细节上是错误的。
+
+742
+00:19:42,066 --> 00:19:44,600
+但就主题而言，它足够正确，符合我们的目的。
+
+743
+00:19:45,600 --> 00:19:48,566
+首先，有多余的食物。
+
+744
+00:19:50,400 --> 00:19:52,633
+大型动物尸体，如猛犸象或其他大型食草动物可能提供这些。
+
+745
+00:19:52,666 --> 00:19:56,966
+我们吃了很多猛犸象。
+
+746
+00:19:58,133 --> 00:19:59,933
+也许是全部吃光了。
+
+747
+00:19:59,933 --> 00:20:00,766
+也许是。
+
+748
+00:20:02,033 --> 00:20:05,733
+有了大型动物，杀死后会有一些剩余的食物。
+
+749
+00:20:06,633 --> 00:20:09,366
+起初这是偶然的。
+
+750
+00:20:09,366 --> 00:20:13,933
+但最终，人们开始意识到留到以后的好处。
+
+751
+00:20:15,433 --> 00:20:18,933
+同时开始形成一种牺牲的初步概念。
+
+752
+00:20:20,266 --> 00:20:25,533
+如果我留下一些，即使现在很想吃，我以后就不会饿了。
+
+753
+00:20:27,266 --> 00:20:29,933
+这种初步概念发展到下一个层次。
+
+754
+00:20:31,466 --> 00:20:36,966
+如果我为以后留下一些，我就不会饿，我关心的人也不会饿。
+
+755
+00:20:36,966 --> 00:20:44,833
+然后进入下一个阶段，我不可能吃掉所有这些猛犸象肉，但我也无法把剩下的存放太久
+
+756
+00:20:46,166 --> 00:20:47,800
+也许我应该分给其他人一些
+
+757
+00:20:49,533 --> 00:20:55,166
+也许他们会记得，并在他们有猛犸象肉而我没有时分给我一些
+
+758
+00:20:56,333 --> 00:21:02,533
+那样我现在能吃到一些猛犸象肉，以后也能吃到，这是个好交易
+
+759
+00:21:03,866 --> 00:21:07,800
+也许我分享过的那些人会更信任我
+
+760
+00:21:09,100 --> 00:21:10,866
+也许我们可以永远进行交易
+
+761
+00:21:12,566 --> 00:21:16,066
+以这种方式，猛犸象肉变成了未来的猛犸象肉，
+
+762
+00:21:17,033 --> 00:21:19,766
+而未来的猛犸象肉变成了个人声誉
+
+763
+00:21:20,633 --> 00:21:23,500
+这就是社会契约的出现
+
+764
+00:21:25,200 --> 00:21:29,333
+分享并不意味着放弃你所珍视的东西而一无所获
+
+765
+00:21:30,400 --> 00:21:35,633
+相反，这只是每个拒绝分享的孩子所担心的
+
+766
+00:21:37,200 --> 00:21:41,666
+正确的分享意味着，启动交易的过程
+
+767
+00:21:43,666 --> 00:21:49,900
+一个不能分享、不能交易的孩子，无法拥有朋友，因为拥有朋友是一种交易形式
+
+768
+00:21:51,133 --> 00:22:00,266
+本杰明·富兰克林曾建议，新来的邻居向新邻居请求帮助，引用这一古老的格言
+
+769
+00:22:02,000 --> 00:22:09,266
+曾经帮助过你的人，将比你曾经帮助过的人更愿意再次帮助你
+
+770
+00:22:11,066 --> 00:22:21,233
+在富兰克林看来，向别人请求一些事情（显然不要太过分），是最有用且最直接的社交和交易邀请
+
+771
+00:22:23,600 --> 00:22:32,433
+新来者如此请求，为邻居提供了在第一次相遇时展示自己是好人的机会
+
+772
+00:22:33,533 --> 00:22:42,900
+这也意味着后者现在可以因为产生的债务而向前者请求帮助，增加了他们之间的熟悉度和信任
+
+773
+00:22:44,566 --> 00:22:50,733
+通过这种方式，双方都可以克服对陌生人的自然犹豫和相互恐惧
+
+774
+00:22:53,133 --> 00:22:55,100
+拥有一些总比什么都没有好
+
+775
+00:22:56,133 --> 00:22:59,866
+更好的是慷慨地分享你所拥有的
+
+776
+00:23:01,800 --> 00:23:06,366
+然而，更好的是，为慷慨的分享而广为人知
+
+777
+00:23:07,900 --> 00:23:09,233
+那是一种持久的东西。
+
+778
+00:23:10,333 --> 00:23:12,233
+那是一种可靠的东西。
+
+779
+00:23:13,766 --> 00:23:22,766
+在这一抽象层面上，我们可以看到如何为“可靠”、“诚实”和“慷慨”这些概念的基础奠定了基础。
+
+780
+00:23:24,066 --> 00:23:27,366
+一个明确的道德基础已经建立起来。
+
+781
+00:23:28,933 --> 00:23:34,966
+富有成效、诚实的分享者是好公民和好人的原型。
+
+782
+00:23:37,166 --> 00:23:45,366
+我们可以看到，从“储存食物（剩菜）是个好主意”这一简单概念如何衍生出最高的道德原则。
+
+783
+00:23:47,700 --> 00:23:51,466
+就好像随着人类的发展，发生了以下的事情。
+
+784
+00:23:52,900 --> 00:23:59,933
+首先是漫长的数万年，甚至上十万年，这些都是在书面历史和戏剧出现之前。
+
+785
+00:24:01,600 --> 00:24:08,866
+在这段时间里，延迟和交换的双重实践开始缓慢而痛苦地出现。
+
+786
+00:24:10,833 --> 00:24:16,800
+然后，它们以牺牲的隐喻和故事的形式出现，以寓言的方式讲述。
+
+787
+00:24:17,600 --> 00:24:20,233
+就像这样讲述，
+
+788
+00:24:21,866 --> 00:24:27,366
+好像天空中有一个强大的人物在观察一切，并在评判你，
+
+789
+00:24:28,800 --> 00:24:33,433
+放弃你所珍视的东西似乎能让他高兴，而你想让他高兴，
+
+790
+00:24:34,233 --> 00:24:36,300
+因为如果你不这么做，地狱将会降临。
+
+791
+00:24:37,666 --> 00:24:45,733
+所以练习牺牲和分享，直到你在其中变得熟练，一切都会变得更好。
+
+792
+00:24:47,766 --> 00:24:55,766
+没有人这样直白和直接地说过，但这在实践中是隐含的，然后在故事中也是如此。
+
+793
+00:24:57,500 --> 00:25:03,666
+行动先于思考，这是必然的，因为我们曾经的动物本能能行动，但不能思考。
+
+794
+00:25:05,000 --> 00:25:14,733
+隐性的、未被认识到的价值先于一切，因为先于思考的行动体现了价值，但没有明确表达出这种价值。
+
+795
+00:25:16,700 --> 00:25:22,666
+人们观察成功者的成功和失败者的失败，持续了成千上万年。
+
+796
+00:25:23,866 --> 00:25:26,733
+我们思考这些，然后得出结论。
+
+797
+00:25:28,066 --> 00:25:30,733
+我们中成功的人会延迟满足感。
+
+798
+00:25:32,133 --> 00:25:34,733
+我们中成功的人会与未来讨价还价。
+
+799
+00:25:35,066 --> 00:25:44,433
+一个伟大的想法开始浮现，以越来越明确的形式在越来越清晰的故事中表达出来。
+
+800
+00:25:46,100 --> 00:25:49,033
+成功者和失败者之间有什么区别？
+
+801
+00:25:50,100 --> 00:25:51,733
+成功者进行牺牲。
+
+802
+00:25:52,966 --> 00:25:56,733
+随着成功者练习他们的牺牲，事情变得更好。
+
+803
+00:25:58,133 --> 00:26:02,900
+问题变得越来越精确，同时也越来越广泛。
+
+804
+00:26:04,333 --> 00:26:06,433
+什么是最伟大的可能的牺牲？
+
+805
+00:26:07,800 --> 00:26:09,266
+为了最伟大的可能的善？
+
+806
+00:26:11,166 --> 00:26:14,666
+答案变得越来越深刻和深邃。
+
+807
+00:26:16,633 --> 00:26:21,100
+西方传统的上帝，像许多神一样，要求牺牲。
+
+808
+00:26:23,066 --> 00:26:24,500
+我们已经探讨了为什么。
+
+809
+00:26:25,333 --> 00:26:27,766
+但有时，他的要求更进一步。
+
+810
+00:26:29,033 --> 00:26:34,500
+他不仅仅要求牺牲，而是要求牺牲最爱的东西。
+
+811
+00:26:36,466 --> 00:26:42,333
+这在亚伯拉罕和以撒的故事中表现得最为鲜明，也最令人困惑。
+
+812
+00:26:43,800 --> 00:26:47,133
+上帝所爱的亚伯拉罕，长期渴望有一个儿子。
+
+813
+00:26:48,433 --> 00:26:57,300
+经过多次拖延，在年老且妻子长期不育的明显不可能的条件下，上帝确实向他许诺了这一点。
+
+814
+00:26:59,266 --> 00:27:04,866
+但不久之后，当奇迹般出生的以撒还是个孩子时，上帝却转过身来，
+
+815
+00:27:05,233 --> 00:27:13,033
+以一种不合理且显得野蛮的方式要求他的忠实仆人献上自己的儿子作为牺牲。
+
+816
+00:27:14,500 --> 00:27:16,033
+故事有了一个幸福的结局。
+
+817
+00:27:16,066 --> 00:27:22,666
+上帝派遣一个天使阻止了亚伯拉罕的顺从之手，并接受了一只公羊代替以撒。
+
+818
+00:27:24,633 --> 00:27:28,200
+这是件好事，但它并没有真正解决手头的问题。
+
+819
+00:27:29,566 --> 00:27:32,333
+为什么上帝要更进一步
+
+820
+00:27:33,666 --> 00:27:38,233
+为什么他，为什么生活，会提出这样的要求？
+
+821
+00:27:41,533 --> 00:27:47,633
+我们将从一个简单的事实开始分析，这个事实明显、不言自明且被低估。
+
+822
+00:27:49,933 --> 00:27:52,300
+有时候，事情并不顺利。
+
+823
+00:27:53,633 --> 00:27:56,666
+这似乎与世界的可怕本质有很大关系，
+
+824
+00:27:57,066 --> 00:28:00,533
+包括其瘟疫、饥荒、暴政和背叛。
+
+825
+00:28:02,133 --> 00:28:02,633
+但问题在于。
+
+826
+00:28:03,500 --> 00:28:07,233
+有时，当事情不顺利时，原因并不是世界。
+
+827
+00:28:08,400 --> 00:28:15,033
+原因反而是目前最受主观和个人珍视的东西。
+
+828
+00:28:16,700 --> 00:28:16,933
+为什么？
+
+829
+00:28:18,700 --> 00:28:25,566
+因为世界在很大程度上是通过你的价值观模板被揭示的。
+
+830
+00:28:27,300 --> 00:28:33,966
+因此，如果你看到的世界不是你想要的世界，那就是检查你的价值观的时候了。
+
+831
+00:28:34,933 --> 00:28:37,933
+是时候摆脱你当前的假设了。
+
+832
+00:28:39,633 --> 00:28:41,333
+是时候放手了。
+
+833
+00:28:42,600 --> 00:28:50,500
+甚至可能是时候牺牲你最爱的东西，这样你可以成为你可能成为的人，而不是保持你现在的样子。
+
+834
+00:28:52,900 --> 00:28:59,166
+有一个古老而可能是杜撰的故事，讲述如何捕捉猴子，很好地说明了这一系列观点。
+
+835
+00:29:00,666 --> 00:29:09,100
+首先，你需要找一个大的、瓶颈狭窄的罐子，顶部的直径刚好足够猴子伸手进去。
+
+836
+00:29:11,633 --> 00:29:16,300
+然后你需要将罐子部分填满石头，使其对猴子来说太重而无法携带。
+
+837
+00:29:17,333 --> 00:29:23,500
+接着你需要在罐子附近撒一些对猴子有吸引力的小吃，以吸引它们，并将更多小吃放入罐中。
+
+838
+00:29:25,166 --> 00:29:30,633
+猴子会过来，伸手进窄口并抓住美味。
+
+839
+00:29:31,966 --> 00:29:36,200
+但现在它无法把握满是小吃的拳头从罐子中抽出。
+
+840
+00:29:37,566 --> 00:29:39,200
+除非它松开手。
+
+841
+00:29:40,300 --> 00:29:42,933
+除非它放弃它已经拥有的东西。
+
+842
+00:29:44,733 --> 00:29:46,000
+而这正是它不会做的事。
+
+843
+00:29:47,133 --> 00:29:50,500
+捕猴人可以走过去，拿起罐子和猴子。
+
+844
+00:29:51,966 --> 00:29:55,533
+动物不会为了保全整体而牺牲部分。
+
+845
+00:29:58,466 --> 00:30:07,600
+放弃有价值的东西确保未来的繁荣，牺牲有价值的东西讨好上帝。
+
+846
+00:30:09,666 --> 00:30:24,433
+什么是最有价值且最好的牺牲，或至少是象征这一点的东西——一块上好的肉，群中最好的动物，最珍贵的财产。
+
+847
+00:30:24,433 --> 00:30:27,133
+还有什么比这更高级的？
+
+848
+00:30:27,166 --> 00:30:30,633
+一些非常个人化且令人痛苦的放弃。
+
+849
+00:30:30,633 --> 00:30:37,033
+上帝坚持将割礼作为亚伯拉罕献祭仪式的一部分，
+
+850
+00:30:37,300 --> 00:30:43,066
+象征性地献上一部分以赎回整体，这或许就象征着这一点。
+
+851
+00:30:45,300 --> 00:30:46,800
+除此之外还有什么？
+
+852
+00:30:46,833 --> 00:30:52,566
+什么更接近整个人而不只是部分？
+
+853
+00:30:52,600 --> 00:30:59,233
+什么构成了为了获取最终奖赏而做出的终极牺牲？
+
+854
+00:30:59,233 --> 00:31:02,966
+这是孩子和自我之间的一场激烈的竞赛。
+
+855
+00:31:02,966 --> 00:31:12,200
+母亲将她的孩子奉献给世界的牺牲，在米开朗基罗的伟大雕塑《圣母怜子》中得到了深刻体现。
+
+856
+00:31:12,200 --> 00:31:20,100
+米开朗基罗塑造了玛丽亲抱着她几乎赤裸的成年儿子的场景，他被钉在十字架上，身体毁损。
+
+857
+00:31:20,133 --> 00:31:21,066
+这是她的错。
+
+858
+00:31:21,066 --> 00:31:26,000
+是通过她，他才进入这个世界和其伟大的“存在剧场”。
+
+859
+00:31:26,000 --> 00:31:32,800
+把婴儿带入这个可怕的世界对吗？
+
+860
+00:31:32,800 --> 00:31:35,066
+每个女人都会问自己这个问题。
+
+861
+00:31:36,166 --> 00:31:38,433
+有些人说不，他们有他们的理由。
+
+862
+00:31:39,233 --> 00:31:40,766
+玛丽回答说：是的。
+
+863
+00:31:41,400 --> 00:31:48,033
+自愿地这么做，很清楚即将发生的一切，就像所有母亲一样，如果她们让自己看清楚的话。
+
+864
+00:31:49,066 --> 00:31:53,133
+当自愿承担时，这是一种至高无上的勇气。
+
+865
+00:31:55,233 --> 00:32:11,233
+反过来，玛丽的儿子基督将自己奉献给上帝和世界，承受背叛、折磨和死亡，甚至在十字架上绝望地呼喊出马太福音27章46节的可怕话语。
+
+866
+00:32:13,033 --> 00:32:17,900
+我的上帝，我的上帝，为什么你离弃我？
+
+867
+00:32:20,066 --> 00:32:25,233
+这就是一个为了成为更好的人而付出一切的典型故事
+
+868
+00:32:26,133 --> 00:32:28,766
+谁为了推动存在的进步而献出自己的生命？
+
+869
+00:32:28,933 --> 00:32:37,033
+谁允许上帝的意志在一个有限的凡人生命中完全显现。
+
+870
+00:32:38,900 --> 00:32:41,366
+这是高尚之人的楷模。
+
+871
+00:32:42,966 --> 00:32:51,600
+然而，在基督的例子中，当他献祭自己时，上帝，他的父亲，同时也在牺牲他的儿子。
+
+872
+00:32:53,300 --> 00:32:59,666
+正因为如此，基督教关于子与自我牺牲的戏剧是典型的。
+
+873
+00:33:00,933 --> 00:33:06,766
+这是一个极限的故事，无法想象有什么更极端、更伟大的了。
+
+874
+00:33:08,066 --> 00:33:14,500
+这就是原型的定义，也是构成宗教核心的内容。
+
+875
+00:33:16,400 --> 00:33:18,533
+痛苦和苦难定义了这个世界。
+
+876
+00:33:19,766 --> 00:33:21,333
+对此毫无疑问。
+
+877
+00:33:23,366 --> 00:33:28,633
+可以在更大或更小的程度上将痛苦和苦难搁置。
+
+878
+00:33:28,666 --> 00:33:33,633
+更大的牺牲比较小的牺牲能更有效地做到这一点。
+
+879
+00:33:33,666 --> 00:33:36,433
+对此，毫无疑问。
+
+880
+00:33:36,433 --> 00:33:40,266
+每个人都在他们的灵魂中持有这一知识。
+
+881
+00:33:40,266 --> 00:33:50,233
+因此，那个希望减轻痛苦、希望纠正存在的缺陷、希望带来最好的可能未来的人，
+
+882
+00:33:50,933 --> 00:34:01,866
+那个希望在地球上创造天堂的人，将会做出最大的牺牲，包括自我、孩子和所有被爱的东西，过一种以善为目标的生活。
+
+883
+00:34:02,933 --> 00:34:15,000
+他将放弃权宜之计，他将追求最终意义的道路，并以这种方式，为这个永远绝望的世界带来救赎。
+
+884
+00:34:16,833 --> 00:34:29,233
+第4部分，来自我的博客《约柜、大教堂和十字架上的复活节信息1简述》，摘自维基百科。
+
+885
+00:34:31,233 --> 00:34:38,600
+约柜是一个盖有盖子的镀金木箱，里面放着两块十诫的石板。
+
+886
+00:34:39,900 --> 00:34:46,700
+根据希伯来圣经内的各种文本，里面还包含了亚伦的杖和一罐吗哪（天赐食物）。
+
+887
+00:34:48,300 --> 00:34:53,533
+据说上帝在约柜的盖子上两个智天使之间与摩西对话。
+
+888
+00:34:55,600 --> 00:35:06,566
+圣经记载称，约柜是在以色列人从埃及出走一年后 按照上帝在西奈山脚给摩西的模式制作的。
+
+889
+00:35:08,300 --> 00:35:14,633
+利未人在前往应许之地的行军中或在以色列军队的前头行进时，
+
+890
+00:35:14,800 --> 00:35:21,900
+利未人会用木杖抬着镀金的金合欢木箱。
+
+891
+00:35:23,533 --> 00:35:28,800
+在运输中，约柜被皮革和蓝布制成的大幕所遮盖，
+
+892
+00:35:29,900 --> 00:35:33,866
+即使是携带它的祭司和利未人也看不见。
+
+893
+00:35:34,900 --> 00:35:42,600
+当静止时，会搭建一个便携式建筑——帐幕，意为居所或住处，用来容纳约柜。
+
+894
+00:35:43,833 --> 00:35:52,166
+它由编织的帘子层和48块抛光金覆盖的板材组成，像垂直百叶窗一样立着。
+
+895
+00:35:53,000 --> 00:36:00,066
+大约300年后，耶路撒冷的所罗门圣殿取代了它，成为上帝的居所。
+
+896
+00:36:01,700 --> 00:36:02,266
+注释
+
+897
+00:36:04,166 --> 00:36:06,800
+必须有一座桥梁连接有限与无限。
+
+898
+00:36:08,800 --> 00:36:12,066
+必须有一个地方，让短暂与永恒相遇。
+
+899
+00:36:13,733 --> 00:36:17,866
+必须有一座桥梁连接可知与不可知。
+
+900
+00:36:19,700 --> 00:36:21,833
+并且必须在基础上有坚实的基石。
+
+901
+00:36:24,233 --> 00:36:30,066
+约柜，作为通往上帝的门户，应由圣洁之人扛在肩上。
+
+902
+00:36:31,266 --> 00:36:33,433
+约柜不可触摸。
+
+903
+00:36:33,466 --> 00:36:35,233
+触摸约柜意味着冒死亡的风险。
+
+904
+00:36:36,700 --> 00:36:40,666
+有些圣物除非冒生命危险否则不能触摸。
+
+905
+00:36:42,066 --> 00:36:46,433
+这些不能触摸的事物是社区的基础。
+
+906
+00:36:48,566 --> 00:36:51,166
+约柜必须放置在圣殿的中心。
+
+907
+00:36:52,600 --> 00:36:55,933
+圣殿必须置于社区的中心。
+
+908
+00:36:57,633 --> 00:37:01,766
+社区必须围绕着那些不可触摸和牢不可破的东西布局。
+
+909
+00:37:03,500 --> 00:37:06,766
+不可触摸和牢不可破的是公理性的。
+
+910
+00:37:08,633 --> 00:37:14,766
+跟随约柜的人决定一起朝向永恒的应许之地前进。
+
+911
+00:37:16,766 --> 00:37:21,800
+围绕约柜合理布局的城市是永恒的耶路撒冷。
+
+912
+00:37:23,933 --> 00:37:27,633
+必须有公理性的东西，否则一切都会动摇并崩溃。
+
+913
+00:37:29,066 --> 00:37:32,100
+公理性的东西无法用言语完全表达。
+
+914
+00:37:33,133 --> 00:37:40,366
+相反，公理性、不可触摸和牢不可破的是使语言交流成为可能的。
+
+915
+00:37:42,333 --> 00:37:46,333
+公理性是一种精神，一个过程，一种生命力。
+
+916
+00:37:47,500 --> 00:37:50,966
+然而，其表现形式是具体的。
+
+917
+00:37:51,000 --> 00:37:53,900
+这是精神向物质的转化。
+
+918
+00:37:55,200 --> 00:37:58,100
+这是石板的产生。
+
+919
+00:38:00,600 --> 00:38:06,633
+约柜包含了从公理原则中派生的规则。
+
+920
+00:38:08,266 --> 00:38:12,000
+这个原则是使规则显现的精神。
+
+921
+00:38:12,433 --> 00:38:18,000
+这种精神是约柜的终极居民，规则是其行动的结果。
+
+922
+00:38:19,333 --> 00:38:21,200
+那种精神是创造性的逻各斯。
+
+923
+00:38:22,466 --> 00:38:28,266
+约柜和圣殿被社区中心的大教堂所取代。
+
+924
+00:38:29,666 --> 00:38:32,233
+大教堂是十字架的建筑形式。
+
+925
+00:38:33,500 --> 00:38:35,900
+十字架是转化发生的地方。
+
+926
+00:38:37,100 --> 00:38:40,166
+转化是基督身体的融入。
+
+927
+00:38:41,733 --> 00:38:44,100
+这种融入是一种戏剧性仪式，
+
+928
+00:38:44,966 --> 00:38:48,233
+是决定不仅仅是信仰基督，
+
+929
+00:38:49,433 --> 00:38:55,633
+而是通过行动表现他，这比仅仅信仰要深刻得多。
+
+930
+00:38:57,500 --> 00:39:02,200
+基督是通过自愿接受死亡而超越死亡的人。
+
+931
+00:39:03,333 --> 00:39:08,066
+基督是为了上帝的国而拒绝这个世界王国的人。
+
+932
+00:39:08,866 --> 00:39:20,100
+基督是通过说出真理从潜在的混沌中创造出“善”的可居住秩序的人，这潜在的混沌存在于现实物质化之前。
+
+933
+00:39:21,700 --> 00:39:26,266
+基督是用潜力作为剑来劈开死亡的人。
+
+934
+00:39:27,866 --> 00:39:40,166
+基督是通过彻底接受生活的条件来战胜由悲剧和恶意引起的仇恨、苦涩和复仇心态的人。
+
+935
+00:39:42,133 --> 00:39:47,033
+如果不接受死亡，苦涩将统治一切，地狱将获胜。
+
+936
+00:39:49,533 --> 00:40:02,566
+据说男人和女人都是按照上帝的形象造的，而上帝是使用永恒的逻各斯从潜在的混沌中创造出可居住的秩序的人。
+
+937
+00:40:03,533 --> 00:40:04,533
+这是公理。
+
+938
+00:40:05,366 --> 00:40:07,533
+这是世界中心的钻石。
+
+939
+00:40:08,366 --> 00:40:11,166
+这是约柜中不可触摸的精神。
+
+940
+00:40:12,466 --> 00:40:20,100
+这是带来和平与繁荣的文化的基石，尊重人的尊严，这是伟大的真理。
+
+941
+00:40:21,266 --> 00:40:28,733
+这是接受它后才能让我们每个人都能活下去的责任，尽管我们有限的存在极具灾难性的脆弱。
+
+942
+00:40:30,066 --> 00:40:34,700
+我们与上帝的相似赋予我们每个人一种超越有限的价值。
+
+943
+00:40:36,366 --> 00:40:40,700
+个人和社会都面临着尊重这一价值的伦理要求。
+
+944
+00:40:41,933 --> 00:40:45,600
+这不仅是支撑人权观念的基本假设。
+
+945
+00:40:46,700 --> 00:40:54,533
+这是赋予我们每个人最终责任的假设，这种责任是这些权利不可避免的必然结果。
+
+946
+00:40:56,100 --> 00:40:57,866
+面对未来的混沌。
+
+947
+00:40:59,233 --> 00:41:06,200
+运用你所拥有的逻各斯，将那混沌转变为好的、可居住的秩序。
+
+948
+00:41:07,466 --> 00:41:08,100
+说出真理。
+
+949
+00:41:09,166 --> 00:41:09,766
+体现真理。
+
+950
+00:41:11,400 --> 00:41:16,033
+接受那些看似不可能接受的限制，这些限制使存在成为可能。
+
+951
+00:41:16,966 --> 00:41:26,100
+以这种方式消除怨恨、仇恨、对无限无边的复仇的渴望以及随之而来的所有残忍和邪恶。
+
+952
+00:41:27,433 --> 00:41:30,366
+承担你的悲剧和背叛的十字架。
+
+953
+00:41:30,966 --> 00:41:40,533
+接受它可怕的重量，把它扛在肩上，奋力向上，走向山上神的国度。
+
+954
+00:41:42,100 --> 00:41:44,866
+另一种选择是死亡和地狱。
+
+955
+00:41:46,166 --> 00:41:53,733
+第五部分：基督的死和复活的心理意义 复活节讯息二
+
+956
+00:41:55,700 --> 00:42:02,133
+这是我为《伦敦泰晤士报周刊》写的评论的一个略有扩展和修改的版本。
+
+957
+00:42:06,200 --> 00:42:08,800
+最初，只有国王是主权者。
+
+958
+00:42:10,400 --> 00:42:12,033
+然后贵族成为了主权者。
+
+959
+00:42:13,566 --> 00:42:16,466
+随后在希腊，所有男性都成为了主权者。
+
+960
+00:42:18,300 --> 00:42:31,200
+随后是基督教革命，每一个个体——男性、女性、乞丐、税吏、妓女和小偷——都成为了不可能地平等的主权者。
+
+961
+00:42:32,566 --> 00:42:42,900
+然后我们的文化和法律体系紧紧围绕着这个极不可能的个体主权叙事，使之成为它们的中心、不可动摇的支柱。
+
+962
+00:42:44,533 --> 00:42:48,133
+现在我们都以个体公民的身份彼此尊重，
+
+963
+00:42:48,200 --> 00:42:54,700
+我们是主权者，而没有意识到或注意到我们同时在接受这样一个命题，
+
+964
+00:42:54,733 --> 00:43:04,166
+我们每一个人都是逻各斯的神圣中心，是那永恒之言，将可居住的秩序带入存在的神圣中心，
+
+965
+00:43:04,166 --> 00:43:09,700
+通过自愿、真实地面对混沌和未知。
+
+966
+00:43:10,500 --> 00:43:17,100
+如果我们中的任何一个人没有以这种方式被对待，如果任何人，不论多么有权势，
+
+967
+00:43:17,200 --> 00:43:30,366
+对我们中的任何一个人，不论多么卑微，做出反应，好像我们的自由意志是虚幻的或我们选择生活结果的角色不存在，那么我们会感到被冒犯、愤怒、激动和受侮辱，这是理所当然的。
+
+968
+00:43:31,466 --> 00:43:40,000
+我们那些奇迹般功能正常的西方法律系统是建立在接受个体内在价值的基础上的，
+
+969
+00:43:40,066 --> 00:43:49,433
+这建立在这样的想法之上，即每个人都能够主动接受存在的负担、因此转变得更好，
+
+970
+00:43:49,500 --> 00:43:52,600
+并与其他人分享那转变的结果。
+
+971
+00:43:53,800 --> 00:43:59,500
+正是以这种方式，我们每个人都在将一切推离深渊，并使其更接近天堂。
+
+972
+00:44:01,066 --> 00:44:05,233
+这种显而易见的对必要性的高度重视，是否是一种错觉
+
+973
+00:44:07,333 --> 00:44:12,666
+可以肯定的是，它至少是功能性的，因此并不显然是错觉。
+
+974
+00:44:13,400 --> 00:44:19,333
+同样可以肯定的是，我们还没有概述出任何更可行的唯物主义替代方案。
+
+975
+00:44:21,066 --> 00:44:26,066
+你可能会问，人的内在价值的假设是否有理由？
+
+976
+00:44:27,200 --> 00:44:36,066
+我们面对尚未显现的未来并决定其在当下的实现性质的能力是否真实和有效？
+
+977
+00:44:37,100 --> 00:44:46,366
+尽管难以理解，我们是否真的是自由的、有意识的存在，我们的意识自由在构建宇宙中扮演角色，这是否真实？
+
+978
+00:44:47,866 --> 00:44:57,600
+或许只是，正如愤世嫉俗者和还原论者所持的观点，意识是物质过程的表象现象，不存在自由意志，
+
+979
+00:44:57,666 --> 00:45:06,366
+或至少没有任何真正重要的自由意志，没有伴随的道德责任或自由选择的命运。
+
+980
+00:45:06,466 --> 00:45:15,400
+然而，有一些有效的、并不那么容易被简单处理的理由，让我们避免过于仓促和随意地接受这些结论。
+
+981
+00:45:16,666 --> 00:45:23,800
+即使是我们中最伟大的人也不理解意识，一点也不，更不用说理解它在存在中扮演的角色了。
+
+982
+00:45:24,766 --> 00:45:28,500
+我们目前真的不知道，
+
+983
+00:45:29,100 --> 00:45:34,733
+大脑的物质基础是如何产生意识，更何况是自我意识
+
+984
+00:45:35,266 --> 00:45:37,900
+这似乎对宇宙的存在至关重要。
+
+985
+00:45:39,200 --> 00:45:43,466
+如果没有体验中心，就无法体验任何事物、
+
+986
+00:45:44,166 --> 00:45:49,100
+那么很难说那某事或任何事物以何种方式存在。
+
+987
+00:45:50,366 --> 00:46:01,900
+现实需要一个观察者，据我们所知，那个观察者就是意识，更确切地说是自我意识，我们的意识
+
+988
+00:46:02,600 --> 00:46:09,866
+我们的自我意识似乎面对未成形的未来，并将其投射成当前的具体现实
+
+989
+00:46:10,866 --> 00:46:18,500
+我们的意识作用于可能性，就像父亲的逻各斯作用于时间之初的前宇宙混沌一样
+
+990
+00:46:19,733 --> 00:46:26,633
+正是以这种方式，我们是按照上帝的形象被造出来的，我们都被要求将此当作事实对待
+
+991
+00:46:27,966 --> 00:46:33,700
+谁敢否认这样的要求是出于有效甚至可能是终极有效的理由提出的？
+
+992
+00:46:35,500 --> 00:46:37,333
+思考我们行为的证据
+
+993
+00:46:38,600 --> 00:46:41,766
+当你把自己当作重要的存在对待时，你就会茁壮成长
+
+994
+00:46:42,733 --> 00:46:51,266
+当你把周围的人当作有一丝神性的火花在其中时，你的关系就会稳定并同时成长。
+
+995
+00:46:52,700 --> 00:46:58,766
+当我们在每个人（从圣人到罪犯）的固有价值这一伟大理念的基础上建立社会时，
+
+996
+00:46:59,266 --> 00:47:10,433
+人就会变得自由且富有成效，能够过上有意义的生活，为他们有限的存在悲剧增添尊严。
+
+997
+00:47:11,666 --> 00:47:22,800
+当我们未能这样做时，我们的社会就会退化成唯一肯定存在的替代形式：专制和杀戮的部落结构。
+
+998
+00:47:23,933 --> 00:47:27,700
+这难道不都表明了某些深刻真理的存在吗？
+
+999
+00:47:29,133 --> 00:47:35,133
+显然，我们受到我们肉体存在方式的严重限制。
+
+1000
+00:47:37,033 --> 00:47:40,800
+我们以一种极其深刻的方式受制于决定性规则。
+
+1001
+00:47:42,200 --> 00:47:47,933
+我们没有能力在任何时间任何地点以任意方式塑造事物，
+
+1002
+00:47:48,600 --> 00:47:57,766
+但我们显然能够，并以一种令人震惊和引人注目的方式，按照我们的想象前进。
+
+1003
+00:47:59,000 --> 00:48:01,833
+这难道不表明我们的真实本性吗？
+
+1004
+00:48:03,166 --> 00:48:07,866
+这难道不是最初的存在真理吗？
+
+1005
+00:48:09,966 --> 00:48:14,666
+在西方，我们面临的危险是放弃我们的文化，
+
+1006
+00:48:14,866 --> 00:48:21,633
+让我们伟大的基础故事死在我们的好奇心、玩世不恭和粗心大意的祭坛上，
+
+1007
+00:48:21,766 --> 00:48:29,500
+堕落为虚无主义，或者以反动的方式回到古老而具有破坏性的右翼或左翼部落主义
+
+1008
+00:48:29,866 --> 00:48:30,766
+这并不重要。
+
+1009
+00:48:31,866 --> 00:48:38,366
+这两条可怕的道路将不会引导我们到达我们决定保持清醒和谨慎时想去的地方
+
+1010
+00:48:40,366 --> 00:48:43,600
+这种抛弃会致命地削弱我们的个人能力。
+
+1011
+00:48:44,266 --> 00:48:48,900
+它将使我们暴露于各种恶魔式的观念替代品的影响之下。
+
+1012
+00:48:49,900 --> 00:48:53,100
+这将使我们在内外敌人面前变得不堪一击。
+
+1013
+00:48:54,366 --> 00:48:59,133
+心理上是真实的，我们每个人都应该对自己的存在性悲剧敞开心扉。
+
+1014
+00:49:00,300 --> 00:49:09,033
+心理上是真实的，我们应该承担起自己悲剧性的负担和十字架，不断地死去，并持续更新我们的灵魂。
+
+1015
+00:49:10,233 --> 00:49:12,766
+这可能不仅仅是心理上的真实。
+
+1016
+00:49:13,466 --> 00:49:15,733
+这可能是一种宇宙意义上的真理。
+
+1017
+00:49:17,466 --> 00:49:20,233
+这就是复活节庆祝的死亡和复活。
+
+1018
+00:49:21,200 --> 00:49:25,366
+现在是我们觉醒的时候了，应该清醒地认识到这一点
+
+1019
+00:49:26,500 --> 00:49:34,366
+在任何有限的书面记录中都不可能完全概括基督死亡和重生的想法的全部意义。
+
+1020
+00:49:35,366 --> 00:49:40,233
+一个人的肉身复活是不可能实现的，再加上这一事件具有救世和宇宙意义的说法，
+
+1021
+00:49:40,266 --> 00:49:49,500
+根本无法在任何单一的解释框架内得到一劳永逸的理解。
+
+1022
+00:49:51,200 --> 00:49:58,633
+即使对于坚定的无神论者科学类型——想想理查德·道金斯和山姆·哈里斯——一个伟大的谜仍然存在。
+
+1023
+00:49:59,633 --> 00:50:05,133
+这个奇怪且完全不太可能的故事为何产生如此巨大的影响？
+
+1024
+00:50:06,066 --> 00:50:09,600
+因为每一个生命都是一个悲剧，都被恶意所玷污
+
+1025
+00:50:09,900 --> 00:50:15,533
+这是因为生命就是苦难，正如我们所有人都是，每个人都是脆弱和无知的，
+
+1026
+00:50:15,800 --> 00:50:23,633
+我们经常因为这一点而变得苦涩、怨恨和愤怒，并且更愿意在这种愤怒中让事情变得更糟
+
+1027
+00:50:24,966 --> 00:50:32,266
+但我们都钦佩勇气以及在苦难面前无论多么可怕都愿意坚守真理的意愿
+
+1028
+00:50:33,100 --> 00:50:39,600
+我们都通过我们对这种勇气和真理的钦佩，至少承认这是对生命灾难的解药
+
+1029
+00:50:40,900 --> 00:50:48,433
+我们都知道，如果没有这种勇气和真理，单纯的灾难很容易堕落成地狱。
+
+1030
+00:50:49,566 --> 00:50:53,900
+想象一下，接受脆弱和无知是成长的前提。
+
+1031
+00:50:55,166 --> 00:51:05,533
+想象一下，面对可怕的未知，面对令人麻痹的悲剧和恶意的表现，是催化智慧和成熟的必要条件
+
+1032
+00:51:07,266 --> 00:51:18,433
+最后，想象一下，人类意识在宇宙现实中扮演着某种核心且迄今理解不足的角色，至少作为必要的观察者。
+
+1033
+00:51:18,433 --> 00:51:20,900
+想象所有这些。
+
+1034
+00:51:20,933 --> 00:51:28,166
+然后问自己，当脆弱和无知被完全彻底接受时，当未知被坦然面对时，
+
+1035
+00:51:28,300 --> 00:51:38,366
+当意识被视为世界的中心时，人类成就的绝对假设极限是什么？
+
+1036
+00:51:38,366 --> 00:51:41,933
+这就是基督接受十字架的态度。
+
+1037
+00:51:41,966 --> 00:51:50,266
+这就是他甘愿被背叛，受制于最亲密的同伴和国家的邪恶，以及他拥抱破碎和死亡的态度。
+
+1038
+00:51:51,700 --> 00:51:58,633
+纯粹的真理是，即使一点点谦卑和勇气也能产生韧性、进步和成长。
+
+1039
+00:51:59,900 --> 00:52:08,066
+纯粹的真理是，怨恨地拒绝有限存在的代价会无休止且不必要地增加苦难。
+
+1040
+00:52:09,966 --> 00:52:13,900
+这些真理的最终表达，如果被推至其逻辑结论，是什么？
+
+1041
+00:52:14,800 --> 00:52:24,600
+如果我们培养出接受我们可怕命运的勇气，在真理中生活并艰难前行，谁能说我们是谁，谁能说我们可能实现的目标是什么
+
+1042
+00:52:25,833 --> 00:52:29,566
+这是基督教本质上提出的问题
+
+1043
+00:52:30,800 --> 00:52:37,733
+你是否愿意 把你所拥有的一切和你自己都置之度外，以便学会以最好的方式行事？
+
+1044
+00:52:38,766 --> 00:52:46,100
+你是否愿意 让你可能成为的人持续并痛苦地战胜你目前的自我？
+
+1045
+00:52:46,266 --> 00:52:49,100
+用最古老的宗教语言来说
+
+1046
+00:52:50,300 --> 00:52:56,066
+你是否愿意 将你最爱的东西献给上帝，以发现你是谁，你能成为什么？
+
+1047
+00:52:58,466 --> 00:53:01,566
+从最终分析来看，我们既不是结构也不是混沌
+
+1048
+00:53:02,933 --> 00:53:08,400
+我们每个人最好被理解为一个过程，一个活生生的动态过程，
+
+1049
+00:53:09,000 --> 00:53:16,233
+一个将我们的已知、我们已知的未知转化为可能成为的东西的过程。
+
+1050
+00:53:18,100 --> 00:53:24,866
+这就是我们在生命中不断向前迈进的过程，而这一过程又始终不可避免地依赖于我们的生命。
+
+1051
+00:53:26,166 --> 00:53:33,533
+理解这一点，并欢迎它，这是自愿接受永恒转变的必要性
+
+1052
+00:53:34,033 --> 00:53:40,300
+作为对虚无主义绝望或绝望且致命的国家认同的替代选择。
+
+1053
+00:53:41,933 --> 00:53:45,633
+这是在基督教圣餐仪式中实践的想法
+
+1054
+00:53:46,866 --> 00:53:57,033
+融入基督的身体是参与者的象征性转变，不是成为一系列事实的信徒，尽管这些事实可能看起来很虔诚，
+
+1055
+00:53:57,033 --> 00:53:59,133
+而是 成为基督的积极模仿者
+
+1056
+00:54:00,000 --> 00:54:05,933
+成为愿意经历任何必要的死亡 以带来更好的存在状态的人
+
+1057
+00:54:06,866 --> 00:54:11,933
+成为愿意拥抱自己与生活的悲剧和恶意的进行的对抗的人
+
+1058
+00:54:12,700 --> 00:54:21,266
+从拥抱的过程中学习，并因此更接近永远后退的上帝之城
+
+1059
+00:54:22,233 --> 00:54:26,100
+死而复生的神的想法是人类最古老的想法之一
+
+1060
+00:54:26,166 --> 00:54:29,800
+广泛且形式异常多样
+
+1061
+00:54:30,833 --> 00:54:39,066
+它是构成最古老的萨满仪式基础设定的一部分，这些仪式可能从石器时代本身就开始了
+
+1062
+00:54:40,233 --> 00:54:45,066
+它在古代美索不达米亚、埃及和希腊的基础故事中有所呼应
+
+1063
+00:54:45,800 --> 00:54:57,100
+它以寓言形式出现——例如，凤凰涅槃，自焚后恢复年轻形态，并从灰烬中凯旋而起
+
+1064
+00:54:58,433 --> 00:55:06,700
+它在流行文化的陈词滥调中也反复出现，甚至让那些完全没有宗教教育的人也受到了影响
+
+1065
+00:55:07,800 --> 00:55:18,833
+漫威的标志性人物钢铁侠在拯救世界免受恶魔般的蛇形异界力量的威胁后，像伊卡洛斯一样从天而降，然后从死里复活
+
+1066
+00:55:19,700 --> 00:55:27,500
+少年巫师哈利·波特最终必须死去并重生以击败伏地魔，一个伪装得很好的撒旦。
+
+1067
+00:55:28,800 --> 00:55:37,766
+所有这些主题上的创造性变体都在讲述一个深刻的、根深蒂固的、永恒重新出现的心理现实。
+
+1068
+00:55:39,566 --> 00:55:43,900
+我们每天在生活中都能看到这一点，我们之所以知道，是因为我们看到了。
+
+1069
+00:55:44,933 --> 00:55:51,400
+一个小失败，一个小失望，挫折或幻灭在我们内心引发一次小死亡，
+
+1070
+00:55:51,900 --> 00:55:56,300
+一次小的下降到冥界，一次小的重生需求。
+
+1071
+00:55:57,400 --> 00:56:02,433
+一次大的失败产生相应大的灾难和转变。
+
+1072
+00:56:04,100 --> 00:56:07,366
+当你因为面临离婚、
+
+1073
+00:56:07,800 --> 00:56:12,166
+或珍视的抱负落空，或亲近的人生病或去世、
+
+1074
+00:56:12,666 --> 00:56:21,666
+你正走在永恒的叙述：稳定—危机—死亡—转变—重生的路径上
+
+1075
+00:56:22,733 --> 00:56:24,133
+这就是我们生活的故事
+
+1076
+00:56:25,233 --> 00:56:27,566
+这就是堕落和重建天堂的过程
+
+1077
+00:56:29,200 --> 00:56:37,800
+救世主是死而复生的形象，这一观点以戏剧或叙事的形式表现了一个残酷的事实，
+
+1078
+00:56:38,466 --> 00:56:46,300
+即心理进步乃至学习本身都需要不断的死亡和重生，程度有轻有重。
+
+1079
+00:56:47,566 --> 00:56:53,400
+如果你正处于一场严重的人际冲突或争论中，或面临生活中的真正危机，
+
+1080
+00:56:53,900 --> 00:57:01,400
+面对你的新信息无法在不经历你先前观念的极其痛苦消亡的情况下被吸收，
+
+1081
+00:57:02,000 --> 00:57:07,033
+以及所有必然涉及的那种痛苦理解的阻力。
+
+1082
+00:57:08,500 --> 00:57:17,100
+这是著名发展心理学家让·皮亚杰所描述的同化与顺应过程的一部分。
+
+1083
+00:57:18,166 --> 00:57:30,033
+我们每个人在面对这个世界时都有一套前概念，其功能是同时限定我们的感知、思想和行动，并使之实用化
+
+1084
+00:57:31,266 --> 00:57:35,000
+如果没有这种先验，我们根本无法功能。
+
+1085
+00:57:36,300 --> 00:57:39,200
+尽管如此，这仍然是不够的。
+
+1086
+00:57:39,200 --> 00:57:46,366
+没有人能知道足够多，而我们每个人尚未知晓的东西在某一危机时刻将变得至关重要。
+
+1087
+00:57:47,333 --> 00:57:56,000
+当一些新的、多头蛇一样的事物出现并撼动我们的核心时，我们内部那些旧的、过时的东西必须自我焚毁并死去。
+
+1088
+00:57:57,133 --> 00:58:06,966
+学到一些深刻的东西很少不伴随着梦想破灭带来的可怕痛苦以及不确定性和怀疑引发的灵魂震颤的恐怖。
+
+1089
+00:58:09,233 --> 00:58:15,100
+这意味着我们都不应该在最根本的意义上认同我们目前所知道和假设的东西。
+
+1090
+00:58:16,133 --> 00:58:22,000
+这也意味着我们都应该理解这一点，以免对我们是谁感到困惑。
+
+1091
+00:58:23,333 --> 00:58:34,766
+这意味着仅仅保守，或与过去认同，或变得意识形态化或教条化，或固执地停滞不变是不够的。
+
+1092
+00:58:35,900 --> 00:58:45,433
+环境在我们周围迅速变化，我们都必须像艾丽丝的红皇后所知那样快速奔跑，只为保持原地不动。
+
+1093
+00:58:46,866 --> 00:58:56,066
+完全抛弃传统和结构，不负责任地一头冲向反常和革命，这也是不够的。
+
+1094
+00:58:57,466 --> 00:59:05,300
+结构虽不足够，但仍是必要的，尊重和维护它的道德要求仍然极为重要。
+
+1095
+00:59:06,500 --> 00:59:11,833
+我们每个人也应避免陷入诱惑，
+
+1096
+00:59:11,966 --> 00:59:21,633
+诱惑是指一个由与真正未知的可怕对抗引发的混乱、压抑、焦虑和引发虚无主义的状态。
+
+1097
+00:59:22,400 --> 00:59:27,233
+即使我们的生活中的可怕事件将我们推入地狱，我们也不能
+
+1098
+00:59:27,433 --> 00:59:34,833
+把自己视为那个黑暗和恐怖之地的永久居民，以免我们失去希望、绝望并寻求复仇。
+
+1099
+00:59:36,166 --> 00:59:44,300
+要在心理上取得进展，你必须在面对连续障碍时一次又一次地放手、牺牲。
+
+1100
+00:59:44,666 --> 00:59:53,900
+你必须放弃那些阻碍你进步的事物，往往还包括那些你可能非常亲近的人。
+
+1101
+00:59:55,200 --> 01:00:03,900
+当你错了，当你偏离了目标，当你犯罪时——因为这就是罪的意义，你必须让你那错误的、目标不正确的部分死去。
+
+1102
+01:00:05,600 --> 01:00:09,933
+你必须让在你内部显现的新灵魂复苏
+
+1103
+01:00:10,966 --> 01:00:19,300
+这一新的灵魂，就是你在生活中所犯的任何错误所包含的可怕信息，
+
+1104
+01:00:19,800 --> 01:00:23,766
+以及你最初用来构架情况的现已转变的结构
+
+1105
+01:00:24,866 --> 01:00:26,000
+这一新的灵魂
+
+1106
+01:00:26,633 --> 01:00:35,966
+也是一种显现，换句话说，是你内在的潜能，而这些潜能还没有被你之前的生活苦难所激发出来。
+
+1107
+01:00:38,300 --> 01:00:45,533
+基督象征着生命的道路和真理，若不借着他，没有人能到父那里去
+
+1108
+01:00:46,733 --> 01:00:56,500
+拥抱自愿死亡和重生的过程，这与心理发展相同，意味着决心向前向上迈进，尽管生活充满恐怖。
+
+1109
+01:00:58,000 --> 01:01:07,433
+从象征意义上讲，这也意味着复生已死的父，或将他从永恒的停滞和恶化的地狱中解救出来。
+
+1110
+01:01:08,900 --> 01:01:16,666
+直接面对未知不仅可以更新个体，还可以催化文化复兴。
+
+1111
+01:01:17,966 --> 01:01:23,500
+这是基督教仪式和信仰的本质，作为一个心理原则表达出来。
+
+1112
+01:01:24,533 --> 01:01:29,666
+我们必须认同自己的那一部分，它总是在超越我们目前的认知，
+
+1113
+01:01:30,000 --> 01:01:35,500
+并有信心放弃旧的确定性，以便新的存在模式可以到位。
+
+1114
+01:01:38,033 --> 01:01:45,266
+通过认同复活节所象征的过程，我们每个人都得到救赎，我们的文化得到振兴和拯救。
+
+1115
+01:01:46,000 --> 01:01:52,933
+我们都是法利赛人和律师的奴隶，是那些以牺牲精神为代价将教条凌驾于精神之上的人的奴隶
+
+1116
+01:01:53,433 --> 01:01:57,933
+我们都可能被自己和周围的人背叛。
+
+1117
+01:01:58,700 --> 01:02:02,166
+我们都以最痛苦的方式面临灭绝。
+
+1118
+01:02:03,433 --> 01:02:09,366
+但在我们内部有一种精神，有足够的勇气直面存在的真正恐怖，
+
+1119
+01:02:10,233 --> 01:02:18,200
+允许这种对抗引发的转变甚至死亡发生，并跃然重生。
+
+1120
+01:02:19,766 --> 01:02:23,733
+生命如何在死亡和地狱面前存续？
+
+1121
+01:02:25,366 --> 01:02:27,666
+用开放的双臂拥抱命运。
+
+1122
+01:02:29,100 --> 01:02:31,566
+我们都是堕落的生物，我们都知道这一点。
+
+1123
+01:02:32,300 --> 01:02:37,000
+我们都与应当的状态脱节，被抛入死亡和绝望的世界。
+
+1124
+01:02:38,133 --> 01:02:40,400
+我们都残酷地被钉在十字架上。
+
+1125
+01:02:40,433 --> 01:02:42,133
+这就是生命本身的现实。
+
+1126
+01:02:43,533 --> 01:02:50,866
+去反抗那命运只会使其更糟，把本可以只是悲剧的事变得无异于地狱。
+
+1127
+01:02:52,133 --> 01:03:01,866
+去在亲人临终之际激烈争吵和绝望，比如这个例子，是把死亡和失落的痛苦变为更加不堪的状况。
+
+1128
+01:03:02,966 --> 01:03:05,300
+去接受又如何？
+
+1129
+01:03:05,300 --> 01:03:07,466
+这是否同时意味着超越？
+
+1130
+01:03:08,533 --> 01:03:13,866
+这当然需要勇气和真理，甚至可能是爱，这三种力量是值得赞叹的。
+
+1131
+01:03:15,400 --> 01:03:18,733
+它们是否比绝望和复仇的欲望更有力量？
+
+1132
+01:03:19,866 --> 01:03:23,200
+这是基督教的建议和命令
+
+1133
+01:03:24,433 --> 01:03:33,100
+要实践这样一个命题：勇气、真理和爱比死亡和绝望更有力量，并接受由此带来的后果
+
+1134
+01:03:34,233 --> 01:03:37,233
+这就是复活节以及基督的死与复活
+
+1135
+01:03:38,866 --> 01:03:42,966
+我们如果忘记或对这些事情视而不见，将面临巨大的危险
